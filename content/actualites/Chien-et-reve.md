@@ -18,7 +18,7 @@ Les études scientifiques sont formelles. Les chiens rêvent comme les humains. 
 
 <p align="center"><img src="/images/actualites/reve-chien.gif"></p>
 
-##Le rêve du chien ##
+## Le rêve du chien ##
 Les chiens rêvent de ce <b>qu'ils ont vécu dans leur journée</b> . C'est ce qu'explique <a href="https://www.psychologytoday.com/blog/canine-corner/201010/do-dogs-dream"target=_"blank"> Stanley Coren </a> neurologue spécialiste du comportement canin.
 
 Ainsi notre quadrupède peut-il aussi bien rêver à un événement du jour qu'à un événement du passé. Il peut revivre sa chasse, son combat avec un autre congénère, des situations agréables ou stressantes. Dans tous les cas les événements de son quotidien font partie de leurs rêves ; <b>Le doberman va reproduire les attaques contre un voleur, le chien de chasse va tuer un oiseau dans ses rêves</b>....
