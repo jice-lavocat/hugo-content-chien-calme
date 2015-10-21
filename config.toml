@@ -3,43 +3,21 @@ baseUrl = "http://www.chien-calme.com/"
 languageCode = "fr-fr"
 title = "Chien Calme"
 
-theme = "chien-calme"
-description = "tooto"
+theme = "younicorns"
+description = "Des conseils pour avoir un chien calme"
 
 [params]
-    title="Des conseils pour maintenir l'�quilibre et le bien-�tre de son chien "
-    sidebartitle = "My Site"
-    sidebartagline = "Is super awesome"
-	author = "Marie-George Clouet"
+    title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
+	facebookPage = "https://www.facebook.com/chiencalme"
+    twitterPage = "https://twitter.com/ChienCalme"
+    twitterHandle = "ChienCalme"
+    googlePage = "https://plus.google.com/u/0/117372126012522851863/posts"
+    descriptionFooter = "Chien Calme est un site de conseils pour apprendre à accepter les petites bêtises de votre chien, et lui enseigner à les éviter avec des manières douces et naturelles."
+    copyright = "Chien-Calme.com"
+    address = "39 rue du Caire, 75002 Paris, FRANCE"
+    phone = "+336 46 37 49 26"
+    contactEmail = "contact@chien-calme.com"
 
-[Taxonomies]
-    tag= "tags"
-    category= "categories"
-    series= "series"
-
-###############
-# Menu	
-###############
-[[menu.main]]
-    name = "Produits"
-    url = "/pages/produits"
-	weight = "1"
-[[menu.main]]
-    name = "Massage"
-    url = "/pages/massage"
-	weight = "2"
-[[menu.main]]
-    name = "Acuponcture"
-    url = "/pages/acuponcture"
-	weight = "3"
-[[menu.main]]
-    name = "Ost�opathie"
-    url = "/pages/osteopathie"
-	weight = "4"
-[[menu.main]]
-    name = "Hypnose"
-    url = "/pages/hypnose"
-	weight = "5"
 
 ###############
 # Social

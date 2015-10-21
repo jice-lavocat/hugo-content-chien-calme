@@ -1,6 +1,7 @@
 ---
 title: "Massage pour chien : à vous de jouer!"
-layout: post
+
+author: "marie"
 tags: ['massage canin','massage chien']
 date: 2015-01-03
 categories: [massage]

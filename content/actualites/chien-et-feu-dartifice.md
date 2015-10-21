@@ -1,6 +1,7 @@
 ---
 title: "Feu d'artifice : comment préparer votre chien !"
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-06-08
 categories: [massage]

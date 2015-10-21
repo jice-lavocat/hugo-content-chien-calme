@@ -1,6 +1,7 @@
 ---
 title: "La randonnée c'est bien, mais en évaluer les dangers, c'est mieux."
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-01-20
 categories: [produits]

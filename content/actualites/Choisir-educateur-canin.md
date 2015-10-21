@@ -1,6 +1,7 @@
 ---
 title: "Comment choisir son éducateur canin ? "
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-04-05
 categories: [ anxiété départ]

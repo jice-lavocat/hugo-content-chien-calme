@@ -1,6 +1,7 @@
 ---
 title: "Une solution pour lutter contre l'anxiété de séparation : la cage ?"
-layout: post
+
+author: "marie"
 tags: ['Stress']
 categories: [produits, massage]
 date: 2015-06-25

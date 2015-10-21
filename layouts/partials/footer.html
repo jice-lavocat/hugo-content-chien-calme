@@ -1,0 +1,80 @@
+<footer>
+    <div class="container">
+        <div class="row footer-top">
+            <div class="col-sm-4 footer-box">
+                <h4>A propos</h4>
+
+                <div class="footer-box-text">
+                    {{ if .Site.Params.descriptionFooter }}
+                    <p>{{.Site.Params.descriptionFooter}}</p>
+                    {{ else }}
+                    <p>&nbsp;</p>
+                    {{ end }}
+
+                    <p><a  href="/mentions-legales/">Mentions légales</a></p>
+                    <p><a  href="/auteurs/">La rédaction</a></p>
+                    <p><a  href="/partenaires/">Partenaires</a></p>
+                </div>
+            </div>
+
+
+
+            <div class="col-sm-4 footer-box col-sm-offset-4">
+                <h4>Contact</h4>
+
+                <div class="footer-box-text">
+                    {{ if .Site.Params.address }}<p><span class="gray-text">Adresse :</span> {{.Site.Params.address}}</p>{{ end }}
+
+                    {{ if .Site.Params.phone }}<p><span class="gray-text">Phone :</span> {{.Site.Params.phone}}</p>{{ end }}
+
+                    {{if .Site.Params.twitterHandle}}
+                    <p><span class="gray-text">Twitter :</span> <a href="https://www.twitter.com/{{.Site.Params.twitterHandle}}" target="_blank">@{{.Site.Params.twitterHandle}}</a></p>{{ end }}
+
+                    {{if .Site.Params.contactEmail}}<p><span class="gray-text">Email :</span> <a href=
+                    "mailto:{{.Site.Params.contactEmail}}">{{.Site.Params.contactEmail}}</a></p>{{ end }}
+                </div>
+            </div>
+        </div>
+
+        <div class="row footer-bottom">
+            <div class="col-sm-7 footer-copyright">
+                {{ if .Site.Params.copyright }}
+                <p>© <a href=
+                "{{.Site.BaseURL}}">{{.Site.Params.copyright}}</a> - 2015</p>
+                {{ else }}
+                <p>© <a href=
+                "{{.Site.BaseURL}}">{{.Site.Title}}</a> - 2015</p>
+                {{ end }}
+            </div>
+
+            <div class="col-sm-5">
+                <ul class="list-inline footer-social">
+                    {{ if .Site.Params.facebookPage }}
+                    <li>
+                        <a class="facebook fa fa-facebook" href=
+                        "{{.Site.Params.facebookPage}}" style=
+                        "font-style: italic" target="_blank"></a>
+                    </li>
+                    {{ end}}
+                    {{ if .Site.Params.twitterPage }}
+                    <li>
+                        <a class="twitter fa fa-twitter" href=
+                        "{{.Site.Params.twitterPage}}" style=
+                        "font-style: italic" target="_blank"></a>
+                    </li>
+                    {{ end}}
+
+                    {{ if .Site.Params.googlePage }}
+                    <li>
+                        <a class="google-plus fa fa-google-plus" href=
+                        "{{.Site.Params.googlePage}}" style=
+                        "font-style: italic" target="_blank"></a>
+                    </li>
+                    {{ end}}
+
+                   
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

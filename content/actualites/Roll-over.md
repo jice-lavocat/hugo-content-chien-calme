@@ -1,6 +1,7 @@
 ---
 title: "Chien sur le dos : soumission ou tactique de combat ? Devez-vous réagir ?"
-layout: post
+
+author: "marie"
 tags: ['']
 categories: ["produits"]
 author: Marie-George Clouet

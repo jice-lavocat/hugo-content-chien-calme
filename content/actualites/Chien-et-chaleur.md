@@ -1,6 +1,7 @@
 ---
 title: "Protégez votre chien en été contre la déshydratation et le cancer  !"
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-05-26
 categories: [produits]

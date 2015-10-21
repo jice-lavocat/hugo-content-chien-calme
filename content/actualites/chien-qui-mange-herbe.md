@@ -1,6 +1,7 @@
 ---
 title: "Pourquoi votre chien mange de l'herbe"
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-03-31
 categories: [ostéopathie]

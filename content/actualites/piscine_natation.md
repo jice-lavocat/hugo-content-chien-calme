@@ -1,5 +1,6 @@
 ---
 title: "Comme un toutou dans l'eau : la natation contre le stress"
+author: "marie"
 tags: ['sport', 'relaxation', 'detente']
 author: Marie-George Clouet
 date: 2014-11-06

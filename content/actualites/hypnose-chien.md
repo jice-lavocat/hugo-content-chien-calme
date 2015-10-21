@@ -1,6 +1,7 @@
 ---
 title: "A quoi sert l'hypnose canine?"
-layout: post
+
+author: "marie"
 tags: ['aboiement', 'ostéopathie']
 categories: ["hypnose"]
 author: Marie-George Clouet

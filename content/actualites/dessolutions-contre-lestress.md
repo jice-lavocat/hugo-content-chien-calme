@@ -1,6 +1,7 @@
 ---
 title: "Du violon classique, à l'aromathérapie et le sport : stop à l'anxiété canine !"
-layout: post
+
+author: "marie"
 tags: ['aboiement', 'ostéopathie']
 categories: ["produits, massage"]
 author: Marie-George Clouet

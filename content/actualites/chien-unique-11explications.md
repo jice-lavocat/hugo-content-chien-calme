@@ -1,6 +1,7 @@
 ---
 title: "Votre chien est unique, vous savez pourquoi ? "
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-04-13
 categories: ["massage"]

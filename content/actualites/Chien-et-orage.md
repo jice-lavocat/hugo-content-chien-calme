@@ -1,6 +1,7 @@
 ---
 title: "Comment réduire le stress de son chien pendant l'orage !"
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-04-11
 categories: [produits]

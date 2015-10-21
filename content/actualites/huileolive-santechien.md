@@ -1,6 +1,7 @@
 ---
 title: "8 bonnes raisons de donner de l'huile d'olive à votre chien !"
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-02-23
 categories: [produits]

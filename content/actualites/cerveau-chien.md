@@ -1,6 +1,7 @@
 ---
 title: "Voulez-vous savoir Ce que nos chiens pensent de nous ?"
-layout: post
+
+author: "marie"
 tags: ['Stress']
 categories: [osteopathie, yoga, hypnose]
 date: 2014-11-25

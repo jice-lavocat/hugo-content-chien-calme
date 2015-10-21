@@ -1,6 +1,7 @@
 ---
 title: "Vermifuger son chien : une nécessité en matière de santé pour lui et pour les autres."
-layout: post
+
+author: "marie"
 tags: ['']
 date: 2015-01-07
 categories: [massage canin]

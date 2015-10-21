@@ -1,6 +1,7 @@
 ---
 title: "Votre chien grogne : que faire ? "
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-05-11
 categories: [produits]

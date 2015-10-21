@@ -1,6 +1,7 @@
 ---
 title: " Ostéopathe pour chiens : quand consulter ? "
-layout: post
+
+author: "marie"
 tags: ['Stress']
 categories: [osteopathie]
 date: 2015-03-12

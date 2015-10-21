@@ -1,6 +1,7 @@
 ---
 title: " Éducation canine : ne donnez pas de fausses infos à votre chien !  "
-layout: post
+
+author: "marie"
 tags: ['anxiété' ]
 date: 2015-03-10
 categories: ["massage"]

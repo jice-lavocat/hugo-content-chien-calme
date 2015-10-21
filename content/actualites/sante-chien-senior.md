@@ -1,10 +1,11 @@
 ---
 title: "Santé du chien senior: 6 conseils pour l'aider à bien vieillir "
-layout: post
+
+author: "marie"
 tags: ['Stress']
 categories: [massage, produit]
 date: 2015-08-25
-thumbnail: "/images/actualites/Tableau-des-ages-Solutions-Canines.jpg"
+thumbnail: "/images/actualites/Tableau-des-âges-Solutions-Canines.jpg"
 description: "Pour les humains comme pour les chiens, l'âge n'est qu'un chiffre. On voit des hommes de 70 ans sportifs et en forme. On voit aussi des chiens de 9 ans dynamiques et en pleine possession de leurs moyens.  "
 
 ---

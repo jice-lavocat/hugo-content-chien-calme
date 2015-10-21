@@ -1,6 +1,7 @@
 ---
 title: "DogTv : la TV des chiens calmes ! "
-layout: post
+
+author: "marie"
 tags: ['Stress']
 categories: [produits hypnose]
 date: 2015-01-30

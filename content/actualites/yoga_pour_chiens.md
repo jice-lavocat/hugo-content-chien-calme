@@ -1,6 +1,7 @@
 ---
 title: "Doga : vous connaissez ? Une excellente thérapie à pratiquer à deux"
-layout: post
+
+author: "marie"
 tags: ['doga','yoga canin']
 date: 2014-11-15
 categories: [osteopathie]
