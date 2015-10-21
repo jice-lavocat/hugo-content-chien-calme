@@ -1,3 +1,6 @@
 [submodule "themes/chien-calme"]
 	path = themes/chien-calme
 	url = git@github.com:tanzaho/hugo-theme-chien-calme.git
+[submodule "themes/younicorns"]
+	path = themes/younicorns
+	url = git@github.com:tanzaho/hugo-theme-younicorns.git
