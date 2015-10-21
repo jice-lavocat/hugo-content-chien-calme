@@ -9,4 +9,4 @@ google: http://plus.google.com/+mariegeorgeclouet
 description : "Marie écrit sur les animaux"
 ---
 
-Marie est toujours partante pour écrire sur les animaux
+Marie est toujours partante pour écrire sur les animaux.
