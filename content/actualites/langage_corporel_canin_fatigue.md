@@ -67,4 +67,3 @@ Regardez la video suivante et faites le test de fin pour voir si vous avez bien 
 
 
 En fait, la compréhension des signaux canins se fait assez lentement et il faut rester très vigilent sur l'observation de toutes les manifestations gestuelles ou sonores de votre compagnon ; elles sont toutes signifiantes  et exigent des réponses ciblées du propriétaire.
-<p align="center"> <iframe src="//giphy.com/embed/aRogIA6bvWFO?html5=true" width="480" height="361" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
