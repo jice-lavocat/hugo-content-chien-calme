@@ -13,7 +13,7 @@ summary: "Face à l’échec de la médecine classique ( administration de stér
             <div class="col-lg-5">
                 <img class="img-responsive" src="/images/accueilzenchien-4.jpg" style="height:250px; margin: 0 auto;" />
                 <div class="intro-text">
-                    <span class="name">Bienvenue sur le site du chien heureux ! La vie doit être belle pour eux: aidons-les à supprimer leur stress !</span>
+                    <span class="name">Bienvenue sur le site du chien heureux ! La vie doit être belle pour eux: aidons-les à supprimer leur stress. </span>
                 </div>
             </div>
             <div class="col-lg-7">
@@ -30,8 +30,8 @@ summary: "Face à l’échec de la médecine classique ( administration de stér
 <!-- Example row of columns -->
 <div class="row macolumn" class="text-center">
 	<div class="col-lg-12">
-		<h2>Un chien serein en 5 étapes</h2>
-        <p>Tout comme l'humain en effet, son meilleur ami à 4 pattes peut présenter des comportements très lourds à gérer : être capable d'avoir un chien calme ou de le calmer en cas de situations perçues comme agressives est donc l'objet de ces pages. Comment aider notre animal à trouver ou retrouver une attitude apaisée et détendue ? Cinq grands types de réponses au stress canin existent, à tester selon l'origine des troubles, leur importance et leur recurrence.</p>
+		<h2>5 solutions pour un chien serein</h2>
+        <p>Tout comme l'humain en effet, son meilleur ami à 4 pattes peut présenter des comportements très lourds à gérer : être capable d'avoir un chien calme ou de le calmer en cas de situations perçues comme agressives est donc l'objet de ces pages. Comment aider notre animal à trouver ou retrouver une attitude apaisée et détendue ? <b>Cinq grands types de réponses au stress canin</b> existent, à tester selon l'origine des troubles, leur importance et leur recurrence.</p>
 	</div>
 	<div class="col-lg-6">
         <h3>Produits aux phéromones</h3>
