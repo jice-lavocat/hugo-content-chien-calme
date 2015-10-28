@@ -17,6 +17,7 @@ description = "Des conseils pour avoir un chien calme"
     address = "39 rue du Caire, 75002 Paris, FRANCE"
     phone = "+336 46 37 49 26"
     contactEmail = "contact@chien-calme.com"
+    CommentsFacebook = true
 
 
 ###############
