@@ -4,7 +4,7 @@ title: "Les 32 meilleurs costumes de chiens pour Halloween !"
 author: "jice"
 tags: ['Fun', 'Halloween', 'Costumes']
 date: 2015-10-28
-thumbnail: "/images/actualites/costumes_halloween/zombiepet_thumb.jpg"
+thumbnail: "/images/actualites/costumes_halloween/diablo_chien_thumb.jpg"
 teaserImage: "/images/actualites/costumes_halloween/dark_vador.jpg"
 description: "Une liste de 32 idées de costumes à faire soi même pour son chien..."
 ---
