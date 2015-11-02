@@ -11,7 +11,7 @@ description: "Anthropomorphisme ou non quand nous pretondons que notre chien sou
 summary: " Tout le monde craque devant l’adorable frimousse d'un chiot ou d'un jeune chien. Mais les adoptants d'animaux seniors sont beaucoup plus rares, avançant souvent des raisons « discutables » à leur refus. Oui ces animaux ne sont pas destinés à vous accompagner longtemps mais ne croyez-vous pas qu'ils préfèrent finir leurs jours dans votre foyer que seuls derrière les barreaux d'un refuge ? Ne pensez pas à vous et à votre souffrance plus ou moins proche liée à la disparition de votre compagnon.. "
 ---
 Tout le monde craque devant l’adorable frimousse d'un chiot ou d'un jeune chien. Mais les adoptants d'animaux seniors sont beaucoup plus rares, avançant souvent des raisons « discutables » à leur refus. Oui ces animaux ne sont pas destinés à vous accompagner longtemps mais ne <b>croyez-vous pas qu'ils préfèrent finir leurs jours dans votre foyer que seuls derrière les barreaux d'un refuge</b> ? Ne pensez pas à vous et à votre souffrance plus ou moins proche liée à la disparition de votre compagnon.
-Voici des <a href=""http:www.hngn.com/articles/145913/20151101/adopt-senior-pet-during-november-love-age-limit-pictures-adoptables.htm/" target="_blank"> arguments </a> qui devraient vous convaincre de choisir un vieux chien la prochaine fois que vous poussez la porte d'un refuge.
+Voici des <a href="http:www.hngn.com/articles/145913/20151101/adopt-senior-pet-during-november-love-age-limit-pictures-adoptables.htm/" target="_blank"> arguments </a> qui devraient vous convaincre de choisir un vieux chien la prochaine fois que vous poussez la porte d'un refuge.
 
 <p align="center"><img src= "/images/actualites/chien-age-1.gif"></p>
 
