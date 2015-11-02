@@ -26,7 +26,7 @@ Donc vous n'aurez pas de surprise avec votre senior. Vous adoptez un «  produi
 Ce critère rejoint le précédent. Vous voulez un chien à poils courts ? Longs ? Aux yeux bleus ? Moyen ? Protecteur ? Il vous suffit de rechercher ces caractéristiques chez des chiens plus vieux. <b>Si vous voulez aussi être sûr que votre animal aime les chats, est doux avec les enfants, choisissez un senior</b> !!!
 
 ## Votre senior a de bonnes manières ##
-Il est éduqué ! Pas de soucis à vous faire, pas de dressage, de cours d'éducation, de remplacement intégral de votre garde robe ingérée par votre bébé husky, labrador...<b>Le chien plus âgé connaît l'humain</b>, le pratique depuis des années, le comprend et le supporte aussi:) il ne braille pas à tort et à travers pour avoir un jouet, ne fait pas pipi dans la maison...En quelques heures, il aura intégré les règles de votre maison, leur nouvelle demeure 
+Il est éduqué ! Pas de soucis à vous faire, pas de dressage, de cours d'éducation, de remplacement intégral de votre garde robe ingérée par votre bébé husky, labrador...<b>Le chien plus âgé connaît l'humain</b>, le pratique depuis des années, le comprend et le supporte aussi:) Il ne braille pas à tort et à travers pour avoir un jouet, ne fait pas pipi dans la maison...En quelques heures, il aura intégré les règles de votre maison, sa nouvelle demeure 
 
 
 
