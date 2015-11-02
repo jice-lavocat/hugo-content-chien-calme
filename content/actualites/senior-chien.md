@@ -6,7 +6,7 @@ tags: ['Stress']
 categories: [osteopathie, yoga, anxiété]
 date: 2015-11-02
 thumbnail: /images/actualites/senior-dog-a-adopter.jpg
-description: "Anthropomorphisme ou non quand nous pretondons que notre chien sourit ? Voulez vous vraiment savoir ce que nos compagnons ont ans la tete ?"
+description: "Craquez vous aussi pour un chien senior. Il a tant d'amour à vous donner"
 
 summary: " Tout le monde craque devant l’adorable frimousse d'un chiot ou d'un jeune chien. Mais les adoptants d'animaux seniors sont beaucoup plus rares, avançant souvent des raisons « discutables » à leur refus. Oui ces animaux ne sont pas destinés à vous accompagner longtemps mais ne croyez-vous pas qu'ils préfèrent finir leurs jours dans votre foyer que seuls derrière les barreaux d'un refuge ? Ne pensez pas à vous et à votre souffrance plus ou moins proche liée à la disparition de votre compagnon.. "
 ---
