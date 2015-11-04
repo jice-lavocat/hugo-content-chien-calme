@@ -52,4 +52,4 @@ Leur rôle est d'apprendre <b>comment former leur compagnon</b>.
 Ce processus peut prendre du temps et il faut l'affiner sans cesse, voire le reprendre. Il faut maîtriser plusieurs étapes et un bon éducateur saura aussi vous aider à les gérer. <b>En clair, le bon éducateur est celui qui sait comment éduquer un chien et enseigner à son maître. Il n'est jamais violent et est apprécié des animaux</b>. Si votre chien a peur du dresseur, se braque, c'est qu'il y a un vrai problème.
 
 En conclusion, <b>je ne sais toujours pas pourquoi mon jeune chien s'est braqué il y a quelques jours...Je n'ai pas réussi à en discuter avec lui:) Si vous avez des avis, ils sont vraiment bienvenus.</b>
-<p align="center"><img src= "/images/actualites/interrogation.png"</p>
+<p align="center"><img src= "/images/actualites/desespoir.gif"</p>
