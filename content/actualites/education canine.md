@@ -27,6 +27,8 @@ En rentrant sur la surface, il était déjà <b>suspendu joyeusement à sa laiss
 <p align="center"><img src= "/images/actualites/csau1.JPG"</p>
 Crédit photo <a href="https://www.youtube.com/user/beaweimar" target=_blank> beaweimear </a>
 
+
+
 <b>Ca c'est l'attitude du chien qui RATE son CSAU! Vous voyez la différence?</b>
 
 
