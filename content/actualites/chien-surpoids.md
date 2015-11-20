@@ -43,7 +43,7 @@ Vous avez également la possibilité de tracer les <b> courbes de poids</b> de v
 Pedigree, à l'avenir, incluera aussi un bouton de «  reprise possible d'exercice ». Il est dangereux en effet pour votre animal de grande race surtout, de trop bouger après le repas. Il risque une <b<torsion d'estomac</b>, souvent fatale pour lui.
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-0w07b95ytk" frameborder="0" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-0w07b95ytk" frameborder="0" allowfullscreen></iframe></p>
 
 
 
