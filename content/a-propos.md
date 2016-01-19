@@ -7,5 +7,16 @@ title : "A propos"
 ---
 
 
+<b>Pourquoi Chien-Calme ?</b>
 
-Quoi de plus anxiogéne en effet pour un maitre que d'avoir à ses côtés un compagnon instable et tendu ? Il lui faut sans cesse le rassurer et le tranquiliser : Juju aboie dés qu'il est seul, tremble au premier coup de tonnerre, se réfugie dans la salle de bain quand il entend des coups de feu, fait pipi sur la moquette dès que le ton monte ou qu'il se sent menacé, vomit et hurle en voiture.....
+J'ai toujours été passionnée par les chiens. Mais, comme tous les humains, heureux possesseurs de ces adorables compagnons, je me suis retrouvée de temps en temps dans des situations difficiles. Mon chien était fugueur, il ne mangeait pas sa nourriture, il détestait ses congénères, il supportait mal les humains. Seul à la maison, il saccageait l’appartement, faisait des galeries dans le jardin, hurlait des heures durant quand je m'absentais...
+Je précise bien sûr qu'il ne s'agit pas du même et unique chien.
+J'accumulais donc les expériences, appliquais les conseils éclairés de professionnels, comportementalistes, éducateurs.
+Je me formais pour gérer la base des traitements à administrer en cas de problèmes. J'ai commencé d'ailleurs à m’intéresser, avec succès sur mes bestioles,  à tout ce qui est médecine douce. L'homéopathie par exemple a permis à un de mes chiens de vivre sans problème majeur avec une assez forte dysplasie. Un autre se calmait grâce à des plantes....
+<p align="center"><img src= "/images/actualites/labgolden.jpg"></p>
+
+J'ai donc eu l'idée de créer des pages où seraient présentées des informations santé, comportement, sport pour vous aider aussi. Je parcours le web régulièrement en recherche de nouvelles infos susceptibles d’intéresser les humains à chiens.
+Je choisis souvent des publications américaines. La santé animale est vraiment mise en avant aux US ainsi que les droits des animaux.
+J'espère que vous trouverez dans les actu en ligne de bons conseils pour vivre en harmonie avec votre petit poilu heureux et en bonne santé.
+
+ <p align="center"><img src= "/images/actualites/dob.jpg"></p>
