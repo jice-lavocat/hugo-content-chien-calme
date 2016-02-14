@@ -92,4 +92,4 @@ Tous les chiens ne vont pas se laisser faire ! Le massage concerne les <b>couss
 
 Le massage du <b>corps entier</b> permet de soulager les tensions de la colonne vertébrale, aide l'animal à éliminer les toxines, ralentit les processus dégénératifs, favorise la longévité...
 
-Allez -vous essayer ?
+Bienfaits-santé-massage.mdAllez -vous essayer ?
