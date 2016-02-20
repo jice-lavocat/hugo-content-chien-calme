@@ -8,7 +8,7 @@ description = "Des conseils pour avoir un chien calme"
 
 [params]
     title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
-	facebookPage = "https://www.facebook.com/chiencalme"
+	  facebookPage = "https://www.facebook.com/chiencalme"
     twitterPage = "https://twitter.com/ChienCalme"
     twitterHandle = "ChienCalme"
     googlePage = "https://plus.google.com/u/0/117372126012522851863/posts"
@@ -18,7 +18,7 @@ description = "Des conseils pour avoir un chien calme"
     phone = "+336 46 37 49 26"
     contactEmail = "contact@chien-calme.com"
     CommentsFacebook = true
-
+    facebookAppID = "1128354940537831"
 
 ###############
 # Social
