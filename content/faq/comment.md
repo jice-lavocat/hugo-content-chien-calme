@@ -1,10 +1,10 @@
 ---
-title: "Questions Réponses Chien : Comment ... ?"
+title: "Questions-Réponses Chien : Comment ... ?"
+
 menutitle: Comment
-layout: page
 collection: comment
 thumbnail: "/images/actualites/massage-chiens.jpg"
-Description : "votre chien est fatigué ou anxieux ? Un petit massage pour le relaxer. A faire pratiquer plutot par des spécialistes !"
+Description : "Toutes les questions comment qui répondent à vos interrogations canines !"
 ---
 
-Comment un chien mange ?
+Voici toutes les questions "Comment" qui traitent de votre chien
