@@ -1,5 +1,5 @@
 ---
-title: "Questions-Réponses Chien : Quand ... ?"
+title: "Quand un chien ... ?"
 
 menutitle: Quand
 collection: quand

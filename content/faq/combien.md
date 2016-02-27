@@ -1,5 +1,5 @@
 ---
-title: "Questions-Réponses Chien : Combien ... ?"
+title: "Combien un chien ... ?"
 
 menutitle: Combien
 collection: combien

@@ -4,7 +4,7 @@ title: "Combien un chien dort-il par jour ?"
 author: "marie"
 tags: ['Dent']
 categories: ["combien"]
-date: 2016-06-25
+date: 2016-06-06
 thumbnail: "/images/actualites/crate_training.jpg"
 description: "Un chien dort longtemps, oui, mais combien ?"
 ---

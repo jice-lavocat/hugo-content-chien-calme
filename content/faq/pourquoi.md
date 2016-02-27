@@ -1,5 +1,5 @@
 ---
-title: "Questions-Réponses Chien : Pourquoi ... ?"
+title: "Pourquoi un chien ... ?"
 
 menutitle: Pourquoi
 collection: pourquoi

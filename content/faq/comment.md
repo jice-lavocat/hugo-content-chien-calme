@@ -1,5 +1,5 @@
 ---
-title: "Questions-Réponses Chien : Comment ... ?"
+title: "Comment un chien ... ?"
 
 menutitle: Comment
 collection: comment

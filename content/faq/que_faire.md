@@ -1,5 +1,5 @@
 ---
-title: "Questions-Réponses Chien : Que faire ... ?"
+title: "Que faire quand un chien ... ?"
 
 menutitle: "Que faire"
 collection: que_faire
