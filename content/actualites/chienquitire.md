@@ -4,7 +4,7 @@ title: " Votre chien tire en laisse ? Votre faute ? "
 author: "marie"
 tags: ['anxiété' ]
 date: 2016-02-26
-categories: ["massage"]
+categories: ["comportement"]
 thumbnail: "/images/actualites/chien-qui-tire.jpg"
 Description: " Vous rentrez épuisé d'une promenade où Titan vous a traîne derrière lui. Vous vous êtes d'ailleurs inscrit en salle de muscu pour arriver à compenser son poids.  "
 ---
