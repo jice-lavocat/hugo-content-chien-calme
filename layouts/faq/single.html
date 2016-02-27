@@ -1,3 +1,5 @@
+{{ $collection := .Params.collection}}
+{{ $categories := .Params.categories}}
 {{ partial "header.html" . }}
 <body>
 	{{ partial "headingbar.html" . }}
@@ -10,6 +12,8 @@
 		<div class="container">
 			<!-- Content -->
 			<p class="heading">Questions / Réponses (FAQ)</p>
+			<!--<p>Acceuil &gt; FAQ &gt; {{ $categories }}  </p>-->
+
 
 			<div class="row">
 
