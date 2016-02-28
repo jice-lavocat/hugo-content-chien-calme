@@ -6,4 +6,6 @@ thumbnail: "/images/actualites/crate_training.jpg"
 description: "Les activités en montagne pour votre chien"
 ---
 
-L'anxiété de séparation est un problème que les propriétaires de chiens rencontrent assez fréquemment. Cela se traduit par la destruction de l'appartement, des aboiements répétés...votre animal est en stress quand vous le laissez seul ! Il souffre de ce qu'il considére comme un abandon. Nombreuses sont les <a href="http://www.chien-calme.com/actualites/chien_anxieux_depart/"target=_"blank"> techniques à appliquer </a> pour essayer de résoudre cette angoisse.
+Ski, <a href="http://www.chien-calme.com/actualites/skijoring-canin/ target=_"blank" > skijoring </a> et <a href=" http://www.chien-calme.com/actualites/canicroo-quebec/ target=_"blank > canicross </a> <sont de super activités à pratiquer l'hiver à la neige. Faites attention cependant; des précautions s'imposent pour que votre chien sorte dans de bonnes conditions. Il faut le protéger du froid correctement et selon sa condition physique.
+Sinon la montagne l'été est aussi relaxante pour tous....
+

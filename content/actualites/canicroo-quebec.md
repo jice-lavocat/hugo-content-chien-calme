@@ -3,7 +3,7 @@ title: "Tout sur le canicross : interview de Cynthia Dionne."
 
 author: "marie"
 tags: ['aboiement', 'ostéopathie']
-categories: ["activite_campagne"]
+categories: ["activite_campagne","activite_montagne"]
 author: Marie-George Clouet
 date: 2015-03-23
 thumbnail: "/images/actualites/canicross-cynthia1.jpg"
