@@ -6,4 +6,6 @@ thumbnail: "/images/actualites/crate_training.jpg"
 description: "Les activités aquatiques pour chiens"
 ---
 
-L'anxiété de séparation est un problème que les propriétaires de chiens rencontrent assez fréquemment. Cela se traduit par la destruction de l'appartement, des aboiements répétés...votre animal est en stress quand vous le laissez seul ! Il souffre de ce qu'il considére comme un abandon. Nombreuses sont les <a href="http://www.chien-calme.com/actualites/chien_anxieux_depart/"target=_"blank"> techniques à appliquer </a> pour essayer de résoudre cette angoisse.
+Nombreux sont les chiens qui adorent l'eau. Nager ou faire du sport avec son compagnon est un excellent moyen de renforcer les liens chien-maître.
+N'hésitez pas à amener votre quadrupéde à la <a href="http://localhost:1313/actualites/page/8/ target=_"blank> piscine </a>. Non seulement il va adorer mais c'est aussi un super thérapie anti stress...
+Sinon sUP, surf, kayak ou simplement natation peuvent aussi se pratiquer à deux.
