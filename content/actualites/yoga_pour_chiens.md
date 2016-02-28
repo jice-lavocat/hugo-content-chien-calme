@@ -4,7 +4,7 @@ title: "Doga : vous connaissez ? Une excellente thérapie à pratiquer à deux"
 author: "marie"
 tags: ['doga','yoga canin']
 date: 2014-11-15
-categories: [osteopathie]
+categories: [activite_appartement]
 thumbnail: /images/actualites/dog-yoga.jpg
 Description: "Relaxation et détente font aussi du bien à nos compagnons : allons pratiquer avec eux le doga  pour renforcer les liens chien/ maitre.?"
 summary: "Les multiples vertus du yoga ne sont plus à prouver. Cette pratique a des effets positifs sur la musculature, sur la circulation du sang, sur la tonicité, permet de retrouver ou de garder son équilibre... Le doga( contraction de dog et de yoga ) a les mêmes propriétés relaxantes sur le chien et renforce encore votre connivence avec votre animal. ? "

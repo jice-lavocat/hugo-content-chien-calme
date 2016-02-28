@@ -4,7 +4,7 @@ title: "A quand le dog dancing en France ?"
 author: "marie"
 tags: ['anxiété' ]
 date: 2016-01-26
-categories: ["massage"]
+categories: ["activite_appartement"]
 thumbnail: "/images/actualites/dogdancing.jpg"
 Description: " Vous avez prévu de vous mettre ( ou vous remettre à la danse ) en 2016 ? Vous n'avez personne pour vous accompagner ? Et si vous vous inscriviez avec votre petit poilu ?
                C'est ce que propose Darlene Chroniger dans le Maryland, aux States.Elle enseigne depuis 2001 en effet dans deux écoles. Elle n'est pas la seule aux US. Le dog dancing est une vraie discipline de mieux en mieux représentée."

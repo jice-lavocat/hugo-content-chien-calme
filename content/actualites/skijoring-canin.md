@@ -4,7 +4,7 @@ title: "Bientôt les vacances de Février : testez le skijoring !"
 author: "marie"
 tags: ['anxiété' ]
 date: 2015-01-26
-categories: [ natation]
+categories: [activite_montagne]
 thumbnail: "/images/actualites/skijoring.jpg"
 Description: "Pour les fans de froid et de sport, voici une activité idéale à pratiquer avec votre compagnon, qui va adorer, calme et zenitude assurés : il s'agit du skijoring ou Ski joëring."
 ---

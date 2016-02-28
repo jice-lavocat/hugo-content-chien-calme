@@ -23,6 +23,7 @@ Available categories :
         - activite_eau
         - activite_montagne
         - activite_ville
+        - activite_campagne
 
     * Techniques
         - massage
@@ -34,3 +35,11 @@ Available categories :
         - produits
 
 
+*Grandes images*
+Pour les grandes images qui débordent du template, il faut ajouter la class 'img-responsive' à l'image pour que la largeur s'adapte au conteneur.
+
+Exemple image qui dépasse :
+<p align="center"><img src="/images/actualites/canicross-cynthia1.jpg"></p>
+
+Exemple image reponsive :
+<p align="center"><img src="/images/actualites/canicross-cynthia1.jpg" class="img-responsive"></p>

@@ -4,7 +4,7 @@ title: "Regalez-vous avec votre chien, pratiquez le doga ! "
 author: "marie"
 tags: ['anxiété' ]
 date: 2015-05-04
-categories: [massage, anxiété départ]
+categories: [activite_appartement]
 thumbnail: "/images/actualites/doga1.jpg"
 Description: "Il y a quelques mois déjà, je vous avais parlé d'un sport relaxant à pratiquer avec votre chien ; le doga, mélange de yoga et de « dog, » chien. "
 ---
