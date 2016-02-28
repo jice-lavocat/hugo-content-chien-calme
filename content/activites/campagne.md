@@ -6,4 +6,6 @@ thumbnail: "/images/actualites/crate_training.jpg"
 description: "Les activités pour chiens à la campagne"
 ---
 
-L'anxiété de séparation est un problème que les propriétaires de chiens rencontrent assez fréquemment. Cela se traduit par la destruction de l'appartement, des aboiements répétés...votre animal est en stress quand vous le laissez seul ! Il souffre de ce qu'il considére comme un abandon. Nombreuses sont les <a href="http://www.chien-calme.com/actualites/chien_anxieux_depart/"target=_"blank"> techniques à appliquer </a> pour essayer de résoudre cette angoisse.
+La nature et l'extérieur sont les meilleurs endroits pour défouler et socialiser votre chien.vous pouvez aussi bien pratiquer des jeux, comme le frisbee, le cache cache..que faire de longues promenades ou de la course avec votre compagnon.
+Il faut aussi apprendre à le protéger des <a href="http://www.chien-calme.com/actualites/chien-et-feu-dartifice/ target=_"blank"> nuisances</a> et à lui éviter tout accident.
+
