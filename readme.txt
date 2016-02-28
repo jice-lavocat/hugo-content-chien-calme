@@ -7,7 +7,7 @@ An article can be listed in one or several Categories. To achieve that, you shou
     categories: ["category_slug"]
 
 If you want the article to be listed in several categories :
-    categories: ["category_slug_1", 'category_slug_2"]
+    categories: ["category_slug_1", "category_slug_2"]
 
 
 Available categories :
