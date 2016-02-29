@@ -8,8 +8,9 @@ description: "Le chien peut grogner dans de multiples situations... voici les pl
 
 Le chien grogne dans les situations suivantes. Il exprime par son grognement
 
-    La <b>douleur</b>
-    La <b>peur</b>
-    L'</b>avertissement</b>
-    Le <b>mécontentement</b>
-    L'<b>agacement</b>
+
+La <b>douleur</b>
+La <b>peur</b>
+L'<b> avertissement</b>
+Le <b> mécontentement</b>
+L'<b> agacement</b>
