@@ -6,7 +6,7 @@ thumbnail: "/images/faq/pourquoi/chien_grogne.jpg"
 description: "Le chien peut grogner dans de multiples situations... voici les plus importantes."
 ---
 
-Le chien grogne dans les situations suivantes. Il exprime par son grognement
+Le chien grogne dans les situations suivantes. Il exprime par son <a href="http://www.chien-calme.com/actualites/grognement-chien/target=_"blank">grognement </a>
 
 
 La <b>douleur</b>
