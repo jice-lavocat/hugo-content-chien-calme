@@ -28,7 +28,7 @@ Le poil est dressé, le chien est bien raide sur ses pattes, sa queue est parall
 <h2> Ne faites pas <h2>
 
 
- Aller au milieu pour les <b>séparer</b>: vous allez vous faire mordre !
+ Aller au milieu pour les <b>séparer</b>: vous allez vous faire <a href="http://www.chien-calme.com/actualites/morsure-chien/ target=_"blank" </a> mordre !
 
 
  Essoayer de les faire lâcher en ouvrant leur gueule. Là aussi vous allez perdre votre main
