@@ -2,8 +2,6 @@
 title: "Combien un chien dort-il par jour ?"
 
 author: "marie"
-tags: ['
-']
 categories: ["combien"]
 date: 2016-06-06
 thumbnail: "/images/actualites/crate_training.jpg"
