@@ -2,7 +2,7 @@
 title: "Combien de chiens refusés à la confirmation ?"
 
 author: "marie"
-tags: ['']
+
 categories: ["combien"]
 date: 2016-06-06
 thumbnail: "/images/actualites/confirmation.jpg"
