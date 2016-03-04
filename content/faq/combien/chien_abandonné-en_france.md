@@ -11,6 +11,7 @@ description: " Quels sont les derniers chiffres de l'abandon "
 <p align="center"><img src= "/images/actualites/abandon.jpg"></p>
 
 
+
 On n'a pas encore de chiffres pour 2016 mais l'été 2015 a compté environ <b>22% de plus d'abandons </b> que l'année précédente, selon la SPA.
 
 Il semble que la France fasse partie des leaders en terme de possession d'animaux mais aussi malheureusement en terme d'abandons. Les français preférent laisser leur chien sur le bord d'une route que de le mettre dans une pension canine ou le faire garder.
