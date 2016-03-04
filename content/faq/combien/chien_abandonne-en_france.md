@@ -7,9 +7,10 @@ categories: ["combien"]
 date: 2016-06-06
 thumbnail: "/images/actualites/abandon.jpg"
 description: " Quels sont les derniers chiffres de l'abandon "
----
-<p align="center"><img src= "/images/actualites/abandon.jpg"></p>
 
+---
+
+<p align="center"><img src="/images/actualites/sabandon.jpg"/></p>
 
 
 On n'a pas encore de chiffres pour 2016 mais l'été 2015 a compté environ <b>22% de plus d'abandons </b> que l'année précédente, selon la SPA.
