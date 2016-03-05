@@ -2,7 +2,7 @@
 title: "Que faire quand deux chiens se battent"
 
 author: "marie"
-tags: ['Dent']
+
 categories: ["que_faire"]
 date: 2016-06-25
 thumbnail: "/images/actualites/chiens-se-battent.jpg"
