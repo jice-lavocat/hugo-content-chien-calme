@@ -1,9 +1,9 @@
 ---
 title: "Pourquoi un chien mange des crottes "
-tags: ['excréments', 'ingestion']
+tags: ['excréments','ingestion']
 categories: ["pourquoi"]
 thumbnail: "/images/faq/pourquoi/Coprophagie.jpg"
-description: "Le chien a souvent la "sale" habitude de manger des crottes. Il y a des raisons à cela"
+description: "Le chien a souvent la sale habitude de manger des crottes. Il y a des raisons à cela"
 ---
 
 
