@@ -10,7 +10,7 @@ description: " Quels sont les derniers chiffres de l'abandon "
 
 ---
 
-<p align="center"><img src="/images/actualites/sabandon.jpg"/></p>
+<p align="center"><img src="/images/actualites/abandon.jpg"/></p>
 
 
 On n'a pas encore de chiffres pour 2016 mais l'été 2015 a compté environ <b>22% de plus d'abandons </b> que l'année précédente, selon la SPA.
@@ -31,4 +31,4 @@ Comportement étrange si l'on sait que quand même près de <b>36 % des proprié
 ## Explication ##
 
 <ul> <li> Il est plus simple de ne pas avoir d'animal pour voyager</li>
-<li> Les " cadeaux de Noel" ont trop grandi </li> </ul>
+<li> Les " cadeaux de Noël" ont trop grandi </li> </ul>
