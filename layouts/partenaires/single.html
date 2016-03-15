@@ -1,0 +1,76 @@
+{{ $collection := .Params.collection}}
+{{ $categories := .Params.categories}}
+{{ partial "header.html" . }}
+<body>
+	{{ partial "headingbar.html" . }}
+	
+	<!-- Menu -->
+    {{ partial "menu.html" .}} <!--',  {current_page:@document.URL}) %>-->
+	
+	<section class="innercontent">
+		<!-- Content -->
+		<div class="container">
+			<!-- Content -->
+			<p class="heading">Questions / Réponses (FAQ)</p>
+			<!--<p>Acceuil &gt; FAQ &gt; {{ $categories }}  </p>-->
+
+	<p><script language="JavaScript">
+	<!--
+		String.prototype.capitalizeFirstLetter = function() {
+			return this.charAt(0).toUpperCase() + this.slice(1);
+		}
+
+		var sep = '<i class="fa fa-angle-right"></i>';
+
+		//Bread crumb script - Kevin Lynn Brown
+		//Duplicate directory names bug fix by JavaScriptKit.com
+		//Visit JavaScript Kit (http://javascriptkit.com) for script
+
+		var path = "<a href='{{ .Site.BaseURL}}'>Accueil</a> ";
+		var href = document.location.href;
+		var s = href.split("/");
+		for (var i=3;i<(s.length-2);i++) {
+			path+= sep + " <a href=\""+href.substring(0,href.indexOf("/"+s[i])+s[i].length+1)+"/\">"+s[i].capitalizeFirstLetter()+"</a> ";
+		}
+		i=s.length-1;
+		path+="<a href=\""+href.substring(0,href.indexOf(s[i])+s[i].length)+"\">"+s[i]+"</a>";
+		path+= sep + " {{.Title}}";
+		document.writeln(path);
+	//-->
+	</script></p>
+
+
+
+
+
+			<div class="row">
+
+	            <div class="col-md-8 col-lg-8">
+
+	                <article class="post">
+
+	                	{{partial "content_faq.html" .}}
+
+	                </article>
+
+	            	<div class="clearfix"></div>
+
+	            </div>
+
+          		<aside class="col-md-4 col-lg-4">
+          			{{ partial "sidebar.html" .}}
+          		</aside>
+
+           	</div>
+
+      	</div>
+
+    </section>
+
+
+		{{ partial "modals.html" . }}
+		<!-- Footer -->
+        {{ partial "footer.html" .}}
+  {{ partial "bodyend.html" . }}
+</body>
+</html>
