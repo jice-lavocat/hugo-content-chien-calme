@@ -2,7 +2,7 @@
 title: "8 bonnes raisons de donner de l'huile d'olive à votre chien !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé', 'huile olive', 'régime' ]
 date: 2015-02-23
 categories: [produits]
 thumbnail: "/images/actualites/huile_olive_bon_pour_chien.jpg"
@@ -17,7 +17,7 @@ Excellente pour prévenir les maladies cardio-vasculaires de l'homme, riche en a
 <li> <b>Les chiens adorent son goût</b> !
 Une petite cuillère d'huile d'olive et le bol de croquettes de votre chien a une tout autre saveur ! A conseiller si votre petit compagnon est un peu difficile à satisfaire ! Il mangera plus volontiers si sa gamelle est " parfumée".</li>
 <li><b>L'huile d'olive aide à maigrir !</b>
-Étonnant non ? Mais portant vrai. Les acides gras monoinsaturés de l'huile encouragent la perte de poids en décomposant la graisse à l'intérieur des cellules ( oui je le sais, dit comme ça, c'est pas vraiment appétissant ) et réduisant l'insulinorésistance, responsable du surpoids. Ne l'oubliez pas ! Une surcharge pondérale chez votre compagnon influe sur son espérance de vie, induit des problémes cardiaques, locomoteurs, de la <a href ="http://www.chien-calme.com/actualites/fatigue-chien/ target ="blank>fatigue</a>...Une forte prise de poids doit être suivie sérieusement !
+Étonnant non ? Mais portant vrai. Les acides gras monoinsaturés de l'huile encouragent la perte de poids en décomposant la graisse à l'intérieur des cellules ( oui je le sais, dit comme ça, c'est pas vraiment appétissant ) et réduisant l'insulinorésistance, responsable du surpoids. Ne l'oubliez pas ! Une surcharge pondérale chez votre compagnon influe sur son espérance de vie, induit des problémes cardiaques, locomoteurs, de la <a href ="http://www.chien-calme.com/actualites/fatigue-chien/">fatigue</a>...Une forte prise de poids doit être suivie sérieusement !
 </li>
 <li> <b>Elle favorise une parfaite santé</b>
 Là, c'est comme pour nous, les hommes : l'huile d'olive, riche en acides gras, aide à <b>prévenir les maladies cardio-vasculaires</b> et le <b>diabéte</b> aussi chez le chien ! De plus, grâce à l'acide oleique, elle prévient du <b>cancer</b>, qui, ne l'oublions pas,  concerne environ 50% des chiens de plus de10 ans !</li>

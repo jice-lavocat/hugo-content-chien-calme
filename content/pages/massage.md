@@ -2,7 +2,7 @@
 title: "Vous savez masser ? Testez ce geste pour relaxer votre chien !"
 menutitle: Massage
 layout: page
-tags: ['intro','page']
+tags: ['santé']
 weight: 2
 collection: massage
 thumbnail: "/images/actualites/massage-chiens.jpg"

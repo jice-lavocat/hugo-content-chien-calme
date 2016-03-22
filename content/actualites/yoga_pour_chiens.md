@@ -2,7 +2,7 @@
 title: "Doga : vous connaissez ? Une excellente thérapie à pratiquer à deux"
 
 author: "marie"
-tags: ['doga','yoga canin']
+tags: ['doga','yoga', 'sport']
 date: 2014-11-15
 categories: [activite_appartement]
 thumbnail: /images/actualites/dog-yoga.jpg

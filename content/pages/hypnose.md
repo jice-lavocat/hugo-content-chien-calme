@@ -2,7 +2,7 @@
 title: "L'hypnose canine pour lutter contre la douleur et l'anxiété"
 menutitle: Hypnose
 layout: page
-tags: ['intro','page']
+tags: ['santé']
 weight: 5
 collection: hypnose
 Description : "Angoisses à calmer ou  peurs irraisonnées destabilisent le chien. Tentez l'hypnose, à pratiquer vous même ou à faire pratiquer."
