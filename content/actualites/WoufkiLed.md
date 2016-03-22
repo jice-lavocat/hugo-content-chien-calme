@@ -13,7 +13,7 @@ description: "Si comme le mien votre chien est noir, alors dans la nuit c'est le
 Si comme le mien votre chien est noir, alors dans la nuit c'est le drame ! Impossible de savoir où il se trouve, ni ce qu'il fabrique. Il peut être en train de courir sur la route ou de manger des déchets peu digestes.
 
 Si comme le mien votre chien est noir, alors dans la nuit c'est le drame ! Impossible de savoir où il se trouve, ni ce qu'il fabrique. Il peut être en train de courir sur la route ou de manger des déchets peu digestes.
-<a href="https://www.mymajorcompany.com/woufki-led-la-lumiere-pour-chien-et-chat"target=_"blank"> MyMajorCompany </a>propose de résoudre ce problème avec sa <a href=" http://woufki.com/"target=_"blank"> WoufkiLed </a>, une jolie Led pour votre compagnon.
+<a href="https://www.mymajorcompany.com/woufki-led-la-lumiere-pour-chien-et-chat" target=_"blank"> MyMajorCompany </a>propose de résoudre ce problème avec sa <a href=" http://woufki.com/" target=_"blank"> WoufkiLed </a>, une jolie Led pour votre compagnon.
 
 
 
@@ -41,7 +41,7 @@ Non bien sûr, elle a été <b>testée déjà avec succès sur de nombreux anima
 
 
 Il ne reste plus qu'à commercialiser ce produit. <b>Et c'est là que vous pouvez intervenir</b>.
-<a href="https://www.mymajorcompany.com/woufki-led-la-lumiere-pour-chien-et-chat"target=_"blank>MyMajorComany</a>lance une collecte pour aider à la fabrication et la mise sur le marché des 500 premières  WoufkiLed.
+<a href="https://www.mymajorcompany.com/woufki-led-la-lumiere-pour-chien-et-chat" target=_"blank">MyMajorComany</a>lance une collecte pour aider à la fabrication et la mise sur le marché des 500 premières  WoufkiLed.
 
 Allez voir sur la page https://www.mymajorcompany.com/woufki-led-la-lumiere-pour-chien-et-chat si vous aussi voulez équiper votre meilleur ami de ce joli objet lumineux et soutenir le projet.
 Sinon n'hésitez pas à partager l'info !!!

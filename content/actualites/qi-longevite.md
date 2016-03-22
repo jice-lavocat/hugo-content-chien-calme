@@ -2,9 +2,8 @@
 title: "Un gros QI, une longue vie ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['intelligence', 'senior', 'vieillesse', 'qi' ]
 date: 2016-02-08
-categories: ["massage"]
 thumbnail: "/images/actualites/test_qi_chien.jpg"
 Description: " Un test de QI pour chiens a été développé par des scientifiques. Ils prétendent que cela pourrait ouvrir la voie à des avancées énormes dans le domaine suivant. Quel lien existe entre intelligence, santé et longévité ? "
 ---

@@ -2,9 +2,9 @@
 title: "Le collier électrique : quel impact sur mon chien ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['collier', 'dressage', 'aboiement' ]
 date: 2016-01-23
-categories: ["massage"]
+categories: ["produits"]
 thumbnail: "/images/actualites/collierlectrique.jpg"
 Description: " Rien ne justifie les traitements suivants envers votre chien. Inutile d'utiliser un collier électrique, de le frapper. Pas la peine non plus de lui jeter de l'eau à la figure ou de le mettre sur le dos, vous en position de mâle alpha. "
 ---

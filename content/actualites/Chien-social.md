@@ -2,9 +2,8 @@
 title: "Vous avez des amis ? Votre chien aussi ! !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['amis', 'sociabilité' ]
 date: 2016-01-07
-categories: [massage]
 thumbnail: "/images/actualites/task-bar.jpg"
 
 summary: "L’obéissance à l'homme n'est pas seulement ce qui caractérise le chien. Il est aussi capable de montrer d'évidents comportements sociaux.

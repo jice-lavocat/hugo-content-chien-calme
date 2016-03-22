@@ -49,7 +49,7 @@ Mais il <b>vérifie aussi toujours la validité</b> de l'info fournie : avant d
 
 ## Le chien équilibré a besoin de rituels ##
 
-Il est dans la nature du chien, selon <a href ="http://www.bris.ac.uk/vetscience/people/88445/"target=-blank">John Bradshaw </a> de se sentir bien dans des situations prévisibles.
+Il est dans la nature du chien, selon <a href ="http://www.bris.ac.uk/vetscience/people/88445/" target="_blank">John Bradshaw </a> de se sentir bien dans des situations prévisibles.
 
 Si il y a rupture dans leur régularité, le chien va <b>chercher des solutions alternatives</b>. Et si il est incapable de trouver, il pourra se montrer agressif, peureux, instable. Voilà une explication aux troubles du comportement d'animaux gérés par des maîtres imprévisibles ! Donc avis à tous les maîtres ! Restez constants dans l’éducation et l'organisation de la journée de votre compagnon.  
 

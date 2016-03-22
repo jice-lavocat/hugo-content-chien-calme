@@ -35,6 +35,6 @@ Il n'y a pas que l'humain a profiter des bienfaits de l’huile d'olive pour ses
 
 
 
-<br><br>Enfin, pensez aussi à y mélanger un peu de <a href ="http://solutionscanines-blog.com/wordpress/tag/bienfaits/ target ="_blank">curcuma</a>, extremement bénéfique aussi pour la santé de votre chien.
+<br><br>Enfin, pensez aussi à y mélanger un peu de <a href="http://solutionscanines-blog.com/wordpress/tag/bienfaits/" target="_blank">curcuma</a>, extremement bénéfique aussi pour la santé de votre chien.
 
 Alors, <b>allez-vous essayer ? Avez-vous déjà testé ? Qu'en pensez-vous ???????</b></li></ul>

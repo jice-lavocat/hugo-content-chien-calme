@@ -52,7 +52,7 @@ Pedigree, à l'avenir, incluera aussi un bouton de «  reprise possible d'exerc
 
 
 ## Synchronisation des tâches en famille ##
-Pour aller encore plus loin dans la gestion familiale de la santé de votre chien,<a href="http://techcrunch.com/2015/07/30/dogsync-is-an-app-to-help-your-family-keep-track-of-feeding-fido/ target=_"blank"> DogSync </a>  vous permet de planifier les tâches.
+Pour aller encore plus loin dans la gestion familiale de la santé de votre chien,<a href="http://techcrunch.com/2015/07/30/dogsync-is-an-app-to-help-your-family-keep-track-of-feeding-fido/" target=_"blank"> DogSync </a>  vous permet de planifier les tâches.
 Un calendrier permet à chacun dans la famille de noter ce qu'il a fait : nourrir vote compagnon, le sortir...
 
 Il est aussi possible d'envoyer un message à un membre, pére, mére, enfants pour lui demander d'effectuer une action. Par exemple, vous pouvez contacter votre fille pour qu'elle donne des médicaments à votre loulou. Une fois cela réalisé, votre fille valide l'action ; Ainsi il est possible de contrôler à la fin de chaque journée ce qui a été fait et par qui.

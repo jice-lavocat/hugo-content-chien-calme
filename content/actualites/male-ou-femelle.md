@@ -13,7 +13,7 @@ description: "Vous avez longuement réfléchi : la décision est prise ! Vous 
 
 Vous avez longuement réfléchi : la décision est prise ! Vous allez adopter une petite Lily ou un joli Loki ( En effet, 2015 est l'année des <a href=" http://www.ecoledeschiens.com/noms-chien-2015.html/" target="_blank"> L </a>, bienheureux ceux qui prennent un chiot maintenant, ils ont évité le choix improbable des J!
 
-Votre logement est adapté aux besoins de votre petit animal, il est assez spacieux et votre emploi du temps est également en accord avec les attentes, assez chronophages, du bébé à venir : petites attentions, petits massages, balades...  Vous vous connaissez et savez cerner vos attentes : vous avez décidé de vous tourner vers un chiot plutôt calme et facile à vivre. Et il vous semble avoir entendu que les femelles étaient plus tranquilles. La <a href=" http://www.sfcyno.com/img/pdf/2012/Male%20ou%20femelle,%20quelles%20differences.pdf/" target="_blank"> réponse </a> n'est pas si tranchée.
+Votre logement est adapté aux besoins de votre petit animal, il est assez spacieux et votre emploi du temps est également en accord avec les attentes, assez chronophages, du bébé à venir : petites attentions, petits massages, balades...  Vous vous connaissez et savez cerner vos attentes : vous avez décidé de vous tourner vers un chiot plutôt calme et facile à vivre. Et il vous semble avoir entendu que les femelles étaient plus tranquilles. La <a href="http://www.sfcyno.com/img/pdf/2012/Male%20ou%20femelle,%20quelles%20differences.pdf" target="_blank"> réponse </a> n'est pas si tranchée.
 
 
 

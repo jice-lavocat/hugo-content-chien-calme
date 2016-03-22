@@ -2,9 +2,8 @@
 title: "Oui, les chiens ont une conscience! "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['intelligence', 'conscience',  'comportement']
 date: 2015-12-19
-categories: ["massage"]
 thumbnail: "/images/actualites/dog_conscious.jpg"
 Description: " On le sait tous. Ce qui caractérise l'humain est sa conscience de lui-même, de son image et de ce qu'il renvoie aux autres.
                Seuls les primates, orques, dauphins et quelques rares espèces animales ont passé avec succès le test de reconnaissance de soi. Le chien fait partie de celles qui ont échoué....Jusqu'à maintenant...."
