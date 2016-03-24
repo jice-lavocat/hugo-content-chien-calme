@@ -30,3 +30,4 @@ Ensuite, comme tout le monde le sait, le mâle léve la patte pour uriner.
 
 
 En bref, si votre chien ne léve pas la patte, ce n'est pas du tout un drame. Il n'est pas dominant et ne cherche pas à se faire reconnaître tout autour de lui:)
+A noter: certaines femelles lévent elles aussi la patte pour uriner.
