@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi un chiens lève la patte ?"
+title: "Pourquoi un chien lève la patte ?"
 tags: ['Comportement canin', 'Apaisement', ]
 categories: ["pourquoi"]
 thumbnail: "/images/faq/pourquoi/pipi-lever-patte-chien-.gif"
