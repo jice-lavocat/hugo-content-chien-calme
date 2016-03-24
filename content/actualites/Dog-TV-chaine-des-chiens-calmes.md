@@ -44,7 +44,7 @@ Ils sont de 3 types :
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YF63zxlnKMs" frameborder="0" allowfullscreen></iframe></p>
 
-Bon il faut savoir quand même que la chaine est payante entre **5 et 10 dollars/ mois** et que ses benéfices par contre sont versés à une <a href="http://www.humanesociety.org/about/departments/pets-for-life/what_is_pfl.html/" target="_blank"> association </a>  qui s'occupe de supporter un programme d'aide aux chiens en difficulté ou à leurs maitres.
+Bon il faut savoir quand même que la chaine est payante entre **5 et 10 dollars/ mois** et que ses benéfices par contre sont versés à une <a href=http://www.humanesociety.org/about/?credit=web_id65483799" target="_blank"> association </a>  qui s'occupe de supporter un programme d'aide aux chiens en difficulté ou à leurs maitres.
 
 Enfin, il est un peu compliqué de s'abonner à ce service en France, mais il est utilisable  en streaming si j'ai bien compris.
 

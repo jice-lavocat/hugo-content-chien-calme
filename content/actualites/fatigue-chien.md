@@ -81,8 +81,3 @@ Cette fatigue ne disparaît pas rapidement, elle s'installe de **façon chroniqu
 ### Écoulement des yeux ###
 <ul> <li><b> Infection </b> : un écoulement purulent accompagné de fatigue, d'une grosseur sur le museau peut faire suspecter la présence d'un épillet dans le conduit lacrymal. A opérer vite ! </li> </ul>
 
-Pour conclure sur le théme du chien et de la fatigue, une petite vidéo trop mignone de deux chiots boxer totalement épuisés !
-
-
-
-<p align="center"><div><iframe frameborder="0" width="580" height="370" src="//www.dailymotion.com/embed/video/xk704h" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/xk704h_les-chiens-les-plus-fatigues-du-monde_animals" target="_blank">Les chiens les plus fatigu&eacute;s du monde</a> <i>par <a href="http://www.dailymotion.com/noriko75" target="_blank">noriko75</a></i></p>

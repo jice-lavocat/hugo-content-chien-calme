@@ -3,7 +3,7 @@ title: "Tout sur le canicross : interview de Cynthia Dionne."
 
 author: "marie"
 tags: ['aboiement', 'ostéopathie']
-categories: ["produits"]
+categories: ["activite_campagne","activite_montagne"]
 author: Marie-George Clouet
 date: 2015-03-23
 thumbnail: "/images/actualites/canicross-cynthia1.jpg"
@@ -17,7 +17,7 @@ Le <b>canicross</b>, sport canin où homme et chien ne font qu'un dans la course
 <b>Cynthia Dionne une de nos « fans » québecoise</b> est adepte de ce sport et à accepté très gentiment de répondre à nos questions. Voici toutes les infos indispensables pour vous lancer dans la course avec votre compagnon !
 
 
-<p align="center"><img src= "/images/actualites/canicross-cynthia1.jpg"></p>
+<p align="center"><img src="/images/actualites/canicross-cynthia1.jpg" class="img-responsive"></p>
 
 ## <blockquote> Bonjour Cynthia, pouvez vous vous présenter en quelques mots ? </blockquote>  ##
 

@@ -57,11 +57,11 @@ En cas de nœuds, n'hésitez pas à couper.
 
 
 Si il est normal aux changements de saison de voir tomber les poils de votre canidé, il n'est par contre pas rassurant qu'il en perde beaucoup en dehors de ces périodes.
-La chute de poils est une indication de <a href="http://www.wanimo.com/veterinaire/entretien-peau-et-poils-du-chien/les-maladies-provoquant-des-chutes-de-poils-chez-le-chien.html"target="_blank"> maladies </a> à prendre au sérieux. Il peut s'agir d'une affection <b>parasitaire, de gale, de pyodermite</b>, à traiter par le vétérinaire. <b>Diabète, hypothyroïdie</b>, sont aussi des affections qui se signalement par une déperdition de poils.
+La chute de poils est une indication de <a href="http://www.wanimo.com/veterinaire/entretien-peau-et-poils-du-chien/les-maladies-provoquant-des-chutes-de-poils-chez-le-chien.html" target="_blank"> maladies </a> à prendre au sérieux. Il peut s'agir d'une affection <b>parasitaire, de gale, de pyodermite</b>, à traiter par le vétérinaire. <b>Diabète, hypothyroïdie</b>, sont aussi des affections qui se signalement par une déperdition de poils.
 
 <b>Une alimentation inadaptée</b> est aussi à l'origine du problème. Pensez donc à changer les croquettes ou la nourriture de votre animal si il commence à se gratter.
 
 Le <b>stress</b> est aussi un facteur provoquant la dépilation. Votre animal totalement anxieux va se mettre à se lécher nerveusement et ainsi va provoquer irritation et chute de poils.
-Consultez votre spécialiste : il pourra déterminer la cause du problème et la traiter. Détendez votre chien avec des petits <a href="http://www.chien-calme.com/actualites/massage_pour_chiens/target="_blank"> massages.</p>...
+Consultez votre spécialiste : il pourra déterminer la cause du problème et la traiter. Détendez votre chien avec des petits <a href="http://www.chien-calme.com/actualites/massage_pour_chiens/"> massages.</p>...
 
 

@@ -1,0 +1,20 @@
+<article class="post vt-post">
+    <div class="row">
+        <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
+            <div class="post-type post-img">
+                <img alt="image post" class="img-responsive" src=
+                "{{ .Params.thumbnail }}">
+            </div>
+
+
+        </div>
+        <div class="col-xs-12 col-sm-7 col-md-7 col-lg-8" >
+            <div class="caption">
+                <h3 class="md-heading"  style="margin-top: -10px;">{{ .Title }}</h3>
+
+                <p> {{ .Content }}</p><a class="btn btn-default" href=
+                "{{ .Params.www }}" target="_blank">Visiter leur site</a>
+            </div>
+        </div>
+    </div>
+</article>

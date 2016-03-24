@@ -2,7 +2,7 @@
 title: "Les raisons de tester l’ostéopathie sur un chien stressé, malade, fatigué"
 menutitle: Ostéopathie
 layout: page
-tags: ['intro','page']
+tags: ['santé']
 weight: 4
 collection: osteopathie
 Description : "Une technique indolore, pratiquée par des spécialistes,  destinée a calmer stress, angoisse et douleurs de votre compagnon."

@@ -2,7 +2,7 @@
 title:  "L'acunponcture canine : un adjuvant précieux pour calmer son chien"
 menutitle: Acuponcture
 layout: page
-tags: ['intro','page']
+tags: ['santé']
 weight: 3
 Collection : acuponcture
 Description : "Aiguilles pour chien : une therapie douce qui soigne anxiété et maladies,des bénéfices rapides  pour son quadrupède."

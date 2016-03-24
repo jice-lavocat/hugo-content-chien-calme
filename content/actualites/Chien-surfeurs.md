@@ -4,7 +4,7 @@ title: "Les chiens surfeurs : des athlètes épanouis !"
 author: "marie"
 tags: ['anxiété' ]
 date: 2015-09-28
-categories: [produits]
+categories: [activite_eau]
 thumbnail: "/images/actualites/podiul6surf-chiens_n.jpg"
 
 summary: "C'est aux USA que le surf canin a pris naissance. Il a de plus en plus de succès. Des compétitions réservées à nos compagnons à 4 pattes ont lieu régulièrement dans plusieurs états américains"

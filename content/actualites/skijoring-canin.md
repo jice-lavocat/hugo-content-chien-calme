@@ -4,7 +4,7 @@ title: "Bientôt les vacances de Février : testez le skijoring !"
 author: "marie"
 tags: ['anxiété' ]
 date: 2015-01-26
-categories: [ natation]
+categories: [activite_montagne]
 thumbnail: "/images/actualites/skijoring.jpg"
 Description: "Pour les fans de froid et de sport, voici une activité idéale à pratiquer avec votre compagnon, qui va adorer, calme et zenitude assurés : il s'agit du skijoring ou Ski joëring."
 ---
@@ -37,7 +37,7 @@ Mais on a pu voir aussi un tout jeune **mexican hairless**, un chien donc sans p
 
 <p align="center"><img src= "/images/actualites/mexican-hairless.jpg"></p>
 
-Les petits chiens auront donc un **autre rôle dans votre équipe** : eux ne vont pas vous tirer mais seront juste avec vous pour skier. Attention cependant à ne pas dépasser leurs limites physiques qui peuvent menacer leur santé cardiaque : soyez conscient de la fatigue de la <a href=" http://www.santevet.com/articles/problemes-cardiaques-chez-le-chien-ecoutez-son-coeur/" target="-blank" > fatigue de votre chien </a>
+Les petits chiens auront donc un **autre rôle dans votre équipe** : eux ne vont pas vous tirer mais seront juste avec vous pour skier. Attention cependant à ne pas dépasser leurs limites physiques qui peuvent menacer leur santé cardiaque : soyez conscient de la fatigue de la <a href="http://www.santevet.com/articles/problemes-cardiaques-chez-le-chien-ecoutez-son-coeur/" target="_blank" > fatigue de votre chien </a>
 
 ## Comment pratiquer le skijoring  ##
 Il est possible de se faire tracter par **un à trois chiens** au maximum et pour éviter de faire mal à votre ou vos compagnons, ils doivent être équipés d'un **harnais**. Le meilleur type de planche pour vous est le **ski de fond**, plus adapté à cette performance qui exige de vous et de vos animaux une excellente condition physique.

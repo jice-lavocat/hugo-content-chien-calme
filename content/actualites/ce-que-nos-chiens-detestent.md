@@ -1,4 +1,4 @@
-h---
+---
 title: "Les 10 comportements que  nous chiens détestent "
 
 author: "marie"
@@ -84,7 +84,7 @@ Forcer un chien va le pousser à surréagir et à montrer les dents. Et ce qui e
 
 <li><b> Sortir sans pouvoir renifler </b>
 
-L’horreur absolue pour un chien. L' <a href="http:/www.chien-calme.com/actualites/Chien-et-odorat/" target="_blank"> odorat du chien </a> est le sens le plus developpé.</li>
+L’horreur absolue pour un chien. L' <a href="http://www.chien-calme.com/actualites/Chien-et-odorat/" target="_blank"> odorat du chien </a> est le sens le plus developpé.</li>
 
 <li><b> Tenir sa laisse tendue </b>
 

@@ -34,7 +34,7 @@ Un récent sondage aux US, mais il y a fort à parier que c'est très proche che
 Quel étonnement donc de voir que, par voie de conséquence, une moitié quand même ne dort pas avec son animal ! Une moitié qui ignore le plaisir extrême de masser son chien, de caresser une fourrure la nuit et d'avoir bien chaud ( c'est plus agréable en hiver, certes ). Bien sûr, le problème suivant peut se présenter : être obligé d'acquérir un lit king size pour accueillir, en plus de vous, vos 5 bouviers bernois et votre St Bernard !
 
 
-<p align="center"><img src= "/images/actualites/chiens-dans lit.jpg"></p>
+<p align="center"><img src="/images/actualites/chiens-dans-lit.jpg" class="img-responsive"></p>
 
 
 C'est vrai que dans ce cas de figure, l'arrivée de votre conjoint sur les lieux de votre repos à tous devient très compliquée : le manque de place va faire que vous allez sortir vos petites bêtes de la chambre et fermer la porte pour essayer d'avoir un peu de tranquillité. Mais alors c'est le drame : entre aboiements et grattage en vue de défoncer l'obstacle qui les séparent de vous, votre pause romantique à deux humains est compromise fortement. Le partage du lit serait-il un obstacle à une vie de couple équilibrée ? <img src = "/images/actualites/happyyes.gif">

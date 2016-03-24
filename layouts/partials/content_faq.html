@@ -1,0 +1,46 @@
+{{ $collection := .Params.collection}}
+{{ $categories := .Params.categories}}
+
+
+
+
+ <div class="caption">
+
+    <h1><a href="#">{{ .Title}}</a></h1>
+    
+    {{ .Content }}
+
+</div>
+
+<div class="line-block">
+    <ul class="list-inline tags">
+        {{ range $key, $value := .Params.tags }}
+            <li><a href="#">{{$value}}</a></li>
+        {{ end }}
+    </ul>
+</div>
+
+
+
+
+{{ if .Params.collection }}
+
+        {{ range $key, $value := .Site.Taxonomies.categories }}
+            {{ if eq $key $collection }}
+                {{ range $value.Pages }}
+                    {{ .Render "summary"}}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+
+{{ end }}
+
+
+
+
+
+
+<script src="https://apis.google.com/js/plusone.js">
+</script>
+
+<!--<div class="fb-comments" data-href="{{.Permalink}}" data-numposts="8" data-colorscheme="light"></div><-->

@@ -4,7 +4,7 @@ author: "marie"
 tags: ['sport', 'relaxation', 'detente']
 author: Marie-George Clouet
 date: 2014-11-06
-categories: [massage]
+categories: [activite_eau]
 thumbnail: /images/actualites/piscinechien.jpg
 Description: "Pensez à la natation pour détendre votre  ami a 4 pattes et le socialiser : chez vous ou en extérieur, quel est le meilleur endroit ?"
 summary: "Dimanche début d'après-midi : j'allume le téléviseur et, surprise, je découvre sur l'écran une superbe piscine dans laquelle barbotent joyeusement nos animaux domestiques favoris. Jusque là rien de vraiment étonnant ( sauf peut-être le bassin destiné aux animaux )."

@@ -10,7 +10,7 @@ description: "
 Un animal est tout à fait capable de voyager avec vous. Il peut prendre la voiture, l’avion, le train, le bateau. La plupart des animaux supportent très bien les voyages. Mais quelques animaux, que ce soit des chiens ou chats peuvent être malades quand on les transporte.  "
 
 ---
-Propos recueillis par les b>vétérinaires de clinique d’Angers</b> : <a href="http://www.espace-vet.fr/" title="Espace Vet" >Espace Vet</a>
+Propos recueillis par les vétérinaires de clinique d’Angers</b> : <a href="http://www.espace-vet.fr/" title="Espace Vet" >Espace Vet</a>
 
 Un animal est tout à fait capable de voyager avec vous. Il peut prendre la <b>voiture, l’avion, le train, le bateau</b>. La plupart des animaux supportent très bien les voyages. Mais quelques animaux, que ce soit des chiens ou chats peuvent être malades quand on les transporte.
 
