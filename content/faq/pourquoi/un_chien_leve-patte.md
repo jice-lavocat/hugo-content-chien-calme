@@ -3,7 +3,7 @@ title: "Pourquoi un chien lève la patte ?"
 tags: ['Comportement canin', 'Apaisement', ]
 categories: ["pourquoi"]
 thumbnail: "/images/actualites/puberte-chien.jpg"
-description: "Les diverses raisons du chien pour elver la patte."
+description: "Les diverses raisons du chien pour lever la patte."
 ---
 
 
