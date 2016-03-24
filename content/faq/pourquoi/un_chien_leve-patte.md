@@ -24,7 +24,7 @@ Rien de plus naturel pour un chien que de lever la patte. Mais que signifie ce g
 
 Ensuite, comme tout le monde le sait, le mâle léve la patte pour uriner.
 
-## A quel âge le mâle léve-t-il la patte ? ##
+## A quel âge le mâle lève-t-il la patte ? ##
 <ul><li> En général cela se passe quand le chien devient ado. Ce qui signifie que ça varie beaucoup d'un chien à un autre. ( entre 8 et 18 mois selon ) Certains mâles ne lèvent d’ailleurs jamais la patte, d'autres font pipi accroupis également de temps en temps.</li>
 <li>Le mâle lève la patte pour marquer son passage et donc son territoire. Il va d'ailleurs essayer d'uriner aussi haut que possible en présence de ses congénères masculins, histoire de « frimer » et de faire savoir que le chef c'est lui. Sans public, il fera pipi beaucoup moins haut. </li></ul>
 
