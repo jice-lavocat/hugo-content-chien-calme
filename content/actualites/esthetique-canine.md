@@ -3,7 +3,7 @@
 title: "Pour ou contre la chirurgie esthétique ?"
 
 author: "marie"
-tags: ['Santé', 'Esthétique' ]
+tags: ['santé', 'esthétique' ]
 date: 2016-01-18
 categories: [anxiété ]
 thumbnail: "/images/actualites/dobermans_432_323_filled.jpg"

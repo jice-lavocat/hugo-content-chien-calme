@@ -2,7 +2,7 @@
 title: "Sécurité en voiture : attachez votre chien !!! "
 
 author: "marie"
-tags: ['Sécurité','Voyage' ]
+tags: ['sécurité','voyage' ]
 categories: [produits]
 date: 2015-09-10
 thumbnail: "/images/actualites/waving_dog.jpg"

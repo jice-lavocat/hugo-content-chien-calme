@@ -2,7 +2,7 @@
 title: "Et si nos chiens se mettaient tous au bio ? "
 
 author: "marie"
-tags: ['Santé nature' ]
+tags: ['santé ' ]
 date: 2015-02-12
 categories: ["produits, massage"]
 thumbnail: "/images/actualites/biochien.jpg"

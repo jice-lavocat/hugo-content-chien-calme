@@ -2,7 +2,7 @@
 title: " Comment calmer un chien hyperactif "
 
 author: "marie"
-tags: ['Hyperactivité', 'Santé']
+tags: ['hyperactivité', 'santé']
 categories: [osteopathie, massage]
 date: 2015-04-23
 thumbnail: "/images/actualites/402102-mon-chien-est-hyperactif.jpg"

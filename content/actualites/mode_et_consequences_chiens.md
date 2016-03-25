@@ -2,7 +2,7 @@
 title: "Chien de chasse,  chiens de garde :les animaux deviennent phénomènes de mode"
 
 author: "marie"
-tags: [relation homme-chien','Comportement ']
+tags: [relation homme-chien','comportement ']
 date: 2014-12-02
 categories: ["produits", " yoga "]
 thumbnail: "/images/actualites/bouledogue-anglais-2.jpg"

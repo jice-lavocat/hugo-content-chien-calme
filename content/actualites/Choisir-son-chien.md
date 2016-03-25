@@ -2,7 +2,7 @@
 title: "Quel chien est fait pour vous ?"
 
 author: "marie"
-tags: ['Relation homme-chien' ]
+tags: ['relation homme-chien' ]
 date: 2016-01-04
 categories: [anxiété ]
 thumbnail: "/images/actualites/chien-pour-vous.jpg"

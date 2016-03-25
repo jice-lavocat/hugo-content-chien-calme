@@ -2,7 +2,7 @@
 title: "DogTv : la TV des chiens calmes ! "
 
 author: "marie"
-tags: ['Stress''Activité indoor']
+tags: ['stress','activité indoor']
 categories: [produits ]
 date: 2015-01-30
 thumbnail: "/images/actualites/Dogtv2.jpg"

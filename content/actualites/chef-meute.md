@@ -2,7 +2,7 @@
 title: "Vous aimez votre chien ? Soyez le « chef de meute » !"
 
 author: "marie"
-tags: ['Comportemetn canin','Education canine' ]
+tags: ['comportement ','education ' ]
 categories: [ massage]
 date: 2015-10-23
 thumbnail: "/images/actualites/chef-meute.jpg"

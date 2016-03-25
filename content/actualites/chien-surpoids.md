@@ -2,7 +2,7 @@
 title: " Votre chien est en surpoids? Une application aide à le contrôler !"
 
 author: "marie"
-tags: ['Santé','Diététique']
+tags: ['santé','diététique']
 categories: [ massage]
 date: 2015-11-20
 thumbnail: "/images/actualites/chien-obesei.jpg"

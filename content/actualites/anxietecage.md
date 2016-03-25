@@ -2,7 +2,7 @@
 title: "Une solution pour lutter contre l'anxiété de séparation : la cage ?"
 
 author: "marie"
-tags: ['Stress, Anxiété']
+tags: ['stress, snxiété']
 categories: [produits ]
 date: 2015-06-25
 thumbnail: "/images/actualites/crate_training.jpg"

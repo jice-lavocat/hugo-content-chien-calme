@@ -2,7 +2,7 @@
 title: "Pourquoi les chiens perdent leurs poils à l'automne ? "
 
 author: "marie"
-tags: ['Santé']
+tags: ['santé']
 categories: [ prduits]
 date: 2015-09-16
 thumbnail: "/images/actualites/puzzle_maya_130_175856.jpg"

@@ -2,7 +2,7 @@
 title: "Voulez-vous savoir Ce que nos chiens pensent de nous ?"
 
 author: "marie"
-tags: ['Comportement canin']
+tags: ['comportement ']
 categories: [osteopathie, yoga, hypnose]
 date: 2014-11-25
 thumbnail: /images/actualites/pensee-chien.jpg

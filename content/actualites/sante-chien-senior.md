@@ -2,7 +2,7 @@
 title: "Santé du chien senior: 6 conseils pour l'aider à bien vieillir "
 
 author: "marie"
-tags: ['Santé', 'Chien senior']
+tags: ['santé', ' senior']
 categories: [massage, produit]
 date: 2015-08-25
 thumbnail: "/images/actualites/Tableau-des-âges-Solutions-Canines.jpg"

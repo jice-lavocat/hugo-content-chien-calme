@@ -2,7 +2,7 @@
 title: "Votre chien a-t-il le mal des transports? "
 
 author: "marie"
-tags: ['Stress''Voyage']
+tags: ['stress','voyage']
 categories: [produits]
 date: 2015-09-30
 thumbnail: "/images/actualites/mal_de_transport_du_chien.jpg"

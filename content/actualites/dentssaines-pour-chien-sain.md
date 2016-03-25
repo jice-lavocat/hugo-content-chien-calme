@@ -2,7 +2,7 @@
 title: "Mal aux Canines et c'est le stress : des dents saines  !"
 
 author: "marie"
-tags: ['dents','santé cnaine']
+tags: ['dents','santé ']
 date: 2015-01-11
 categories: [produits]
 thumbnail: "/images/actualites/dentschien.jpg"

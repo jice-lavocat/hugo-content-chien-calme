@@ -2,7 +2,7 @@
 title: "Votre chien est unique, vous savez pourquoi ? "
 
 author: "marie"
-tags: ['Relation homme-chien' ]
+tags: ['relation homme-chien' ]
 date: 2015-04-13
 categories: ["massage"]
 thumbnail: "/images/actualites/chienethomme.jpg"

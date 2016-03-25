@@ -2,7 +2,7 @@
 title: "Pourquoi votre chien ne mange pas : 5 raisons majeures "
 
 author: "marie"
-tags: ['Santé', 'Régime']
+tags: ['santé', 'régime']
 categories: [prouits]
 date: 2015-12-08
 thumbnail: "/images/actualites/no-eating-dog.jpg"

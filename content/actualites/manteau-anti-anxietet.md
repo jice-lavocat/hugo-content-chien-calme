@@ -2,7 +2,7 @@
 title: " Un manteau anti-anxiéte pour calmer votre chien "
 
 author: "marie"
-tags: ['Stress', 'Anxiété']
+tags: ['stress', 'anxiété']
 categories: [produits]
 date: 2015-10-26
 thumbnail: "/images/actualites/anxiety_wrap.jpg"

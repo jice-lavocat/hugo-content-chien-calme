@@ -2,7 +2,7 @@
 title: " Comment mon jeune chien m'a ridiculisée!"
 
 author: "marie"
-tags: ['Education canine']
+tags: ['education canine']
 categories: [ massage]
 date: 2015-11-04
 thumbnail: "/images/actualites/csau2.JPG"

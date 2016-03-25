@@ -2,7 +2,7 @@
 title: "Votre chien déteste être pris au collier ? Comment éviter ces réactions ?"
 
 author: "marie"
-tags: ['Comportement', 'Agressivité' ]
+tags: ['comportement', 'agressivité' ]
 date: 2015-03-02
 categories: [acuponcture, anxiété départ]
 thumbnail: "/images/actualites/Hand-On-Collar-225x300.jpg"

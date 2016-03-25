@@ -2,7 +2,7 @@
 title: " 7 excellentes raisons d'adopter un senior"
 
 author: "marie"
-tags: ['Adoption', 'Senior', 'Vieillesse']
+tags: ['adoption', 'senior', 'vieillesse']
 date: 2015-11-02
 thumbnail: /images/actualites/senior-dog-a-adopter.jpg
 description: "Craquez vous aussi pour un chien senior. Il a tant d'amour à vous donner"

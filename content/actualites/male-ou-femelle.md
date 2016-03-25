@@ -2,7 +2,7 @@
 title: "Mâle ou femelle : quel est le/la plus calme ?"
 
 author: "marie"
-tags: ['Relation homme-chien']
+tags: ['relation homme-chien']
 categories: [massage]
 date: 2015-01-14
 thumbnail: "/images/actualites/chien_chienne.jpg"
