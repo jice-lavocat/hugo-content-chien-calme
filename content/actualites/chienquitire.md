@@ -2,7 +2,7 @@
 title: " Votre chien tire en laisse ? Votre faute ? "
 
 author: "marie"
-tags: ['promenade', 'laisse' ]
+tags: ['promenade', 'laisse', 'comportement' ]
 date: 2016-02-26
 categories: ["comportement"]
 thumbnail: "/images/actualites/chien-qui-tire.jpg"
@@ -50,7 +50,7 @@ Essayez au contraire de motiver votre loulou à rester au pied. Là encore jouez
 ## Vous gâchez sa promenade ##
 
 Beaucoup de gens pensent que sortir son chien, c'est lui faire faire ses besoins, de l'exercice..Bref qu'il DOIT se dépenser. Et ils négligent la satisfaction de son sens le plus développé : l'odorat ! Si on était capable de sentir comme nos compagnons, on serait même étonné qu'ils acceptent de revenir au pied quand on les appelle !
-Le nez c'est leur outil de prédilection. En <a href="http://www.chien-calme.com/actualites/Chien-et-odorat/"> reniflant </a> ils vérifient leurs «boites mail», <b>les messages laissés par leurs congénères</b>.
+Le nez c'est leur outil de prédilection. En <a href="http://www.chien-calme.com/actualites/Chien-et-odorat/">target=_"blank" reniflant </a> ils vérifient leurs «boites mail», <b>les messages laissés par leurs congénères</b>.
 
 Donc au lieu d'un tour au pas cadencé, laissez votre animal checker son courrier!certes vous ne voulez pas être tiré de pipi en pipi...Mais apprenez leur à vous demander du regard si ils peuvent ou pas...Appelez le chien par son nom, il se retourne, vous l'autorisez...Il vous demandera toujours la permission ensuite de sniffer tranquillement.
 

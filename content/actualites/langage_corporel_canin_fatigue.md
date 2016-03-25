@@ -2,7 +2,7 @@
 title: "Langage corporel canin : fatigue et signaux d'alarme "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement', 'langage corporel' ]
 date: 2015-01-17
 categories: ["hypnose"]
 thumbnail: "/images/actualites/signaux-2.jpg"
@@ -26,7 +26,7 @@ Les chiens communiquent aussi bien avec leurs congénères qu'avec les humains e
 
 
 ## Chien qui baille : fatigue ? ##
-Et oui, comme nous, les animaux **baillent de fatigue** ( et ils doivent alors se reposer ) : il est important aussi de connaître la cause de la <a href=" http://localhost:1313/actualites/fatigue-chien/" target="_blank">fatigue du chien</a> , conséquence d'un effort intensif ou fatigue inexpliquée ne vont pas conduire au même comportement du maître.( Ce sera le sujet d'un autre article ). Nos quadrupédes baillent aussi en situation de stress, d'anxiété ou pour détourner l'attention dans un conflit qui les implique.
+Et oui, comme nous, les animaux **baillent de fatigue** ( et ils doivent alors se reposer ) : il est important aussi de connaître la cause de la <a href=" http://localhost:1313/actualites/fatigue-chien/" target=_"blank">fatigue du chien</a> , conséquence d'un effort intensif ou fatigue inexpliquée ne vont pas conduire au même comportement du maître.( Ce sera le sujet d'un autre article ). Nos quadrupédes baillent aussi en situation de stress, d'anxiété ou pour détourner l'attention dans un conflit qui les implique.
 <ul>
 <li> Par exemple : vous sortez la brosse destinée à enlever les poils morts du pelage de votre chien. Et bien il peut bailler ! Pourquoi ? Pour vous faire savoir qu'il n'est pas tout à fait enthousiasmé par votre décision.</li>
 <li>Vous lui faites des papouilles, il baille : il vous dit qu'il n'est pas disposé à se tenir aussi près de vous. Ainsi il essaie de modifier votre comportement par son bâillement.</li>

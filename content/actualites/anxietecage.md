@@ -2,8 +2,8 @@
 title: "Une solution pour lutter contre l'anxiété de séparation : la cage ?"
 
 author: "marie"
-tags: ['Stress']
-categories: [produits, massage]
+tags: ['Stress, Anxiété']
+categories: [produits ]
 date: 2015-06-25
 thumbnail: "/images/actualites/crate_training.jpg"
 description: "L'anxiété de séparation est un problème que les propriétaires de chiens rencontrent assez fréquemment. Cela se traduit par la destruction de l'appartement, des aboiements répétés...votre animal est en stress quand vous le laissez seul ! Il souffre de ce qu'il considére comme un abandon. Nombreuses sont les techniques à appliquer pour essayer de résoudre cette angoisse."

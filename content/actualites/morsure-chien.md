@@ -2,7 +2,7 @@
 title: "Morsure et chien: comment réagir? Quels soins apporter ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['agressivité', 'comportement' ]
 date: 2015-08-17
 categories: [produits]
 thumbnail: "/images/actualites/morsure-chien.jpg"
@@ -73,7 +73,7 @@ Soyez particulièrement <b>vigilant avec les enfants</b>, premiers mordus par de
 Attention aussi à ne pas <b>laisser jouer un enfant sous la table</b> avec un animal. Ce dernier ne pouvant sortir et se sentant acculé n'aura d'autre « solution » que de mordre l'enfant au visage !
 Pensez que le chien attaque toujours quand il se sent menacé.
 
-Voici un <a href="http://www.doctissimo.fr/html/sante/encyclopedie/sa_1248_morsures_chien02.htm"target=_blank"> point</a> très bien fait établi par un vétérinaire sur les causes qui poussent un animal à mordre.
+Voici un <a href="http://www.doctissimo.fr/html/sante/encyclopedie/sa_1248_morsures_chien02.htm"target=_"blank"> point</a> très bien fait établi par un vétérinaire sur les causes qui poussent un animal à mordre.
 
 
 

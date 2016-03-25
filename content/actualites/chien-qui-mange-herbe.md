@@ -2,7 +2,7 @@
 title: "Pourquoi votre chien mange de l'herbe"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement' ]
 date: 2015-03-31
 categories: [ostéopathie]
 thumbnail: "/images/actualites/chien-qui-broute-de-l-herbe.jpg"
@@ -29,7 +29,7 @@ Manger de l'herbe occupe votre animal quand il n'a rien à faire. Pour régler c
 ## C'est bon pour son estomac ##
 Des spécialistes affirment que manger de l'herbe est une forme <b>d'auto médication</b> si votre chien a des problèmes d'estomac ou de digestion. Il va manger de l'herbe pour se soulager en vomissant.
 
-<b>Attention</b> ! Les problèmes d'estomac peuvent être aussi le signe de pathologies plus graves comme un reflux gastrique ou une inflammation des intestins. Pensez aussi à consulter un <a href="http://www.chien-calme.com/actualites/osteo_canin/"target=_blank>vétérinaire ostéopathe canin</a>. Il peut vous proposer des solutions.
+<b>Attention</b> ! Les problèmes d'estomac peuvent être aussi le signe de pathologies plus graves comme un reflux gastrique ou une inflammation des intestins. Pensez aussi à consulter un <a href="http://www.chien-calme.com/actualites/osteo_canin/"target=_"blank">vétérinaire ostéopathe canin</a>. Il peut vous proposer des solutions.
 
 Pour conclure, il n'est pas nécessaire de s’<b>inquiéter</b> quand votre chien mange de l'herbe. Il faut par contre être sûr qu'elle en contient pas de <b>pesticides</b>, toxiques pour votre compagnon. Restez vigilant et observez le comportement de votre animal de compagnie.
 En cas de doute, consultez un spécialiste.

@@ -2,7 +2,7 @@
 title: "Les chiens surfeurs : des athlètes épanouis !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['sport canin', 'surf' ]
 date: 2015-09-28
 categories: [activite_eau]
 thumbnail: "/images/actualites/podiul6surf-chiens_n.jpg"

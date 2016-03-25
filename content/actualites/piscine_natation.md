@@ -17,7 +17,7 @@ On conduit ainsi ses protégés à quatre pattes chez le coiffeur ou à la pisci
 
 ## Piscine et détente canine
 
-Les avantages de la natation pour les chiens sont nombreux et le succés de la piscine catalane proche de <a href=" https://www.facebook.com/Canjane" target=" _blank" <a href="https://www.youtube.com/user/CesarMillan" target="_blank">Barcelone </a>
+Les avantages de la natation pour les chiens sont nombreux et le succés de la piscine catalane proche de <a href=" https://www.facebook.com/Canjane" target=" _blank" <a href="https://www.youtube.com/user/CesarMillan" target=_"blank"">Barcelone </a>
  inaugurée en Juin 2014, en témoigne clairement : tout est axé sur la détente et le plaisir. Des **jouets** sont mis à disposition des animaux, des **super toboggans** et les plus craintifs se voient proposer des bouées et autres supports de nage. On peut même les inscrire à un **cours** de natation !
 
 Les profondeurs sont également adaptées à la  taille des nageurs à 4 pattes, les eaux sont entourées de petites plages, en bref, tout est fait pour assurer un moment exceptionnel à nos amis et à leurs maitres. On peut trouver sur place un bassin spécialement conçu pour la réeducation canine. Les techniques de massage aquatiques sont optimales pour améliorer souplesse et troubles squeletiques.
@@ -35,6 +35,6 @@ Le matériau qui les compose est naturellement beaucoup plus résistant que celu
 
 ### Les piscines en métal
 Beaucoup plus solides sont les bassins de métal. Si vous récupérez des cuves de stockage par exemple pour les transformer en piscines, pensez absolument à la rampe d'accés. Ils ne pourront pas sortir seuls de leur bain ! Pensez éventuellement à les équiper de gilets de sauvetage pour leur assurer une sécurité optimale.
-N'oubliez pas dans tous les cas que les agents traitant les piscines sont chimiques et donc agressifs pour la peau de vos chiens. Pensez à choisir des systémes de filtres d'eau salée ou d'ozone qui nettoient <a href =" http://www.nytimes.com/2007/04/05/garden/05pools.html?pagewanted=all&_r=1&" target="_blank "> l'eau</A> naturellement, excellent systéme pour vous aussi et vos enfants.
+N'oubliez pas dans tous les cas que les agents traitant les piscines sont chimiques et donc agressifs pour la peau de vos chiens. Pensez à choisir des systémes de filtres d'eau salée ou d'ozone qui nettoient <a href =" http://www.nytimes.com/2007/04/05/garden/05pools.html?pagewanted=all&_r=1&" target=_"blank"> l'eau</A> naturellement, excellent systéme pour vous aussi et vos enfants.
 
 A vous de jouer maintenant : piscine provée, piscine publique ? Dans tous les cas vos chiens vont adorer s'y relaxer !

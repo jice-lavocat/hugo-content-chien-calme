@@ -2,7 +2,7 @@
 title: "Santé du chien senior: 6 conseils pour l'aider à bien vieillir "
 
 author: "marie"
-tags: ['Stress']
+tags: ['Santé', 'Chien senior']
 categories: [massage, produit]
 date: 2015-08-25
 thumbnail: "/images/actualites/Tableau-des-âges-Solutions-Canines.jpg"
@@ -17,7 +17,7 @@ Pour les humains comme pour les chiens, l'âge n'est qu'un chiffre. On voit des 
 On considère en général que c'est autour de <b>7 ans</b> que nos compagnons deviennent des «  seniors » ( cela varie selon la taille du chien, plus ils sont petits, plus tard ils deviennent des <b>« seniors »</b>. Il est donc important pour vous de savoir que faire pour entretenir la forme physique de votre loulou et ses facultés cognitivistes. C'est la même chose que pour nous, humains ! On réduit un peu l’intensité de nos efforts, on mange sain, on entretient sa mémoire...
 
 
-Voici 6 conseils qui vous aideront à garder votre chien en <a href="http://www.today.com/pets/age-just-number-7-tips-keeping-senior-dogs-healthy-happy-t39511"target =_blank> bonne santé</a> à ralentir l'impact des années qui passent.
+Voici 6 conseils qui vous aideront à garder votre chien en <a href="http://www.today.com/pets/age-just-number-7-tips-keeping-senior-dogs-healthy-happy-t39511"target =_"blank"> bonne santé</a> à ralentir l'impact des années qui passent.
 
 
 
@@ -79,7 +79,7 @@ Des études ont montré que les chiens qui vivaient à plusieurs avaient une <b>
 
 Attention cependant : n'introduisez pas de chiot hystérique avec un chien déjà fatigué. Un nouveau petit compagnon est à introduire quand votre senior est encore dynamique et en forme. Sinon le bébé chien va épuiser son nouvel ami et l'énerver.
 
-<p align ="center"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2kncjg" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x2kncjg_un-vieux-chien-joue-un-tour-a-un-jeune-chien_animals" target="_blank">Un vieux chien joue un tour &agrave; un jeune chien</a></p>
+<p align ="center"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2kncjg" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x2kncjg_un-vieux-chien-joue-un-tour-a-un-jeune-chien_animals" target=_"blank">Un vieux chien joue un tour &agrave; un jeune chien</a></p>
 
 
 ## Préservez sa santé, ayez des égards !##

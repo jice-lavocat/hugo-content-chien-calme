@@ -2,7 +2,7 @@
 title: "A quand le dog dancing en France ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['danse''sport indoor' ]
 date: 2016-01-26
 categories: ["activite_appartement"]
 thumbnail: "/images/actualites/dogdancing.jpg"

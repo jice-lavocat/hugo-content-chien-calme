@@ -2,7 +2,7 @@
 title: "Protéger son chien contre le froid: une necessité pour son confort et sa santé"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé en hiver' ]
 date: 2015-01-09
 categories: [ massage]
 thumbnail: "/images/actualites/chienhiver.jpg"

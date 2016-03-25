@@ -2,7 +2,7 @@
 title: "Insomniaques ! Mettez votre chien dans votre lit"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['anxiété','nsomnie']
 date: 2015-12-16
 categories: [produits]
 thumbnail: "/images/actualites/chien-et-sommeil.jpg"

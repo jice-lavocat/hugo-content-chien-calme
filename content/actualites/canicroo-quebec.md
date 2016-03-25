@@ -2,7 +2,7 @@
 title: "Tout sur le canicross : interview de Cynthia Dionne."
 
 author: "marie"
-tags: ['aboiement', 'ostéopathie']
+tags: ['canicross', 'sport canin']
 categories: ["activite_campagne","activite_montagne"]
 author: Marie-George Clouet
 date: 2015-03-23
@@ -79,6 +79,6 @@ Pour le canicross il est important d'avoir un harnais pour le chien de type xbac
 J'encourage beaucoup les petite entreprise du Québec c'est très important pour moi.
 <ul><li> <a href ="https://www.facebook.com/marielle.winterson" target="_blank"> lMarielle Winterson</a> est spécialisée dans les ceintures,</li>
 <li> <b>Nahak</b> j'aime beaucoup leur bungee ils sont résistants et lls se règlent facilement </li>
-<li>Pour les harnais j'ai ceux des Créations <a href ="https://www.facebook.com/pages/Cani-Sortie-et-Les-Cr%C3%A9ations-TORK/695355963874915"target=_"blank">TORK </a> confectionnés par Mylène Parent. J'en ai essayé plusieurs et je crois que c'est ce qu'il faut faire. Acheter sur internet ne nous permet pas d'essayer et surtout de vérifier les coutures et la solidité du matériel utilisé, la finition ainsi que le degré de confort.</ul>
+<li>Pour les harnais j'ai ceux des Créations <a href ="https://www.facebook.com/pages/Cani-Sortie-et-Les-Cr%C3%A9ations-TORK/695355963874915 "target=_"blank">TORK </a> confectionnés par Mylène Parent. J'en ai essayé plusieurs et je crois que c'est ce qu'il faut faire. Acheter sur internet ne nous permet pas d'essayer et surtout de vérifier les coutures et la solidité du matériel utilisé, la finition ainsi que le degré de confort.</ul>
 
 ## <blockquote> Merci Cynthia d'avoir répondu à nos questions et de nous avoir envoyé vos photos !</blockquote> ##

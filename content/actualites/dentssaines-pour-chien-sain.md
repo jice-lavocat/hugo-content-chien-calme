@@ -2,7 +2,7 @@
 title: "Mal aux Canines et c'est le stress : des dents saines  !"
 
 author: "marie"
-tags: ['doga','yoga canin']
+tags: ['dents','santé cnaine']
 date: 2015-01-11
 categories: [produits]
 thumbnail: "/images/actualites/dentschien.jpg"
@@ -11,7 +11,7 @@ Description: "Avoir mal aux dents c'est l'horreur : une douleur permanente, imp
 ---
 
 
-Voici ce que révélé une étude de <a href="http://www.wowt.com/home/headlines/Dont-Overlook-Pets-Dental-Hygiene-288143401.html/" target="_blank"> l'American Veterinary Association </a>  qui souligne que les maladies bucco-dentaires sont le problème numéro 1 aux States et qu'elles touchent **85% des chiens à partir de 3 ans**. ( Et non ce n'est pas parce que les chiens américains boivent plus de coca que les nôtres!)
+Voici ce que révélé une étude de <a href="http://www.wowt.com/home/headlines/Dont-Overlook-Pets-Dental-Hygiene-288143401.html/" target=_"blank"> l'American Veterinary Association </a>  qui souligne que les maladies bucco-dentaires sont le problème numéro 1 aux States et qu'elles touchent **85% des chiens à partir de 3 ans**. ( Et non ce n'est pas parce que les chiens américains boivent plus de coca que les nôtres!)
 
 Une maladie <a href=" http://fr.wikipedia.org/wiki/Maladie_parodontale/" target="_blank"> parodontle </a>  risque fort de raccourcir de 5 ans la durée de vie de votre compagnon. En effet, des dents malsaines peuvent propager l'infection à d'autres organes, comme le cœur, les reins, le foie...
 

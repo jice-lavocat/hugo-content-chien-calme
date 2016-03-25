@@ -2,7 +2,7 @@
 title: "Votre chien dort-il sur votre lit ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement canin' ]
 date: 2015-02-25
 categories: ["massage"]
 thumbnail: "/images/actualites/lit.jpg"

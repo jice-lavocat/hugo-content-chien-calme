@@ -1,8 +1,8 @@
 ---
 title: "La WoufkiLed, pour voir son chien la nuit, a vu le jour. "
 author: "marie"
-tags: ['Stress']
-categories: [massage]
+tags: ['confort']
+categories: [produits]
 date: 2015-10-15
 description: "Au mois de juillet, je vous ai présenté sur ces pages la WoufkiLed, une médaille permettant de voir son chien loin dans la nuit. Son lancement sur le marché dépendait d'une campagne de crowdfunding. La campagne a abouti et désormais la médaille bleue, rose ou rouge est en vente pour tous !"
 thumbnail: "/images/actualites/woufkirose.jpg"

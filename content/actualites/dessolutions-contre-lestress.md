@@ -2,7 +2,7 @@
 title: "Du violon classique, à l'aromathérapie et le sport : stop à l'anxiété canine !"
 
 author: "marie"
-tags: ['aboiement', 'ostéopathie']
+tags: ['aboiement', 'stress']
 categories: ["produits, massage"]
 author: Marie-George Clouet
 date: 2015-03-05
@@ -54,7 +54,7 @@ Les chiens sont très sensibles à l'odeur. Choisissez des huiles essentielles d
 <p align="center"><img src= "/images/actualites/dogandlavendel.jpg"></p>
 
 ### Mettez de la musique classique ###
-Ce n'est pas une plaisanterie. Des études à Glasgow ont clairement prouvé que les chiens extrêmement stressés  en chenil, qui aboyaient comme des fous, se sont presque instantanément calmés en entendant du <a href ="http://www.express.co.uk/news/uk/561305/Canines-violins-classical/ " target="_blank"> violon </a>  Leurs morceaux préférés semblent être le <b>Clair de Lune de Debussy, l'Adagio de Barber, des piéces pour violons de Bach</b> !
+Ce n'est pas une plaisanterie. Des études à Glasgow ont clairement prouvé que les chiens extrêmement stressés  en chenil, qui aboyaient comme des fous, se sont presque instantanément calmés en entendant du <a href ="http://www.express.co.uk/news/uk/561305/Canines-violins-classical/ " target=_"blank"> violon </a>  Leurs morceaux préférés semblent être le <b>Clair de Lune de Debussy, l'Adagio de Barber, des piéces pour violons de Bach</b> !
 
 <p align="center"><img src= "/images/actualites/Scotland-dog-violin-561305.jpg"></p>
 

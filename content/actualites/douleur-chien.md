@@ -2,7 +2,7 @@
 title: "Comment savoir si votre chien souffre? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé','douleur' ]
 date: 2016-03-14
 categories: ["massage"]
 thumbnail: "/images/actualites/chien-souffre.jpg"

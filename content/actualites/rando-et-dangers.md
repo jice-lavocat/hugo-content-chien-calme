@@ -2,7 +2,7 @@
 title: "La randonnée c'est bien, mais en évaluer les dangers, c'est mieux."
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['sport outdoor' ]
 date: 2015-01-20
 categories: [activite_campagne]
 thumbnail: "/images/actualites/rando-chien.jpg"
@@ -41,7 +41,7 @@ Si votre animal **halète fortement**, si il se **déplace avec difficulté** ( 
 
 <p align="center"><img src= "/images/actualites/processionnaire.jpg"></p>
 
-<li> Faites le **boire beaucoup**, par contre prévoyez beaucoup d'eau pour éviter celle des ruisseaux par exemple, souvent polluée et susceptible de provoquer des troubles intestinaux, voire la  <a href="http://fr.wikipedia.org/wiki/Leptospirose" target="_blank">< leptospirose> </a> </li>
+<li> Faites le **boire beaucoup**, par contre prévoyez beaucoup d'eau pour éviter celle des ruisseaux par exemple, souvent polluée et susceptible de provoquer des troubles intestinaux, voire la  <a href="http://fr.wikipedia.org/wiki/Leptospirose" target=_"blank"> leptospirose </a> </li>
 
 <li> Surveillez les **bonds intempestifs** de Médor sur les passants ; nombreux sont ceux qui n'apprécient guère ou ont très peur. </li>
 
