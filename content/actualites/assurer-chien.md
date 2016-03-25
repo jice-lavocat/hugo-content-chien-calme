@@ -2,7 +2,7 @@
 title: " Assurer son chien est-ce nécessaire ? "
 
 author: "marie"
-tags: ['Santé ]
+tags: ['Santé' ]
 date: 2015-07-08
 categories: [osthéopathie]
 thumbnail: "/images/actualites/platre.jpg"
