@@ -2,7 +2,7 @@
 title: "Protéger son chien - Mutuelle santé pour animal de compagnie"
 layout: page
 Description : "Comment protéger son chien et choisir sa mutuelle."
-url : "mutuelle"
+url : "assurance"
 ---
 
 ## Comment être remboursé des frais vétérinaires ?
