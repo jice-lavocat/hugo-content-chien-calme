@@ -22,4 +22,4 @@ On sent la peine et la tristesse de Sophie Dujardin qui se cache derrière les p
 
 « Entre chien et loups » est un ouvrage vraiment touchant. En effet, la maladie n'y est pas présentée de façon lourde, les personnages mis en scène sont dépeints avec justesse. La vision canine apporte une touche de légèreté à ce récit sombre.
 
-A lire vraiment ! Vous serz aussi bien séduit par l'innocence des propos animaux que bouleversé par la douleur sous jacente de l'humain en souffrance.
+A lire vraiment ! Vous serez aussi bien séduit par l'innocence des propos animaux que bouleversé par la douleur sous jacente de l'humain en souffrance.
