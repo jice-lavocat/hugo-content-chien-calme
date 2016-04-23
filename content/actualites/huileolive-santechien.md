@@ -35,6 +35,6 @@ Il n'y a pas que l'humain a profiter des bienfaits de l’huile d'olive pour ses
 
 
 
-<br><br>Enfin, pensez aussi à y mélanger un peu de curcuma, extremement bénéfique aussi pour la <a href="http://www.chien-calme.com/assurance/" target=_"blank" santé de votre chien.</a>
+<br><br>Enfin, pensez aussi à y mélanger un peu de curcuma, extremement bénéfique aussi pour la <a href="http://www.chien-calme.com/assurance/"target=_"blank"> santé de votre chien.</a>
 
 Alors, <b>allez-vous essayer ? Avez-vous déjà testé ? Qu'en pensez-vous ???????</b></li></ul>
