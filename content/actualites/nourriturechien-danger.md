@@ -9,7 +9,7 @@ thumbnail: "/images/actualites/chien_sante.jpg"
 Description: "Nous le savons tous. Ce que nous mettons dans notre assiette joue un rôle fondamental sur notre santé. Il en va de même avec nos petits poilus.  "
 ---
 
-Nous le savons tous. Ce que nous mettons dans notre assiette joue un rôle fondamental sur notre santé. Il en va de même avec nos petits poilus.
+Nous le savons tous. Ce que nous mettons dans notre assiette joue un rôle fondamental sur notre <a href="http://www.chien-calme.com/assurance/" target=_"blank" </a> santé. Il en va de même avec nos petits poilus.
 Il existe plusieurs types de régime alimentaire pour nos animaux. On peut leur donner une ration faite maison, acheter des boites ou croquettes de qualité... Mais soyez vigilent sur la composition de l'alimentation de votre chien. Sa mauvais qualité risque d'engendrer trois <a href="http://topdogtips.com/canine-diseases-linked-to-dog-food/" target=_"blank"> problémes graves </a>.
 
 
