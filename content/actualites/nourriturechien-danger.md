@@ -69,9 +69,3 @@ Maintenant, personnellement, je choisis la nourriture de mon chien sur des sites
 <p align="center"><img src="/images/actualites/orijen.jpg"class="img-responsive">
 
 http://www.dogfoodadvisor.com/
-
-
-
-
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/cY3LRiWJiwk" frameborder="0" allowfullscreen></iframe>
