@@ -35,6 +35,7 @@ Available categories :
         - produits
 
 
+
 *Grandes images*
 Pour les grandes images qui débordent du template, il faut ajouter la class 'img-responsive' à l'image pour que la largeur s'adapte au conteneur.
 
