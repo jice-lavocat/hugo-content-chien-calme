@@ -47,28 +47,9 @@ Pour une meilleure digestion, il est préférable de donner des repas à heures 
 
 Un bébé de moins de 5 mois peut manger 3 fois par jour ( voire même 4 au début). Ensuite entre 9 et 15 mois, deux repas sont conseillés. Personnellement je continue à donner 2 repas par jour à mon chien de 24 mois. Cela l'aide à mieux digérer et évite de lui surcharger l'estomac.
 
+Dernière précision : <b>ne changes jamais brusquement la nourriture de votre chien</b> mais habituez le lentement. Par exemple 1/3 de nouvel aliment et 2/3 de l'ancien sur deux jours ou trois, puis 2/3 de nouveau sur la même durée, puis la totalité. Certains chiens en effet ne supportent pas du tout un changement radical.
 
 
-
-
-
-immunitaire.</li>
-<p align="center"><img src="/images/actualites/senior-dog1.jpg"class="img-responsive"></p>
-
-<li>En bref, le contrôle du poids d'un animal de compagnie est une étape essentielle pour assurer une santé optimale.Les besoins en éléments nutritifs sont liés à l'âge et l'espèce d'un animal de compagnie. En général, les vieux animaux ont besoin de plus de protéines que de glucides. De nombreuses formulations alimentaires pour les chiens âgés prennent en compte ces besoins. L'alimentation est un autre sujet à discuter avec votre vétérinaire.</li>
-<li>Le contrôle des <b>Parasites – Pensez à faire vérifier les vers du cœur</b> en prévention avec des tests fécaux effectués chaque année pour aider à garder un œil sur ce qui se passe à l'intérieur du corps de l'animal. </li>
-<li>Les <b>Soins bucco-dentaires</b> – les soins dentaires réguliers sont importants pour tous les animaux de compagnie et devraient être complétés par un brossage quotidien. Lors de l'achat de friandises, recherchez celles approuvées par les vétérinaires </li>
-<li> La <b>santé mentale</b> – Pour aider son chien, il faut lui garder une routine confortable, prévisible qui va le calmer et éviter le stress. Il faut aussi encourager des activités sociales avec les humains et les interactions sociales avec des membres préférés de la famille.</li>
-<li><b>Les Considérations environnementales</b> - envisager d'ajuster l'emplacement de la literie, de la nourriture, l'eau, de sorte que ces nécessités sont facilement accessibles aux animaux plus âgés.
-
-<p align="center"><img src="/images/actualites/ob_db5f22_panier.jpg"class="img-responsive"></p>
-
-
-<li>Les visites régulières chez le vétérinaire pour prévenir tout problème grave ou traiter rapidement les maladies. </li>
-
-
-
-
-
+Pensez à ses vaccinations et réfléchissez à une <a href= http://www.chien-calme.com/actualites/assurer-chien/"> assurance </a>. Cela peut vous économiser beaucoup d'argent !
 
 
