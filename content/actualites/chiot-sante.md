@@ -53,3 +53,5 @@ Dernière précision : <b>ne changes jamais brusquement la nourriture de votre 
 Pensez à ses vaccinations et réfléchissez à une <a href= http://www.chien-calme.com/actualites/assurer-chien/"> assurance </a>. Cela peut vous économiser beaucoup d'argent !
 
 
+<a href="http://mestiti.centerblog.net"><img src="http://mestiti.m.e.pic.centerblog.net/2cw6t1zj.gif" border="0"  alt="Image du Blog mestiti.centerblog.net" /></a>
+
