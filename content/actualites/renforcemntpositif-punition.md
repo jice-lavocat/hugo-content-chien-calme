@@ -1,7 +1,7 @@
 ---
 title: "Renforcement positif, négatif et punition : quelles différences ?"
 author: "marie"
-tags: ['sport', 'relaxation', 'detente']
+tags: ['comportement', 'éducation', 'detente']
 date: 2015-10-02
 categories: [massage]
 thumbnail: "/images/actualites/renforcement-positif.jpg"

@@ -2,7 +2,7 @@
 title: "Dois je vacciner mon chien contre la grippe ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé' ]
 date: 2016-02-20
 categories: ["massage"]
 thumbnail: "/images/actualites/chien-grippe.jpg"

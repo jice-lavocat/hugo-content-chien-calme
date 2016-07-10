@@ -2,7 +2,7 @@
 title: "Chien sur le dos : soumission ou tactique de combat ? Devez-vous réagir ?"
 
 author: "marie"
-tags: ['']
+tags: ['comportement']
 categories: ["produits"]
 author: Marie-George Clouet
 date: 2015-04-30
@@ -15,7 +15,7 @@ Vous avez tendance à penser que le <b>passage sur le dos</b> de votre chien qua
 
 Mais il y a une autre interprétation que vous devez savoir identifier avant de voler au secours de votre petit compagnon agressé quand vous l'amenez au parc. Certes, s'il a peur, vous devez intervenir.
 
-Mais il semblerait, selon de <a href =" http://www.sciencedirect.com/science/article/pii/S037663571400196X" target="_blank"> découvertes canadiennes </a>, que c'est aussi  une tactique de combat pour <b>prolonger la session de jeu</b>. En fait, en roulant sur le dos, le chien en jeu manœuvre son adversaire.
+Mais il semblerait, selon de <a href =" http://www.sciencedirect.com/science/article/pii/S037663571400196X" target=_"blank"> découvertes canadiennes </a>, que c'est aussi  une tactique de combat pour <b>prolonger la session de jeu</b>. En fait, en roulant sur le dos, le chien en jeu manœuvre son adversaire.
 
 
 <p align="center"><img src= "/images/actualites/surledos.jpg"></p>

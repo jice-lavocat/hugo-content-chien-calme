@@ -5,7 +5,7 @@ title: "Acuponcture animale : une thérapie qui prend de l'ampleur"
 author: "marie"
 tags: ['anxiété' ]
 date: 2014-11-15
-categories: [acuponcture, anxiété départ]
+categories: [acuponcture]
 thumbnail: "/images/actualites/acudog.jpg"
 Description: "Videos et explications de veterinaires sur la pose d'aiguilles sur les chiens et les résultats : soulagement et apaisement rapides"
 summary: "Face à l’échec de la médecine classique ( administration de stéroïdes et de relaxants musculaires ), l'acuponcture offre une solution alternative très efficace pour le traitement de l'arthrite. Cette thérapie est en train de conquérir de plus en plus adaptes aux US"

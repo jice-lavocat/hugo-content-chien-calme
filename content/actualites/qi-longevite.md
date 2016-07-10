@@ -2,7 +2,7 @@
 title: "Un gros QI, une longue vie ? "
 
 author: "marie"
-tags: ['intelligence', 'senior', 'vieillesse', 'qi' ]
+tags: ['santé', 'senior', 'vieillesse', 'qi' ]
 date: 2016-02-08
 thumbnail: "/images/actualites/test_qi_chien.jpg"
 Description: " Un test de QI pour chiens a été développé par des scientifiques. Ils prétendent que cela pourrait ouvrir la voie à des avancées énormes dans le domaine suivant. Quel lien existe entre intelligence, santé et longévité ? "
@@ -13,7 +13,7 @@ Un test de QI pour chiens a été développé par des scientifiques. Ils préten
 
 Les experts ont découvert que l'intelligence de chien fonctionne de la même manière que l'intelligence humaine. Les chiens qui obtiennent de bons résultats dans une tâche ont également tendance à bien faire dans d'autres, comme nous, les humains.Ils auraient donc un QI supérieur à leurs congénères.
 
-Des <a href="http://home.bt.com/news/science-news/dog-iq-test-could-boost-understanding-of-link-between-intelligence-and-health-11364038712970" target =_"blank"> études récentes </a>ont montré que l<b>es personnes intelligentes ont tendance à vivre plus longtemps</b>. Les scientifiques veulent donc vérifier si c'est la même chose avec les chiens. Cela leur permettrait d'étudier les problèmes de santé sur sur le long terme, comme la démence sénile par exemple.
+Des <a href="http://home.bt.com/news/science-news/dog-iq-test-could-boost-understanding-of-link-between-intelligence-and-health-11364038712970" target =_""blank"> études récentes </a>ont montré que l<b>es personnes intelligentes ont tendance à vivre plus longtemps</b>. Les scientifiques veulent donc vérifier si c'est la même chose avec les chiens. Cela leur permettrait d'étudier les problèmes de santé sur sur le long terme, comme la démence sénile par exemple.
 
 
 <p align="center">

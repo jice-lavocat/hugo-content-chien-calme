@@ -2,7 +2,7 @@
 title: " Éducation canine : ne donnez pas de fausses infos à votre chien !  "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement', 'relation homme-chien' ]
 date: 2015-03-10
 categories: ["massage"]
 thumbnail: "/images/actualites/chien_ahuri.png"
@@ -24,7 +24,7 @@ Mais attention ! Ce n'est pas parce que vous le voyez jouer avec sa queue penda
 
 ## Le chien reconnaît vite le geste mensonger##
 
-Voici les résultats des <a href="http://link.springer.com/article/10.1007%2Fs10071-014-0816-2" target="_blank"> tests </a>effectués sur 34 chiens.
+Voici les résultats des <a href="http://link.springer.com/article/10.1007%2Fs10071-014-0816-2" target=_"blank"> tests </a>effectués sur 34 chiens.
 
 Un humain montre une première fois du doigt un récipient qui contient de la nourriture, ensuite il montre un récipient vide, une dernière fois un récipient avec nourriture.
 
@@ -49,7 +49,7 @@ Mais il <b>vérifie aussi toujours la validité</b> de l'info fournie : avant d
 
 ## Le chien équilibré a besoin de rituels ##
 
-Il est dans la nature du chien, selon <a href ="http://www.bris.ac.uk/vetscience/people/88445/" target="_blank">John Bradshaw </a> de se sentir bien dans des situations prévisibles.
+Il est dans la nature du chien, selon <a href ="http://www.bris.ac.uk/vetscience/people/88445/" target=_"blank">John Bradshaw </a> de se sentir bien dans des situations prévisibles.
 
 Si il y a rupture dans leur régularité, le chien va <b>chercher des solutions alternatives</b>. Et si il est incapable de trouver, il pourra se montrer agressif, peureux, instable. Voilà une explication aux troubles du comportement d'animaux gérés par des maîtres imprévisibles ! Donc avis à tous les maîtres ! Restez constants dans l’éducation et l'organisation de la journée de votre compagnon.  
 
@@ -58,7 +58,7 @@ Le chien ignore donc nos gestes si il les pense trompeurs. Inutile de lui montre
 <p align="center">
 <img src= "/images/actualites/jesaisousontmesbiscuits.jpeg"></p>
 
-Pas étonnant venant d'animaux dont on sait qu'ils sont capables de lire les expression humaine sur des photos de <a href="http://www.chien-calme.com/actualites/sourire-et-chien/"target=_blank> demi-visages humains </a>.
+Pas étonnant venant d'animaux dont on sait qu'ils sont capables de lire les expression humaine sur des photos de <a href="http://www.chien-calme.com/actualites/sourire-et-chien/"target=_"blank"> demi-visages humains </a>.
 
 
 

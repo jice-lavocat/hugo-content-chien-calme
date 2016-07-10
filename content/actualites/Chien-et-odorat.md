@@ -2,7 +2,7 @@
 title: "Comment nos chiens voient le monde ? Avec leur nez !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['odorat canin' ]
 date: 2015-02-03
 categories: [produits]
 thumbnail: "/images/actualites/odaorat-chien.jpg"
@@ -22,7 +22,7 @@ Il faut d'abord bien souligner que, contrairement aux idées reçues les **chien
 
 
  A noter : la longueur de nez optimale pour un flair au top est le museau du <b>berger allemand</b>. L'odorat du chien est un million de fois plus sensible que le nôtre !</li>
-<li><b> Ils sentent l'invisible</b> ! Le nez canin est à même de sentir les <b>hormones humaines et animales</b> : pratique pour savoir si un partenaire animal se trouve dans les parages ( et donc les femelles en chaleur, par exemple ) et aussi pour comprendre qu'une amie humaine est enceinte par exemple. Il semble même que le nez du chien soit capable de <b> déceler des maladies graves </b>, comme les <a href="http://www.3piliers.com/l--olfaction-et-son-utilisation/chien-depistage-de-cancer.htm " target="_blank"> cancers </a> !</li>
+<li><b> Ils sentent l'invisible</b> ! Le nez canin est à même de sentir les <b>hormones humaines et animales</b> : pratique pour savoir si un partenaire animal se trouve dans les parages ( et donc les femelles en chaleur, par exemple ) et aussi pour comprendre qu'une amie humaine est enceinte par exemple. Il semble même que le nez du chien soit capable de <b> déceler des maladies graves </b>, comme les <a href="http://www.3piliers.com/l--olfaction-et-son-utilisation/chien-depistage-de-cancer.htm " target=_"blank"> cancers </a> !</li>
 Ils sont capables de faire la différence entre deux jumeaux !
 
 <p align="center"><img src= "/images/actualites/falir-chien.jpg"></p>

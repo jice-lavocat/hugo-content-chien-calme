@@ -2,8 +2,8 @@
 title: "Pourquoi votre chien ne mange pas : 5 raisons majeures "
 
 author: "marie"
-tags: ['Stress']
-categories: [massage]
+tags: ['santé', 'régime']
+categories: [prouits]
 date: 2015-12-08
 thumbnail: "/images/actualites/no-eating-dog.jpg"
 description: " Votre chien est vraiment difficile sur sa nourriture. Alors que la plupart des animaux se jettent avidement sur leur gamelle, votre compagnon boude régulièrement la sienne. Soucieux du bien -être de votre petit poilu vous voulez lui apporter le meilleur pour sa santé "
@@ -11,7 +11,7 @@ description: " Votre chien est vraiment difficile sur sa nourriture. Alors que l
 ---
 
 
-Votre chien est vraiment difficile sur sa  <a href="http://www.philstar.com/pet-life/2015/12/01/1527862/5-reasons-why-your-pet-wont-eat-its-food" target="_blank"> nourriture </a>.
+Votre chien est vraiment difficile sur sa  <a href="http://www.philstar.com/pet-life/2015/12/01/1527862/5-reasons-why-your-pet-wont-eat-its-food" target=_"blank"> nourriture </a>.
 Alors que la plupart des animaux se jettent avidement sur leur gamelle, votre compagnon boude régulièrement la sienne.
 
 

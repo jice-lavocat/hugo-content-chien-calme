@@ -2,7 +2,7 @@
 title: "Voulez-vous savoir Ce que nos chiens pensent de nous ?"
 
 author: "marie"
-tags: ['Stress']
+tags: ['comportement ']
 categories: [osteopathie, yoga, hypnose]
 date: 2014-11-25
 thumbnail: /images/actualites/pensee-chien.jpg
@@ -18,7 +18,7 @@ Et bien, contrairement à ce que pensent les sceptiques en la matière, il sembl
 
 ## La relation chien-homme ##
 ### Traitement des odeurs dans le cerveau ###
-Une étude récente en <a href="" http://www.sciencedirect.com/science/article/pii/S0376635714000473/" target="_blank"> neuro-imagerie </a> montre clairement que les chiens naviguent dans le monde par l'odorat, ce qui joue un rôle majeur dans leur comportement social. En effet, il semble que le chien **associe directement l'odeur** de son maître à la récompense, lui faisant occulter tout le reste.
+Une étude récente en <a href="" http://www.sciencedirect.com/science/article/pii/S0376635714000473/" target=_"blank"> neuro-imagerie </a> montre clairement que les chiens naviguent dans le monde par l'odorat, ce qui joue un rôle majeur dans leur comportement social. En effet, il semble que le chien **associe directement l'odeur** de son maître à la récompense, lui faisant occulter tout le reste.
 
 ### Traitement des sons ###
 Il semble là encore que les chiens traitent les **voyelles** et les sons chargés émotionnellement de la même façon que l'homme. Les **intonations joyeuses** sont perçues de la même manière par nos amis à quatre pattes que par nous-même pour une communication inter-espèces optimale. Une explication scientifique qui éclaire donc l'expérience quotidienne de nos relations..

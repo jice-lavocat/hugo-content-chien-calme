@@ -2,7 +2,7 @@
 title: "Fatigue du chien : quand doit-on consulter ?"
 
 author: "marie"
-tags: ['massage canin','massage chien']
+tags: ['massage canin','massage chien', 'fatigue']
 date: 2015-01-22
 categories: [massage]
 thumbnail: "/images/actualites/grosse-fatigue.jpg"

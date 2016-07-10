@@ -2,7 +2,7 @@
 title: "Regalez-vous avec votre chien, pratiquez le doga ! "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['doga', 'sport indoor' ]
 date: 2015-05-04
 categories: [activite_appartement]
 thumbnail: "/images/actualites/doga1.jpg"

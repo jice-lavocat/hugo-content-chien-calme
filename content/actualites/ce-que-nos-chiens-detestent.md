@@ -2,7 +2,7 @@
 title: "Les 10 comportements que  nous chiens détestent "
 
 author: "marie"
-tags: ['Stress']
+tags: ['langage corporel canin']
 categories: [massage]
 date: 2015-02-06
 thumbnail: "/images/actualites/bisou-chien.jpg"

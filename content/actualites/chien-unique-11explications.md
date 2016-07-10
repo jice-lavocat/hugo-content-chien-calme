@@ -2,7 +2,7 @@
 title: "Votre chien est unique, vous savez pourquoi ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['relation homme-chien' ]
 date: 2015-04-13
 categories: ["massage"]
 thumbnail: "/images/actualites/chienethomme.jpg"
@@ -54,7 +54,7 @@ Là vous vous dites : il est stupide ou il le fait exprés? Mais dans tous les 
 </p>
 
 ## Votre chien part en courant se cacher dans votre chambre : il a peur du tonnerre. ##
-Que c'est bon de se sentir indispensable et protecteur. Vous allez vite le <a href=" http://www.chien-calme.com/actualites/Chien-et-orage/"target=_blank">réconforter le pauvre loulou</a> ! Heureusement qu'il vous a ( ou que vous l'avez:)
+Que c'est bon de se sentir indispensable et protecteur. Vous allez vite le <a href=" http://www.chien-calme.com/actualites/Chien-et-orage/"target=_"blank">réconforter le pauvre loulou</a> ! Heureusement qu'il vous a ( ou que vous l'avez:)
 
 ## Vous avez la gueule de bois et vous êtes couché à 5 h du matin : 6 h ! Votre chien vous réveille par des léchouilles !##
 C'est dimanche, vous voulez dormir. Et bien ce n'est pas grave, vous adorez être réveillé comme ça ! Et soyez honnête, votre chien est le seul à pouvoir le faire sans se faire insulter !

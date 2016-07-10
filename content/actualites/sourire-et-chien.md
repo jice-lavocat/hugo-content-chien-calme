@@ -2,7 +2,7 @@
 title: "Alors heureux ? Inutile de le dire à votre chien !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement', 'relation homme-chien' ]
 date: 2015-02-17
 categories: [ anxiété départ]
 thumbnail: "/images/actualites/dog-studying-photos-of-human-expressions.jpg"
@@ -10,7 +10,7 @@ Description: "Oui nos petits compagnons sont beaux, oui ils sont gentils mais il
 ---
 
 Oui nos petits compagnons sont beaux, oui ils sont gentils mais ils sont aussi extrêmement intelligents !  Récemment des chercheurs ont mis en évidence le point suivant : avec un peu d’entraînement, nos chiens sont capables d'interpréter nos sentiments, à travers nos mimiques.
-Vous faites la tête ou vous explosez de joie ? Votre petit compagnon le comprendra sans se tromper : c'est le résultat des dernières recherches publiées dans le journal <a href="http://www.cell.com/current-biology/abstract/S0960-9822%2814%2901693-5 " target="_blank"> Current Biology </a>
+Vous faites la tête ou vous explosez de joie ? Votre petit compagnon le comprendra sans se tromper : c'est le résultat des dernières recherches publiées dans le journal <a href="http://www.cell.com/current-biology/abstract/S0960-9822%2814%2901693-5 " target=_"blank"> Current Biology </a>
 
 Elles montrent donc que le chien est capable de lire les émotions d'une autre espèce.
 Notre compagnon va utiliser d'autres sens que les nôtres pour nous cerner l’ouïe, hyper développée et surtout l'odorat vous lui permettre de nous comprendre. Gai ou triste, non seulement il le saura tout de suite mais encore cela va avoir une influence directe sur son humeur à lui !

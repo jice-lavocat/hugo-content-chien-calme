@@ -2,7 +2,7 @@
 title: " Comment calmer un chien hyperactif "
 
 author: "marie"
-tags: ['Stress']
+tags: ['hyperactivité', 'santé']
 categories: [osteopathie, massage]
 date: 2015-04-23
 thumbnail: "/images/actualites/402102-mon-chien-est-hyperactif.jpg"
@@ -59,7 +59,7 @@ Vous avez en effet déjà remarqué que nos larmes affectent nos chiens et que n
 
 ## Essayez l'aromathérapie et des techniques douces ##
 C'est l'<b>odorat</b> qui prime chez le chien, ne l'oubliez pas. Et en y réfléchissant bien, vous aussi avez des odeurs que vous aimez sentir quand vous êtes stressés. La lavande est connue pour détendre et relaxer.
-Avant de vous lancer dans l’administration sauvage d'huiles essentielles par exemple, consultez un vétérinaire holistique qui vous conseillera. Sinon un <a href ="http://www.chien-calme.com/actualites/osteo_canin/"target=_blank">ostéopathe canin </a> pourra aussi par ses massages relaxer votre compagnon. (
+Avant de vous lancer dans l’administration sauvage d'huiles essentielles par exemple, consultez un vétérinaire holistique qui vous conseillera. Sinon un <a href ="http://www.chien-calme.com/actualites/osteo_canin/"target=_"blank">ostéopathe canin </a> pourra aussi par ses massages relaxer votre compagnon. (
 
 Pour avoir un chien calme, soyez déjà <b>calme vous-même</b> et faites sentir à votre compagnon qu'il est toujours en sécurité avec vous. Une promenade en laisse, cette dernière détendue, un contrôle de la foule quand vous le sortez...Faites lui bien comprendre que vous gérez ses besoins et que vous êtes là pour lui. Il vous en sera reconnaissant.
 

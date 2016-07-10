@@ -3,9 +3,9 @@
 title: "Pour ou contre la chirurgie esthétique ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé', 'esthétique' ]
 date: 2016-01-18
-categories: [acuponcture, anxiété départ]
+categories: [anxiété ]
 thumbnail: "/images/actualites/dobermans_432_323_filled.jpg"
 Description: "Les débats font rage en ce moment. L'interdiction de couper oreilles et queues chez certaines races ( le doberman, le beauceron, le boxer, le pitt par exemple) n'est vraiment pas appréciée de tous. On reproche d'ôter ainsi tout ce qui fait l'esthétique de ces animaux. Interdit d'ailleurs d’être inscrit au LOF pour les animaux nés après la déclaration de la loi ( Janvier 2015 pour la queue et 2008 pour les oreilles)"
 ---
