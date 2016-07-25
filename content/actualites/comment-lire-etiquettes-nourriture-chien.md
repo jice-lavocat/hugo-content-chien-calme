@@ -22,7 +22,7 @@ La nourriture pour animaux connaît un succés phénoménal. Elle repose sur les
 
 
 
-<h2> les aliments crus </h2>
+<h2> Les aliments crus </h2>
 
 Ils sont actuellement très à la mode et sans conteste bien tolérés par les chiens. La nourriture crue était ingérée par les loups et donc correspondrait bien à nos compagnons.
 
@@ -51,50 +51,19 @@ Certains produits affichent une qualité « premium » absolument <b>pas test�
 
 
 
-## Continuez à lui apprendre des tours et des jeux ##
+## Comment s'en sortir dans ces étiquettes complexes ? ##
 
-<p align= "center"><img src= "/images/actualites/jouet-nourriture.jpg"</p>
+Essayez déjà de <b>sélectionner des marques recommandées par des professionnels, comparez les avis sur internet, ceux des éleveurs et des usagers.</b> Gardez en tête que même les vétérinaires ne sont pas neutres sur la question.
+Ces marques doivent avoir un <a href=" http://www.cliniqueveterinairepontdepeage.fr/Publication/Show.aspx?item=1471"target=-"blank" > étiquetage </a>  en conformité avec les lois
+
+Ensuite, faire en sorte que la <b>source de la viande soit le premier ingrédient, suivie d'une autre protéine ou source de glucides de haute qualité.</b> Un ajout en vitamine E,  acides gras oméga est en plus. Recherchez si  la marque que vous envisagez d'utiliser à reçu des plaintes régulières, si il y a eu des problèmes. Evitez les produits ou les ingrédients fabriqués en Chine.
+
+Les friandises sont souvent pleines de calories inutiles et néfastes au <ahref="http://www.chien-calme.com/actualites/nourriturechien-danger/"target=_"blank > poids </a> poids de votre naimal.
 
 
-<p align="center"> Jouet sur
-
-<a href="http://www.lesamisdeceline.fr/">
-    Amis de Céline
-</a>
-
- </p>
-
-Comme pour nous humains, il est fondamental que votre loulou reste vif d'esprit! Apprenez lui de nouveaux tours ou achetez des jeux, genre puzzle alimentaire.
-Il gardera ainsi toute son envie de jouer et toute sa vivacité.
+Prenez plutôt celles qui affichent des légumes ou donnez des carottes à votre loulou plutôt que ces gâteries. Pensez par contre à ne <b>jamais donner de raisins ou raisins secs !</b>
 
 
 
-## Donnez lui de la compagnie ##
-Les chiens aiment avoir des <b>petits camarades de jeux</b>. Et un compagnon plus jeune peut booster l’énergie de votre loulou.
-Des études ont montré que les chiens qui vivaient à plusieurs avaient une <b>espérance de vie supérieure</b> aux autres et une bien meilleure santé.
-
-
-Attention cependant : n'introduisez pas de chiot hystérique avec un chien déjà fatigué. Un nouveau petit compagnon est à introduire quand votre senior est encore dynamique et en forme. Sinon le bébé chien va épuiser son nouvel ami et l'énerver.
-
-<p align ="center"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2kncjg" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x2kncjg_un-vieux-chien-joue-un-tour-a-un-jeune-chien_animals" target=_"blank">Un vieux chien joue un tour &agrave; un jeune chien</a></p>
-
-
-## Préservez sa santé, ayez des égards !##
-
-Avec le temps votre chien <b>voit et entend moins bien</b>. Ses pas sont moins assurés. Il est aussi plus <b>fragile</b>. Il peut attraper froid plus facilement. Ajoutez des couvertures dans son lit.
-
-Installez des <b>tapis pour améliorer son confort</b>, des escaliers ou une rampe pour accéder facilement au panier ( ou au canapé..) Facilitez lui la vie au maximum. Sécurisez le.
-
-N'hésitez pas non plus à lui <b>mettre de l'eau en deux endroits</b>, l'un a proximité de son lieu de repos. Ainsi il pourra boire plus facilement et sans se fatiguer.
-Faites lui des massages pour le détendre.
-
-Tournez vous vers les médecines douces comme <b>homéopathie, l’ostéopathie, la naturopathie</b>. La <b>phytothérapie</b> peut aussi considérablement aider nos amis à gérer quelques troubles de comportement, des douleurs, du stress...
-
-Avec toutes ces précautions, votre chien pourra s'épanouir longtemps à vos côtés.
-
-
-
-
-
-
+<iframe src="//giphy.com/embed/KEUvbsHJP62R2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/black-and-white-dog-angry-KEUvbsHJP62R2"></p>
 
