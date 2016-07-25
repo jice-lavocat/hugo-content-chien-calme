@@ -14,7 +14,7 @@ Nos petits poilus sont nos meilleurs amis, nos compagnons de jeux, nos gardiens.
 
 
 
-<p align="center"><img src= "/images/actualites/chien-en-bonne-sante.jpg"class="img-respnsive"></p>
+<p align="center"><img src= "/images/actualites/chien-en-bonne-sante.jpg" class="img-responsive"></p>
 
 ## Eau ##
 Nous compagnons ont des besoins vitaux à combler. L'eau en est le premier. La quantité d'eau qu'il va boire sera fonction de divers facteurs :
