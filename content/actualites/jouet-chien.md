@@ -32,7 +32,7 @@ Plusieurs types de jouets
 
 ### Éducation et relation homme/chien ###
 
-A travers le jouet pour chien se <b>construit la relation homme-animal</b>. Un jouet permet de mettre en place un processus éducatif. On n’élève pas son quadrupède par la contrainte mais par le partage. Le jeu en fait partie intégrante. Le renforcement positif permet d'éviter d'avoir un chien en <a href="http://www.chien-calme.com/actualites/manteau-anti-anxietet" target="_blank"> stress </a>
+A travers le jouet pour chien se <b>construit la relation homme-animal</b>. Un jouet permet de mettre en place un processus éducatif. On n’élève pas son quadrupède par la contrainte mais par le partage. Le jeu en fait partie intégrante. Le renforcement positif permet d'éviter d'avoir un chien en <a href="http://www.chien-calme.com/actualites/manteau-anti-anxietet" target="_blank"> stress </a>.
 
 Jouer avec son maître permet au jeune chien de mettre en place une relation de <b>confiance</b>. Ainsi il apprendra à ramener son kong, sa peluche et à ne pas toucher par contre aux chaussures et aux ustensiles humains. Il saura que s'il exécute correctement une demande, il aura son jouet en récompense.
 
@@ -41,7 +41,7 @@ Les animaux trop <b>timides pourront se libérer</b> en courant après leur ball
 
 ### Stimulation mentale ###
 
-Le chien, comme l'homme, a besoin d'être <b> stimulé pour se développer</b>. Il existe de nombreux jouets ou activités qui vont aider votre quadrupède à développer des qualités stratégiques par exemple ( si, si!)
+Le chien, comme l'homme, a besoin d'être <b> stimulé pour se développer</b>. Il existe de nombreux jouets ou activités qui vont aider votre quadrupède à développer des qualités stratégiques par exemple ( si, si!.
 
 Cacher des objets, obliger le chien à réfléchir est très motivant ( pour le maître aussi, super fier quand son bébé trouve sans problème). Plus un chien est joueur et plus il va apprendre vite et deviendra un bon chien de travail, vif et intelligent. Il faut aussi savoir que l'activité mentale et ludique doit être maintenue tout au long de la vie de l'animal. (Cela retarde le processus de senescence chez un chien vieillissant par exemple )
 
@@ -53,11 +53,11 @@ Cacher des objets, obliger le chien à réfléchir est très motivant ( pour le 
 
 ### Les jouets à lancer ###
 La plupart de nos compagnons aiment jouer à la balle ou au frisbee. Pensez juste à vous procurer un jouet plus ou moins résistant et
-<a href="http://www.boutique-chat-chien.fr/kong/">adapté à la taille de l'animal</a>
+<a href="http://www.boutique-chat-chien.fr/kong/">adapté à la taille de l'animal</a>.
 
 Les grands chiens détruisent sans peine la balle  de « base. » Préférez dans ce cas, le <b>super kong </b>pour grosses bestioles. Ils existent sous diverses formes, à vous de voir. On peut aussi s'en procurer que l'on peut lancer et tirer aussi grâce à une poignée ou en forme d'anneau. Le top pour nos amis à 4 pattes qui en grognent de plaisir.
 
-<b> Attention</b>: <b>pas de balle de tennis</b>, elle présente un danger pour les chiens qui les ingèrent ! Les poils fluo jaune sont toxiques à long terme ! Empêchez votre chien de courir tout de suite après le lancer. Il pourrait se fracturer la mâchoire en prenant la balle trop près du sol. Attendez quelques rebonds que la balle perde de sa puissance avant de laisser partir votre loulou ! ( C'est aussi un bon exercice d'éducation)
+<b> Attention</b>: <b>pas de balle de tennis</b>, elle présente un danger pour les chiens qui les ingèrent ! Les poils fluo jaune sont toxiques à long terme ! Empêchez votre chien de courir tout de suite après le lancer. Il pourrait se fracturer la mâchoire en prenant la balle trop près du sol. Attendez quelques rebonds que la balle perde de sa puissance avant de laisser partir votre loulou ! ( C'est aussi un bon exercice d'éducation).
 
 ### Les jouets à mâcher ###
 Certes le bois peut faire l'affaire. Mais entre les <b>échardes et les saletés</b> qui s'y trouvent, il y a de fortes chances que votre chien se blesse les gencives et se fasse mal. Pensez plutôt à des produits vraiment étudiés pour être mâchouillés. Vérifiez aussi leur composition ! Trop d'os ou autres friandises sont élaborées à base <a href="http://www.syntonieanimale.com/res/site62148/res623245_OsCuirBrutMortelPourVotreChien.pdf" target=_"blank" > ingrédients plus que douteux. </a>. Mâcher est aussi bénéfique pour les dents et l'hygiéne buccale.
