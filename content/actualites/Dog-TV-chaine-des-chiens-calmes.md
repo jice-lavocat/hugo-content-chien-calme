@@ -2,8 +2,8 @@
 title: "DogTv : la TV des chiens calmes ! "
 
 author: "marie"
-tags: ['Stress']
-categories: [produits hypnose]
+tags: ['stress','activité indoor']
+categories: [produits ]
 date: 2015-01-30
 thumbnail: "/images/actualites/Dogtv2.jpg"
 description: "Et oui, ils l'ont fait aux US : un programme de TV à l'usage de nos petits compagnons ! "

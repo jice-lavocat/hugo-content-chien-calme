@@ -2,7 +2,7 @@
 title: " Comment mon jeune chien m'a ridiculisée!"
 
 author: "marie"
-tags: ['Stress']
+tags: ['education canine']
 categories: [ massage]
 date: 2015-11-04
 thumbnail: "/images/actualites/csau2.JPG"
@@ -25,7 +25,7 @@ Mon gracieux quadrupède de 18 mois avait décidé ce jour là de refuser de tra
 En rentrant sur la surface, il était déjà <b>suspendu joyeusement à sa laisse</b> et marchait en bondissant sur ses pattes arrière. ( Voir photo ci-dessous ) Il a fait un accueil plus que chaleureux aux juges et aux participants ( un bon point certes pour sa sociabilité mais pas pour son éducation malheureusement !!! )
 
 <p align="center"><img src= "/images/actualites/csau1.JPG"</p>
-Crédit photo <a href="https://www.youtube.com/user/beaweimar" target=_blank> beaweimear </a>
+Crédit photo <a href="https://www.youtube.com/user/beaweimar" target=_"blank"> beaweimear </a>
 
 
 

@@ -2,9 +2,9 @@
 title: "Quel chien est fait pour vous ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['relation homme-chien' ]
 date: 2016-01-04
-categories: [anxiété départ]
+categories: [anxiété ]
 thumbnail: "/images/actualites/chien-pour-vous.jpg"
 summary : "Ils sont nombreux les sites à proposer des quizz destinés à trouver le compagnon à quatre pattes qui correspond le  mieux à votre personnalité. "
 

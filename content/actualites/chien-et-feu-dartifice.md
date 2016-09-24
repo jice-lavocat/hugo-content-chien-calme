@@ -29,12 +29,12 @@ Si vous devez sortir de votre maison, enfermez votre chien dans une autre pièce
 
 Si pour une raison ou une autre, vous vous retrouvez dehors avec votre animal pendant le spectacle, faites en sorte d'être systématiquement à côté de lui (avec une  laisse de préférence) afin que <b>vous ne le perdiez pas de vue</b>.
 
-Un chien aura souvent <b>tendance à s'enfuir</b> lors de ce type de rassemblement, pensez donc à lui mettre un <b>collier comportant vos coordonnées</b>. Au même titre qu'une bonne assurance animaux qu’il vaut mieux <a href="http://www.mutuelleanimaux.fr/" target="_blank"> choisir sur Internet </a> avant tout incident, ce genre de précaution s'avérera bien souvent utile pour le maître.
+Un chien aura souvent <b>tendance à s'enfuir</b> lors de ce type de rassemblement, pensez donc à lui mettre un <b>collier comportant vos coordonnées</b>. Au même titre qu'une bonne assurance animaux qu’il vaut mieux <a href="http://www.mutuelleanimaux.fr/" target=_"blank"> choisir sur Internet </a> avant tout incident, ce genre de précaution s'avérera bien souvent utile pour le maître.
 
 
 ## Acclimater son chien aux bruits trop agressifs ##
 
-Vous pourrez trouver dans le commerce de nombreux CD proposant divers bruits d'ambiance « agressifs » que vous pourrez faire écouter à votre canidé par petites doses. N'hésitez pas à vous y mettre plusieurs jours avant le début des hostilités. Ceci est valable de toute façon pour obtenir un chien calme en toutes circonstances et qui ne réagit ni aux coups de feu ni aux pétards, ni à <a href="http://localhost:1313/actualites/Chien-et-orage/" target="blank">l'orage </a>
+Vous pourrez trouver dans le commerce de nombreux CD proposant divers bruits d'ambiance « agressifs » que vous pourrez faire écouter à votre canidé par petites doses. N'hésitez pas à vous y mettre plusieurs jours avant le début des hostilités. Ceci est valable de toute façon pour obtenir un chien calme en toutes circonstances et qui ne réagit ni aux coups de feu ni aux pétards, ni à <a href="http://www.chien-calme.com/actualites/Chien-et-orage/" target="blank">l'orage </a>
 
 Testez les sons ci-dessous !
 

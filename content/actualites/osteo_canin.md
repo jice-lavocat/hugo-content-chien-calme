@@ -2,7 +2,7 @@
 title: " Ostéopathe pour chiens : quand consulter ? "
 
 author: "marie"
-tags: ['Stress']
+tags: ['stress', santé']
 categories: [osteopathie]
 date: 2015-03-12
 thumbnail: "/images/actualites/ecole-osteopathie-canine.jpg"
@@ -48,11 +48,11 @@ Il est important de savoir que les chiens <b>adorent les manipulations</b> : el
 <p align="center"><iframe width="420" height="315" src="https://www.youtube.com/embed/Sg_hk70Pb9U" frameborder="0" allowfullscreen></iframe></p>
 
 ## Comment se passe la consultation ? ##
-L'<a href ="http://osteo.canin.free.fr/index.html"target=_blank">ostéopathe canin </a> va questionner le maître ( le chien étant plus difficile à faire parler ) sur l'<b>historique médical</b> de l'animal, ses blessures passées, entorses...Il va aussi se renseigner sur le <b>type d' activité</b> du chien, intensive ou pas par exemple.
+L'<a href ="http://osteo.canin.free.fr/index.html"target=_"blank">ostéopathe canin </a> va questionner le maître ( le chien étant plus difficile à faire parler ) sur l'<b>historique médical</b> de l'animal, ses blessures passées, entorses...Il va aussi se renseigner sur le <b>type d' activité</b> du chien, intensive ou pas par exemple.
 
 Le spécialiste va ensuite <b>examiner entièrement</b> votre compagnon en le palpant et en testant la mobilité de ses articulations et des tissus mous. Mais pourquoi vérifier le fonctionnement de out le corps si il semble souffrir de la patte ? Parce le problème n'est pas forcément à ce niveau ! Il peut s'agir d'une mauvaise position qui le fait boiter par exemple et qui vient d'une douleur de dos.
 
-<b> Infos pratiques </b>Voici pour conclure une page où vous trouverez tous les <b>renseignements concernant cette thérapie</b>, incluant une grille de <a href="http://guide.usager.osteo-animalier.eu/"target=_blank"> tarifs</a>, le déroulement de la consultation..
+<b> Infos pratiques </b>Voici pour conclure une page où vous trouverez tous les <b>renseignements concernant cette thérapie</b>, incluant une grille de <a href="http://guide.usager.osteo-animalier.eu/"target=_"blank"> tarifs</a>, le déroulement de la consultation..
 
 
 

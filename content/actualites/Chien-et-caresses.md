@@ -2,7 +2,7 @@
 title: "Tout ce que vous ne savez peut-être pas sur les caresses. !"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement ' ]
 date: 2015-04-09
 categories: [massage]
 thumbnail: "/images/actualites/caresse_chien.jpg"

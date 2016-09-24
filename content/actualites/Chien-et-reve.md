@@ -2,7 +2,7 @@
 title: "A quoi rêvent nos chiens ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['rêve','sommeil' ]
 date: 2015-10-11
 categories: [produits]
 thumbnail: "/images/actualites/reve-chien.gif"

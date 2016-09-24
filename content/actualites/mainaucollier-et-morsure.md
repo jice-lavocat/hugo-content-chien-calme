@@ -2,7 +2,7 @@
 title: "Votre chien déteste être pris au collier ? Comment éviter ces réactions ?"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement', 'agressivité' ]
 date: 2015-03-02
 categories: [acuponcture, anxiété départ]
 thumbnail: "/images/actualites/Hand-On-Collar-225x300.jpg"
@@ -39,7 +39,7 @@ Ces exercices sont à pratiquer sur des <b>chiens calmes quand on touche à leur
 
 Pour ceux qui se rebiffent dés qu'on pose la main sur leur cou, commencez par vous <b>exercer avec une laisse</b> comme sur la vidéo, et en descendant au fur et à mesure la main vers le cou pour les habituer !
 
-Pour cela <b>observez bien le langage corporel</b> de votre chien ! Lui seul indique si oui ou non vous pouvez vous rapprocher de la zone « intouchable » Et si finalement vous voyez que votre chien n'autorise rien, <b>contactez un éducateur</b> qui est spécialiste en renforcement <a href="http://thinkpawsitivedog.com/blog/collar-grab/" target="_blank"> positif </a>
+Pour cela <b>observez bien le langage corporel</b> de votre chien ! Lui seul indique si oui ou non vous pouvez vous rapprocher de la zone « intouchable » Et si finalement vous voyez que votre chien n'autorise rien, <b>contactez un éducateur</b> qui est spécialiste en renforcement <a href="http://thinkpawsitivedog.com/blog/collar-grab/" target=_"blank"> positif </a>
 
 ### Où pratiquer les exercices ? ###
 Partout en extérieur, dedans...

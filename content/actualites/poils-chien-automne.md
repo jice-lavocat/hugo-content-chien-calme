@@ -2,8 +2,8 @@
 title: "Pourquoi les chiens perdent leurs poils à l'automne ? "
 
 author: "marie"
-tags: ['Stress']
-categories: [massage, prduits]
+tags: ['santé']
+categories: [ prduits]
 date: 2015-09-16
 thumbnail: "/images/actualites/puzzle_maya_130_175856.jpg"
 description: "
@@ -57,7 +57,7 @@ En cas de nœuds, n'hésitez pas à couper.
 
 
 Si il est normal aux changements de saison de voir tomber les poils de votre canidé, il n'est par contre pas rassurant qu'il en perde beaucoup en dehors de ces périodes.
-La chute de poils est une indication de <a href="http://www.wanimo.com/veterinaire/entretien-peau-et-poils-du-chien/les-maladies-provoquant-des-chutes-de-poils-chez-le-chien.html" target="_blank"> maladies </a> à prendre au sérieux. Il peut s'agir d'une affection <b>parasitaire, de gale, de pyodermite</b>, à traiter par le vétérinaire. <b>Diabète, hypothyroïdie</b>, sont aussi des affections qui se signalement par une déperdition de poils.
+La chute de poils est une indication de <a href="http://www.wanimo.com/veterinaire/entretien-peau-et-poils-du-chien/les-maladies-provoquant-des-chutes-de-poils-chez-le-chien.html" target=_"blank"> maladies </a> à prendre au sérieux. Il peut s'agir d'une affection <b>parasitaire, de gale, de pyodermite</b>, à traiter par le vétérinaire. <b>Diabète, hypothyroïdie</b>, sont aussi des affections qui se signalement par une déperdition de poils.
 
 <b>Une alimentation inadaptée</b> est aussi à l'origine du problème. Pensez donc à changer les croquettes ou la nourriture de votre animal si il commence à se gratter.
 

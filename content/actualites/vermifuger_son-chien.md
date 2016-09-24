@@ -2,7 +2,7 @@
 title: "Vermifuger son chien : une nécessité en matière de santé pour lui et pour les autres."
 
 author: "marie"
-tags: ['']
+tags: ['santé', 'vermifuge']
 date: 2015-01-07
 categories: [massage canin]
 thumbnail: "/images/actualites/quand-faire-vermifuge-chien.jpg"
@@ -13,7 +13,7 @@ Description: "Il est indispensable de vermifuger son animal régulièrement pour
 Il est indispensable de vermifuger son animal régulièrement pour son confort. En effet, un chien infesté de parasites sera excité et nerveux. D'autre part, la contamination parasitaire peut être particulièrement dangereuse.
 
 
-En effet, un type de ténia vraiment **toxique** peut provoquer une maladie gravissime pour homme et animal : il s'agit de l'<a href=" http://conseils-veto.com/echinococcose-danger-et-prevention-homme-chien-et-chat/" target="_blank" > Echinococcose </a> maladie mortelle sans traitement et dont l'évolution est extrêmement lente mais va causer un réel inconfort.
+En effet, un type de ténia vraiment **toxique** peut provoquer une maladie gravissime pour homme et animal : il s'agit de l'<a href=" http://conseils-veto.com/echinococcose-danger-et-prevention-homme-chien-et-chat/" target=_"blank" > Echinococcose </a> maladie mortelle sans traitement et dont l'évolution est extrêmement lente mais va causer un réel inconfort.
 
 <p align="center"><img src= "/images/actualites/quand-faire-vermifuge-chien.jpg"></p>
 
@@ -54,7 +54,7 @@ Il est évident que cette infestation a des répercussions sur la **santé canin
 
 <p align="center"><iframe width="560" height="315" src="//www.youtube.com/embed/Aj-uDSUQ22E" frameborder="0" allowfullscreen></iframe></p>
 
-Demandez **conseil à votre vétérinaire** et surtout en cas de doute : ce qui vaut pour un chien ne vaudra pas forcement pour un autre ! Renseignez vous auprès de lui sur les régions où vous allez vivre et vous déplacer : le sud de la France par exemple est concerné par la <a href=" http://www.wanimo.com/veterinaire/parasites-et-maladies-parasitaires-chez-le-chien/dirofilariose-canine.html/" target ="_blank" > dirofilariose </a> qui peut exiger un autre type de traitement, à voir avec votre vétérinaire.Pensez à <a href =" http://localhost:1313/pages/massage/" target ="_blank" > masser </a>  légèrement le cou de votre quadrupède pour l'aider à avaler son comprimé et coupez-le si il est trop gros.
+Demandez **conseil à votre vétérinaire** et surtout en cas de doute : ce qui vaut pour un chien ne vaudra pas forcement pour un autre ! Renseignez vous auprès de lui sur les régions où vous allez vivre et vous déplacer : le sud de la France par exemple est concerné par la <a href=" http://www.wanimo.com/veterinaire/parasites-et-maladies-parasitaires-chez-le-chien/dirofilariose-canine.html/" target =_"blank" > dirofilariose </a> qui peut exiger un autre type de traitement, à voir avec votre vétérinaire.Pensez à <a href =" http://localhost:1313/pages/massage/" target ="_blank" > masser </a>  légèrement le cou de votre quadrupède pour l'aider à avaler son comprimé et coupez-le si il est trop gros.
 
 Pensez également que l'**ail ou l'oignon**, très utilisés en médecine naturelle sont toxiques pour votre animal !
 

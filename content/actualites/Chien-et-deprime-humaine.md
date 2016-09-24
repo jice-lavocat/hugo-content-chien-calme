@@ -2,7 +2,7 @@
 title: " Vous êtes déprimé : quel impact sur votre chien ?? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['dépression canine','stress' ]
 date: 2015-05-20
 categories: ["produits"]
 thumbnail: "/images/actualites/deprime-chien.jpg"

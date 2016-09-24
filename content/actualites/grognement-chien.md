@@ -2,7 +2,7 @@
 title: "Votre chien grogne : que faire ? "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['comportement', 'agressivité' ]
 date: 2015-05-11
 categories: [produits]
 thumbnail: "/images/actualites/chien-growling.jpg"

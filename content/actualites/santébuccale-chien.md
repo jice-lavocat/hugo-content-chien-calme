@@ -2,7 +2,7 @@
 title: "4 gestes indispensables à une bonne santé dentaire.. . et générale "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['santé', 'dents' ]
 date: 2016-02-14
 categories: ["massage"]
 thumbnail: "/images/actualites/santebuccale.jpg"
@@ -13,11 +13,11 @@ Description: " Puisque c'est aujourd'hui la Saint Valentin, offrez un beau cadea
 Puisque c'est aujourd'hui la Saint Valentin, offrez un beau cadeau à votre chien ( ce sera aussi valable le reste de l'année). Pensez à <b>faire vérifier ses dents</b>.
 En effet, comme l'humain, le tartre se dépose sur la dentition canine ( extrêmement importante pour son confort), les bactéries se développent. Résultat ? L'haleine de votre loulou est un peu chargée. Ce n'est pas le plus grave !
 
-Si vous laissez évoluer ce tartre, les conséquences seront très lourdes pour la <a href="http://www.chien-calme.com/actualites/dentssaines-pour-chien-sain/"target=_"blank"> santé buccale </a>
+Si vous laissez évoluer ce tartre, les conséquences seront très lourdes pour la <a href="http://www.chien-calme.com/actualites/dentssaines-pour-chien-sain/"target_"blank"> santé buccale </a>
 
 Sous la plaque dentaire des toxines se développent, mettant en danger le <b>système immunitaire de votre chien. Le risque est de voir détruits les tissus mous autour des dents ainsi que l'os lui-même</b>.
 
-Que risque votre animal ? <b>Fistules, fractures, abcès</b> ! C'est beaucoup non ? Mais ce n'est pas tout ! Si le sang de votre compagnon est infecté, il va aussi infecter d'autres organes. <b>Le rein, le cœur, le foie sont endommagés</b> du fait de <a href="http://www.vetup.com/articles-veterinaires/82-royal-canin-alimentation/434-maladie-parodontale-chien-chat-dent#.VsC94-akuYE" target=8"blank"> l'infection dentaire</a>
+Que risque votre animal ? <b>Fistules, fractures, abcès</b> ! C'est beaucoup non ? Mais ce n'est pas tout ! Si le sang de votre compagnon est infecté, il va aussi infecter d'autres organes. <b>Le rein, le cœur, le foie sont endommagés</b> du fait de <a href="http://www.vetup.com/articles-veterinaires/82-royal-canin-alimentation/434-maladie-parodontale-chien-chat-dent#.VsC94-akuYE" target=_"blank"> l'infection dentaire</a>
 
 
 Voici une liste de gestes importants pour l’hygiène buccale de votre ami.
