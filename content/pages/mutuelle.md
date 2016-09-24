@@ -56,4 +56,4 @@ Chien-Calme a établi un partenariat avec un site de comparateur d’assurances.
 Lors de la souscription à une assurance santé, les sociétés vous demanderont plusieurs pièces concernant votre animal de compagnie :
 
 * Son identifiant unqiue : puce ou tatouage
-* Un bilan de santé établi par votre vétérinaire  : cela prouve que votre chien est en bonne santé au moment où vous souhaitez l'inscrire, et qu'il ne souffre pas déjà d'une maladie qui demande des frais vétérianires.
+* Un bilan de santé établi par votre vétérinaire  : cela prouve que votre chien est en bonne santé au moment où vous souhaitez l'inscrire, et qu'il ne souffre pas déjà d'une maladie qui demande des frais vétérinaires.
