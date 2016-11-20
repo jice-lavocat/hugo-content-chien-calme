@@ -8,7 +8,7 @@ categories: ["comportement"]
 thumbnail: "/images/actualites/assis.jpg"
 Description: "Ce n'est pas évident facile de bien éduquer son chien. Vous trouverez quelques conseils pour vous aider dans cette tâche. ils sont simples et faciles à mettre en place !  "
 ---
-Ce n'est pas évident facile de bien éduquer son chien. Vous trouverez quelques <a href="http://www.thecolumbiastar.com/news/2016-11-11/Pets/Simple_steps_to_become_a_better_dog_trainer.html" target=_"blank" > conseils </a>  pour vous aider dans cette tâche. ils sont simples et faciles à mettre en place !
+Ce n'est pas évident de bien éduquer son chien. Vous trouverez quelques <a href="http://www.thecolumbiastar.com/news/2016-11-11/Pets/Simple_steps_to_become_a_better_dog_trainer.html" target=_"blank" > conseils </a>  pour vous aider dans cette tâche. ils sont simples et faciles à mettre en place !
 
 
 
