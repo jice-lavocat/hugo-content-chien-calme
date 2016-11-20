@@ -5,7 +5,7 @@ author: "marie"
 tags: ['comportement', 'histoire' ]
 date: 2016-11-20
 categories: ["comportement"]
-thumbnail: "/images/actualites/caresse2.jpg"
+thumbnail: "/images/actualites/adopter-chien.jpg"
 Description: Nouveau test sur l'histoire des chiens, les races et leurs caractéritiques....  "
 ---
 Un nouveau test pour vérifier vos connaissances sur vos petits poilus. Connaissez-vous l'histoire des chiens ? Leurs caractéristiques et leurs groupes ? Les 10 questions sont un mélange de tout ce qui concerne la vie du chien, son bien-être, son évolution...
