@@ -8,7 +8,7 @@ categories: ["santé"]
 thumbnail: "/images/actualites/chiendort_n.jpg"
 Description: "Que fait votre chien à la maison ? Vous pouvez parier si l’heure du repas est passée qu'il est en train de dormir   "
 ---
-Que fait votre chien à la maison ? Vous pouvez parier si l’heure du repas est passée qu'il est en train de <a href="http://www.mnn.com/family/pets/stories/why-do-dogs-sleep-so-much" target =-"blank"> dormir </a>  ! Oui les <b>chiens dorment beaucoup et c'est normal</b> ( Ils sont battus par les chats quand même ). Il semble en effet qu'ils passent entre 12 et 14 heures dans les bras de Morphée !
+Que fait votre chien à la maison ? Vous pouvez parier si l’heure du repas est passée qu'il est en train de <a href="http://www.mnn.com/family/pets/stories/why-do-dogs-sleep-so-much" target =_"blank"> dormir </a>  ! Oui les <b>chiens dorment beaucoup et c'est normal</b> ( Ils sont battus par les chats quand même ). Il semble en effet qu'ils passent entre 12 et 14 heures dans les bras de Morphée !
 
 
 Cela étant, le nombre d'heures de sommeil de votre animal dépend quand même de divers facteurs.
