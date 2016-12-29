@@ -2,7 +2,7 @@
 title: "Faites du canivtt avec votre chien !!!  "
 
 author: "baptiste_musher"
-tags: ['anté' ]
+tags: ['santé' ]
 date: 2016-12-29
 categories: ["sport"]
 thumbnail: "/images/actualites/bikejoring-.jpg"
