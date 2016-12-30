@@ -14,15 +14,15 @@ Les congés de Février pointent leur nez : au vu des dernières chutes de neig
 
 Pour les fans de froid et de sport, voici une activité idéale à pratiquer avec votre compagnon, qui va adorer, calme et zenitude assurés : il s'agit du **skijoring ou Ski joëring**.
 
-<p align="center"><img src= "/images/actualites/skijoring.jpg"></p>
+<p align="center"><img src= "/images/actualites/skijoring.jpg"class="img-responsive"></p>
 
 ## Le skijopring, qu'est ce que c'est ?##
-C'est un  <a href=" http://fr.wikipedia.org/wiki/Ski_jo%C3%ABring/" target="_blank"> sport ancien </a> mais remis à la mode très recemment. Il n'est pas vraiment encore très pratiqué en France : il consiste au départ par se **faire tirer à skis par un animal**, à l'origine un cheval et maintenant aussi un chien. La version avec chien est beaucoup donc plus récente et semble aussi rencontrer du succés : il s'agit en effet d'un moment de **partage privilégié avec son compagnon à quatre pattes** !
+C'est un  <a href="http://fr.wikipedia.org/wiki/Ski_jo%C3%ABring/" target="_blank"> sport ancien </a> mais remis à la mode très recemment. Il n'est pas vraiment encore très pratiqué en France : il consiste au départ par se **faire tirer à skis par un animal**, à l'origine un cheval et maintenant aussi un chien. La version avec chien est beaucoup donc plus récente et semble aussi rencontrer du succés : il s'agit en effet d'un moment de **partage privilégié avec son compagnon à quatre pattes** !
 
 Donc pour résumer ça fonctionne sur le même principe que le traîneau mais sans traîneau. La vidéo qui suit sera plus explicative :
 
 
-<p align="center"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/xbtggx" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/xbtggx_le-ski-joering-chiens-de-traineau_sport" target=_"blank">Le ski jo&euml;ring chiens de tra&icirc;neau</a> <i></a></i></p>
+<p align="center"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/xbtggx" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/xbtggx_le-ski-joering-chiens-de-traineau_sport" target="_blank">Le ski jo&euml;ring chiens de tra&icirc;neau</a> <i></a></i></p>
 
 
 
@@ -35,19 +35,19 @@ Les chiens les plus couramment vus dans cette activité parfaite pour l'exercice
 ### Les petits chiens ###
 Mais on a pu voir aussi un tout jeune **mexican hairless**, un chien donc sans poil, voire photo ci-dessous, s’amuser comme un fou tous les week ends ! Pas de problème avec le froid ! ( Mais pensez quand même à le couvrir si la température est vraiment très négative )
 
-<p align="center"><img src= "/images/actualites/mexican-hairless.jpg"></p>
+<p align="center"><img src="/images/actualites/mexican-hairless.jpg"class="img-responsive"></p>
 
-Les petits chiens auront donc un **autre rôle dans votre équipe** : eux ne vont pas vous tirer mais seront juste avec vous pour skier. Attention cependant à ne pas dépasser leurs limites physiques qui peuvent menacer leur santé cardiaque : soyez conscient de la fatigue de la <a href="http://www.santevet.com/articles/problemes-cardiaques-chez-le-chien-ecoutez-son-coeur/" target=_"blank" > fatigue de votre chien </a>
+Les petits chiens auront donc un **autre rôle dans votre équipe** : eux ne vont pas vous tirer mais seront juste avec vous pour skier. Attention cependant à ne pas dépasser leurs limites physiques qui peuvent menacer leur santé cardiaque : soyez conscient de la  <a href="http://www.santevet.com/articles/problemes-cardiaques-chez-le-chien-ecoutez-son-coeur/" target="_blank" > fatigue de votre chien </a>
 
 ## Comment pratiquer le skijoring  ##
 Il est possible de se faire tracter par **un à trois chiens** au maximum et pour éviter de faire mal à votre ou vos compagnons, ils doivent être équipés d'un **harnais**. Le meilleur type de planche pour vous est le **ski de fond**, plus adapté à cette performance qui exige de vous et de vos animaux une excellente condition physique.
 
-D'autre part, un minimum d'**’entraînement** est nécessaire pour le **maître et le chien** : le chien, on voit tout de suite le problème si il décide de chasser l’écureuil en route, c'est l'arbre assuré pour le malheureux propriétaire ! Pour le maître, il est aussi indispensable de **gérer ss glisse**, de façon à ne pas percuter le chien et le blesser grièvement. Il existe donc des cours pour vous apprendre à maîtriser l'exercice. Vous pouvez pratiquer aussi bien pour le fun que vous inscrire à des compétitions.
+D'autre part, un minimum d'**’entraînement** est nécessaire pour le **maître et le chien** : le chien, on voit tout de suite le problème si il décide de chasser l’écureuil en route, c'est l'arbre assuré pour le malheureux propriétaire ! Pour le maître, il est aussi indispensable de **gérer sa glisse**, de façon à ne pas percuter le chien et le blesser grièvement. Il existe donc des cours pour vous apprendre à maîtriser l'exercice. Vous pouvez pratiquer aussi bien pour le fun que vous inscrire à des compétitions.
 
 ## Où pratiquer ? ##
 Les stations qui acceptent ce sport canin sont assez rares en France mais il semble que cela soit possible sur Megève et en général en  **Haute Savoie**.
 
-L'<a href ="http://www.ucpa-vacances.com/sport/chiens-de-traineau-ski-joering/" target=_"blank"> UCPA </a> propose aussi ce sport. Dans tous les cas il vous est possible de pratiquer le skijoring aussi bien pour le plaisir dans de longues **randonnées avec votre animal** que en compétition où différentes épreuves sont organisées.
+L'<a href="http://www.ucpa-vacances.com/sport/chiens-de-traineau-ski-joering/" target="_blank"> UCPA </a> propose aussi ce sport. Dans tous les cas il vous est possible de pratiquer le skijoring aussi bien pour le plaisir dans de longues **randonnées avec votre animal** que en compétition où différentes épreuves sont organisées.
 
 
 <p align="center"><iframe width="560" height="315" src="//www.youtube.com/embed/QbZ_iQTeC90" frameborder="0" allowfullscreen></iframe></p>

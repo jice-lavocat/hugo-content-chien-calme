@@ -15,7 +15,7 @@ author: "marie"
 
 Au mois de juillet, je vous ai présenté sur ces pages la WoufkiLed, une <b>médaille permettant de voir son chien loin dans la nuit</b>.<!--more--> Son lancement sur le marché dépendait d'une campagne de crowdfunding. La campagne a abouti et désormais la médaille bleue, rose ou rouge est en vente pour tous !
 
-Pour nous remercier de notre soutien, nous avons reçu un joli cadeau: deux <a href="http://www.woufki.com/ target=_"blank"> WoufkiLed </a>
+Pour nous remercier de notre soutien, nous avons reçu un joli cadeau: deux <a href="http://www.woufki.com/" target=_"blank"> WoufkiLed </a>
 
 Je les ai testées avec mon entourage canin. Petite précision : j'ai choisi une <b>Woufki ROSE</b>, un coloris très réussi, pour mon dobermann mâle et ça, ça fait déjà beaucoup parler. Les préjugés restent bien ancrés, un mec ne met pas de rose. Fin de la parenthèse.
 
