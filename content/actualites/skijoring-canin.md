@@ -16,7 +16,7 @@ Pour les fans de froid et de sport, voici une activité idéale à pratiquer ave
 
 <p align="center"><img src= "/images/actualites/skijoring.jpg"class="img-responsive"></p>
 
-## Le skijopring, qu'est ce que c'est ?##
+## Le skijoring, qu'est ce que c'est ?##
 C'est un  <a href="http://fr.wikipedia.org/wiki/Ski_jo%C3%ABring/" target="_blank"> sport ancien </a> mais remis à la mode très recemment. Il n'est pas vraiment encore très pratiqué en France : il consiste au départ par se **faire tirer à skis par un animal**, à l'origine un cheval et maintenant aussi un chien. La version avec chien est beaucoup donc plus récente et semble aussi rencontrer du succés : il s'agit en effet d'un moment de **partage privilégié avec son compagnon à quatre pattes** !
 
 Donc pour résumer ça fonctionne sur le même principe que le traîneau mais sans traîneau. La vidéo qui suit sera plus explicative :
