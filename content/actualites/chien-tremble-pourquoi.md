@@ -53,7 +53,7 @@ D'autres chiens très anxieux peuvent trembler pour n'importe quelle raison. Les
 
 Beaucoup de chiens tremblent juste d'excitation, parce qu'ils vont <b>sortir, parce qu'ils arrivent sur le terrain de travail.</b> Ils sont contents d'être là et le montrent !
 
-<p align="center"><img src="/images/actualites/chien-lexcite.jpg"class="img-responsive"></p>chien-lexcite.jpg
+<p align="center"><img src="/images/actualites/chien-lexcite.jpg" class="img-responsive"></p>
 
 ## Il tremble car c'est un senior ##
 A l'opposé, se trouvent nos compagnons seniors. Les chiens âgés peuvent avoir un tremblement, en particulier aux membres postérieurs. Nous voyons souvent ces sortes de tremblements, qui sont si bien appelés «tremblements du vieux chien» chez le chien au repos. Inutile de s'en inquiéter tant qu'ils ne posent pas problème pour leur qualité de vie.
