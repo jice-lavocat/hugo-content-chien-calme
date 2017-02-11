@@ -18,7 +18,7 @@ Votre chien se braque?  Et si c'était de votre faute ?  Votre toutou fait tou
 
 
 
-<p align="center"><img src= "/images/actualites/bisou-chien.jpg"></p>
+<p align="center"><img src= "/images/actualites/bisou-chien.jpg"class="img-responsive"></p>
 
 
 
@@ -30,7 +30,7 @@ L'humain <b>parle et parle même beaucoup</b> parfois, il parle aussi avec son c
 
 Vous dites « assis, pas bouger » : et vous tendez la main en vous penchant en avant. Le chien vient vers vous, normal ! Il comprend votre geste comme une invitation à vous suivre ! Et en plus vous le grondez !</li>
 
-<p align= "center"><img src= "/images/actualites/bored-dog.jpg"</p>
+<p align= "center"><img src= "/images/actualites/bored-dog.jpg"class="img-responsive"></p>
 
 <li><b>Prendre votre chien dans les bras</b>
 
