@@ -9,7 +9,7 @@ thumbnail: "/images/actualites/education-canine-cali.jpg"
 Description: "Vous êtes totalement déstabilisé car votre bébé d'amour fait ce qu'il veut, détruit tout chez vous et grogne sur tout le monde. Ce comportement est même peut-être récent. Vous décide donc de l'envoyer chez un éducateur pour le remettre dans les rangs.
               Le problème cependant ne vient pas de votre chien mais de vous ! Il y a fort à parier que votre comportement avec lui est incohérent et que votre éducation et ses règles fluctuent. Il faut être cohérent avec votre chien et constant aussi ! "
 ---
-Vous êtes totalement déstabilisé car votre bébé d'amour fait ce qu'il veut, détruit tout chez vous et grogne sur tout le monde. Ce comportement est même peut-être récent. Vous décide donc de l'envoyer chez un éducateur pour le remettre dans les rangs.
+Vous êtes totalement déstabilisé car votre bébé d'amour fait ce qu'il veut, détruit tout chez vous et grogne sur tout le monde. Ce comportement est même peut-être récent. Vous décidez donc de l'envoyer chez un éducateur pour le remettre dans les rangs.
 Le problème cependant ne vient pas de votre chien mais de vous ! Il y a fort à parier que votre comportement avec lui est incohérent et que votre éducation et ses règles fluctuent. Il faut être cohérent avec votre chien et <a href="http://www.dogbreedinfo.com/articles/wayoflifewithdogs.htm" target=_"blank" > constant </a> aussi !
 
 
