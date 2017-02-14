@@ -68,8 +68,8 @@ Si vous avez déjà essayé de faire une dernière levée de poids à la salle a
 ## Il tremble : il est malade ##
 Enfin, il y a une foule de conditions médicales qui peuvent causer des tremblements. Alors que les tremblements dont nous avons parlé ci-dessus sont relativement bénins (à l'exception du froid extrême, qui pourrait potentiellement conduire à l'hypothermie ou à des gelures), certains problèmes médicaux qui causent le tremblement sont de plus mauvais pronostic. Il peut s'agir d'hypoglycémie, un trop faible taux de sucre dans le sang, de la maladie d'Addison, insuffisance surrénalienne, menaçant le pronostic vital du chien, des lésions du cervelet, des crises convulsives.
 
-Mais de manière générale, il n'y a pas lieu de s''inquiéter quand un chien en bonne santé termble ponctuellement !
+Mais de manière générale, il n'y a pas lieu de s'inquiéter quand un chien en bonne santé termble ponctuellement !
 
 
 
-<iframe src="//giphy.com/embed/OlvJd9ltr8YmI" width="380" height="499" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/ya-OlvJd9ltr8YmI">via GIPHY</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywEM53gC7Cg" frameborder="0" allowfullscreen></iframe>
