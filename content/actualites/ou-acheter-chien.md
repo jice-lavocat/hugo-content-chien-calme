@@ -19,7 +19,7 @@ Voici ce que vous devez savoir.
 
 
 
-<p align="center"><img src="/images/actualites/golden_18.jpg"class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/golden_18.jpg" class="img-responsive"></p>
 
 
 
@@ -53,7 +53,7 @@ Les petites annonces des particuliers doivent absolument <b>indiquer le numéro 
 
 
 
-<p align="center"><img src="/images/actualites/elevage.JPG"class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/elevage.JPG" class="img-responsive"></p>
 
 ## Les élevages ##
 
