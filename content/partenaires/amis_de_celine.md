@@ -1,3 +1,4 @@
+---
 title: "Les amis de Céline"
 thumbnail: /images/pages/partenaires/amis_celine.jpg
 www: http://www.lesamisdeceline.fr/
