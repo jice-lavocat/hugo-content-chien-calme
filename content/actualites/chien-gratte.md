@@ -15,64 +15,62 @@ Voici les raisons qui expliquent ce comportement.
 
 
 
-<p align="center"><img src="/images/actualites/chien-agressif.jpg"class="img-responsive"></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIxHME9nwPk" frameborder="0" allowfullscreen></iframe>
 
 
 
 
 
 
+## Le chien gratte pour trouver de la fraîcheur ##
 
-
-## Le chien décrit comme « dominant » ##
-
-Le terme d' »alpha » peut décrire le chien qui vous <b>saute dessus quand vous saluez son maître, qui tire sur sa laisse, s'assoit sur son humain. Il grogne également devant sa nourriture et ses os, qu'il protège. Il grogne aussi de façon générale et peut mordre, entre autres.</b>
-
-Or la plupart des maîtres de ces chiens ne sont pas bien informés. Ils sont frustrés d'avoir un tel compagnon. Le fait alors de décrire leur compagnon comme étant un dominant renforce encore ce sentiment de <b>frustration</b>.Ils pensent que ce comportement dérangeant est fait exprès par leur chien pour les provoquer.
-
-S'engage alors un bras de fer entre le propriétaire et l'animal. Au cours de celui-ci chacun essaie d'imposer sa domination sur l'autre. L'homme est énervé, le chien ne comprend pas ce qui se passe et réagit aussi....
-Est-ce là une relation saine entre homme et animal?Qui aurait envie de vivre constamment en guerre avec son compagnon, de contrôler systématiquement la situation ?
-
-<b>Pour résumer</b> : est décrit comme dominant le chien qui ne <b>fait pas ce que nous attendons de lui</b>, ou dont le comportement nous échappe et nous fait peur. Cette définition est vraiment incorrecte.
-
-<p align="center"><img src="/images/actualites/diminant-dog.jpg"</p>
-
-
-## Le « vrai »chien dominant ##
-
-Le chien dominant est un animal extrêmement <b>bien équilibré</b>. Il prend de très bonnes décisions et sait évaluer ce qui est dangereux et ce qui ne l'est pas. Il est sûr de lui et bien dans sa peau, bien éduqué.
-<ul> <li>Il est presque toujours aimable avec les enfants, aime jouer avec les autres chiens et aime aussi les étrangers. </li>
-<li>Il est un gentil patient chez le vet</li>
-<li>Il a des amis chiens et humains ( peut-être plus d'humaisn que d'autres mâles ) </li>
-<li>Il préfère ne pas manger que de se battre à propos de sa gamelle </li>
-<li>Il va passer tranquillement devant un groupe de chiens qui aboient furieusement  </li></ul>
-<b>Pour résumer</b>: le vrai dominant n’empêchera jamais son maître de se mettre sur son lit, ne le menacera jamais, ne l'obligera jamais à faire un détour par ses grognements...
-
-
-
-
-## Pourquoi  des comportements agressifs ? ##
-Si un chien se comporte mal, mord, tire en laisse...il n'est pas dominant. L'agressivité qu'il montre est sa <b>façon de communiquer un mal être</b>
-<ul><li>il est mal éduqué, peureux...</li>
-<li>il exprime sa souffrance ou sa douleur </li>
-<li>il est mal socialisé </li> </ul>
-
-
-
-
-## Comment gérer ces comportements gênants ? ##
-
-Il est nécessaire de faire appel à des <b>éducateurs</b> sérieux pour vous aider.
-
-Ils seront capables, en observant le chien de voir quel est son problème. Est-il peureux ? Un training adapté sera alors proposé. Il leur apprendra par exemple comment gérer leur stress.
-Il tire en laisse ? Des méthodes simples peuvent être proposées. Le but est non seulement d'apprendre au chien mais aussi à son maître comment se comporter. Ils apprendront aux humains comment <a href="http://www.chien-calme.com/actualites/langage_corporel_canin_fatigue/ "target=_"blank"> lire leur chien </a>
-
-Ils sauront également vous diriger vers un comportementaliste si besoin est.
-
-En aucun cas il ne s'agit de dominance! Ce n'est pas une triste fatalité et un combat que vous devez engager avec votre compagnon. Il faut juste faire appel à des professionnels qui vous guideront. Ce n'est pas toujours facile d'éduquer son animal ! Et même si, quand même, certains chiens sont réellement agressifs ou dangereux, ce n'est ps du tout la majorité d'entre eux !
+En été, quand le <b>sol est chaud et sec, vous verrez souvent votre chien faire un trou pour s'y enfouir. </b>Il fera la même chose à la plage. Le sable frais lui permettra de rester confortablement installé, bien protégé par votre parasol.
 
 
 
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/cY3LRiWJiwk" frameborder="0" allowfullscreen></iframe>
+## Le chien gratte pour cacher sa nourriture ou ses jouets ##
+
+Qu'il s’agisse de son <b>os ou bien d'un jouet</b>, il est fréquent que le chien l'enfouisse...Qui sait ? En cas de famine il ira récupérer son trésor!
+
+Cela étant il arrive aussi que les <b>femelles qui font une grossesse nerveuse enfouissement elles aussi des jouets, destinés à remplacer les chiots absents.</b>
+
+
+
+## Le chien gratte et se roule dans une charogne ##
+
+
+C'est toujours un grand moment de solitude pour les humains car l'odeur dégagée est pestilentielle !
+
+Mais là encore, ce geste a un sens. Le chien en effet <b>couvre sa propre odeur de celle beaucoup plus forte du cadavre.</b> Ainsi il va passer inaperçu de ses éventuels agresseurs !
+
+
+
+
+## Le chien gratte pour chercher quelque chose ##
+
+Après avoir pisté, le chien va se mettre à gratter, en quête d'un animal caché sous terre, rongeur par exemple ou de quelque chose à manger. Il ne faut pas oublier quel  <a href="http://www.chien-calme.com/actualites/actualites/meilleurodorat-chien// "target=_"blank"> odorat </a> remarquable il a !
+
+
+<p align="center"><img src="/images/actualites/flairterre.jpg" class="img-responsive"></p>
+
+
+## Le chien gratte par ennui ##
+
+Un animal qui n'a rien à faire va <b>gratter pour s'occuper </b>! Il aura pour objectif de s'enfuir peut-être en creusant sous al clôture ou seulement de faire de l'exercice. Mais attention que cela ne <b>devienne pas une névrose ou un toc </b>!
+
+<b>Testez avec les chiens qui détruisent les jardins de longues promenades et faites plus de sorties avec lui</b> !
+
+ Quand vous le prenez à creuser, faites le cesser ! Montrez lui que ce n'est pas bien. Essayez de détourner son attention en jouant avec lui ! Et si au final, rien n'y fait, <b>faites lui son espace spécial pour y faire ses trous !</b>
+
+ <b>Surtout ne frappez jamais pour votre chien pour le punir et ne le grondez pas des heures plus tard : il ne comprend pas !</b>
+
+ <h2> Le chien gratte après ses besoins </h2>
+
+ Par ce geste sur toutes les surfaces, votre chien <b>indique qu'il est passé par là. C'est sa signature,</b> grâce aux particules sous les coussinets,  pour ses congénères ! Il veut aussi peut-être signifier qu'il s'agit là de son territoire. Ce sont plutôt les mâles qui ont cette attitude.
+
+ Des études soulignent que ce marquage donne à la fois des indications olfactives et visuelles aux autres chiens ( Herbe écrasée..)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2Wwk87qzCk" frameborder="0" allowfullscreen></iframe>
