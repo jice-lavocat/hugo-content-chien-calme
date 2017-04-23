@@ -1,7 +1,6 @@
 ---
 title: "Pheromones en collier, spray, diffuseur soulagent l'angoisse canine"
 menutitle: Produits
-layout: page
 collection : produits
 weight: 1
 Description : "Selon le type d'anxiété vecue par votre chien, tournez vous vers le mode de diffusion le plus adapté, il existe sous 3 formes."

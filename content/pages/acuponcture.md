@@ -1,7 +1,6 @@
 ---
 title:  "L'acunponcture canine : un adjuvant précieux pour calmer son chien"
 menutitle: Acuponcture
-layout: page
 tags: ['santé']
 weight: 3
 Collection : acuponcture

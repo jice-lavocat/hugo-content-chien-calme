@@ -1,7 +1,6 @@
 ---
 title: "L'hypnose canine pour lutter contre la douleur et l'anxiété"
 menutitle: Hypnose
-layout: page
 tags: ['santé']
 weight: 5
 collection: hypnose

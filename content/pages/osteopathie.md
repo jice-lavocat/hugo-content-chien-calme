@@ -1,7 +1,6 @@
 ---
 title: "Les raisons de tester l’ostéopathie sur un chien stressé, malade, fatigué"
 menutitle: Ostéopathie
-layout: page
 tags: ['santé']
 weight: 4
 collection: osteopathie
