@@ -5,7 +5,7 @@ author: "marie"
 tags: ['santé' ]
 date: 2017-04-23
 categories: ["santé"]
-thumbnail: "/images/actualites/Chien_creuse-trou.jpg"
+thumbnail: "/images/actualites/antiprasite.png"
 Description: " Amateurs de merveilleux jardins remplis de fleurs, vous savez très bien qu'il ne faut pas laisser votre adoré labrador ou tout autre chien seul dans cet espace ! Vous risquez en effet de le retrouver ravagé comme après un tir de mines ! Partis les jolis iris et les jonquilles de printemps. Le jardin ressemble à la surface de la lune... "
 ---
 Amateurs de merveilleux jardins remplis de fleurs, vous savez très bien qu'il ne faut pas laisser votre adoré labrador ou tout autre chien seul dans cet espace ! Vous risquez en effet de le retrouver ravagé comme après un tir de mines ! Partis les jolis iris et les jonquilles de printemps. Le jardin ressemble à la surface de la lune...
