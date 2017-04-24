@@ -1,5 +1,5 @@
 ---
-title: " Phlebotomes, puces, tiques : tous les anti parasites !  "
+title: " Phlebotomes, puces, tiques : tous les anti parasites ! "
 
 author: "marie"
 tags: ['santé' ]
