@@ -7,7 +7,7 @@ theme = "younicorns"
 description = "Des conseils pour avoir un chien calme"
 
 [params]
-    title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
+    #title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
 	  facebookPage = "https://www.facebook.com/chiencalme"
     twitterPage = "https://twitter.com/ChienCalme"
     twitterHandle = "ChienCalme"

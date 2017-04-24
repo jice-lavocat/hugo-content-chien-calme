@@ -1,6 +1,5 @@
 ---
 title: "Protéger son chien - Mutuelle santé pour animal de compagnie"
-layout: page
 Description : "Comment protéger son chien et choisir sa mutuelle."
 url : "assurance"
 ---
@@ -39,8 +38,9 @@ De façon générale, les assurances ou mutuelles pour chiens peuvent être sous
 
 ## Quelle assurance choisir ?
 Nous ne pouvons mettre en avant une offre par rapport à une autre, car chacune possède ses spécificités et dépend de votre chien. Pour être certain de ne pas payer trop cher son assurance, le mieux reste de faire des demandes de devis auprès de plusieurs concurrents.
-<ul><lui>Commencez par <b>définir vos priorités</b>. Voulez-vous couvrir toutes vos dépenses avec une cotisation plus élevée mais sans franchise ? </li>
-<li>Sachez bien <b>lire les contrats</b<, les dommages qu'ils couvrent, le montant de la franchise. Les moins chers ne sont pas forcément les plus intéressants pour vous. </li></ul>
+<ul>
+<li>Commencez par <b>définir vos priorités</b>. Voulez-vous couvrir toutes vos dépenses avec une cotisation plus élevée mais sans franchise ? </li>
+<li>Sachez bien <b>lire les contrats</b>, les dommages qu'ils couvrent, le montant de la franchise. Les moins chers ne sont pas forcément les plus intéressants pour vous. </li></ul>
 
 
 Chien-Calme a établi un partenariat avec un site de comparateur d’assurances. Vous remplissez le formulaire. Vous recevez plusieurs devis. Votre choix sera ainsi facilité ! Vous trouverez plus vite l'assurance qui convient le mieux à votre loulou.
@@ -48,8 +48,13 @@ Chien-Calme a établi un partenariat avec un site de comparateur d’assurances.
 ### Comparez les assurances pour chiens
 
 
-<script type="text/javascript" src="http://www.misterassur.com/wp-content/plugins/maapi/js/iframe.js"></script>
-<iframe src="http://www.misterassur.com/apporteurs/?code=CHCMB&utm_source=CHC&utm_medium=iframe&utm_campaign=animaux" width="100%" height="100%" frameborder="0" allowtransparency="true" id="iframe_modulable" scrolling="no" marginheight="0" overflow="hidden"></iframe>
+<!-- DEBUT Marque blanche MH -->
+<script src="http://www.lecomparateurassurance.com/Scripts/00_Master/marqueBlanche.aspx" type="text/javascript" ></script>
+<div id="erreurLCA"></div>
+<div id="divLCA"><iframe id="FrnLCA" frameborder="0" scrolling="no"></iframe></div>
+<script type="text/javascript">
+       CreateFrame("Chien-calme.com");
+</script>
 
 
 ## Quels sont les éléments à fournir ?
