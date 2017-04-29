@@ -1,0 +1,104 @@
+﻿{{ partial "header.html" . }}
+<body>
+	{{ partial "headingbar.html" . }}
+
+	<!-- Menu -->
+    {{ partial "menu.html" .}} <!--',  {current_page:@document.URL}) %>-->
+
+	<section class="innercontent">
+		<!-- Content -->
+		<div class="container">
+
+			<h2 class="heading">Dernières Actualités</h2>
+			    <div class="row">
+			      <div class="col-md-8 col-lg-8">
+
+
+			        {{ range .Paginator.Pages }}
+						    {{ .Render "summary_home"}}
+						{{ end }}
+
+			        <div class="clearfix"></div>
+			      </div>
+			      <aside class="col-md-4 col-lg-4">
+			        <div class="row">
+			          <div class="col-sm-6 col-md-12 col-lg-12">
+			            <div class="panel panel-default theme-panel">
+			              <div class="panel-heading">Reçois notre newsletter</div>
+			              	<div class="panel-body">
+			              	<div>Reçois nos articles une fois par mois, et les astuces.</div>
+			                <form action="#" method="post">
+			                  <div class="form-group">
+			                    <input type="text" class="form-control" placeholder="@ Email">
+			                  </div>
+			                  <div class="form-group">
+			                    <button class="btn btn-default btn-lg pull-right" type="button">Subscribe</button>
+			                  </div>
+			                </form>
+			              </div>
+			            </div>
+			          </div>
+			          <div class="col-sm-6 col-md-12 col-lg-12">
+					    <div class="panel panel-default theme-panel">
+					      <div class="panel-heading">
+					        Rejoignez la communauté
+					      </div>
+					      <div class="panel-body nopadding">
+					        <center style="margin-top:15px"><div class="fb-page" data-href="{{.Site.Params.facebookPage}}" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="{{.Site.Params.facebookPage}}"><a href="{{.Site.Params.facebookPage}}">{{.Site.Title}}</a></blockquote></div></div></center>
+					      </div>
+					    </div>
+			        </div>
+			      </aside>
+			    </div>
+
+				<!-- Barre paralaxe -->
+			    <!--<div class="row" >
+			      <div class="col-md-12" >
+			        <div id="parallax-1" class="bgParallax" data-speed="15" >
+			          <div class="color-overlay black" >
+			            <h3><span>Hot News:</span> Ca marche pas</h3>
+			          </div>
+			        </div>
+			      </div>
+			    </div>-->
+
+			<h2 class="heading">Nos dernières ressources</h2>
+			    <div class="row">
+
+			      <div class="col-md-6">
+			      <h3 class="heading">FAQ</h3>
+					{{ range first 5 (where .Site.Pages "Section" "faq")}}
+						{{ .Render "summary_home_slim"}}
+					{{end}}
+
+			        <div class="clearfix"></div>
+			      </div>
+
+			      <div class="col-md-6">
+			      <h3 class="heading">Activités</h3>
+
+
+					{{/* We use information from index.md and keep it in local variable */}}
+					{{/* See: https://discuss.gohugo.io/t/union-intersect-of-slice-variable-and-metadata/6382 */}}
+					{{ $activite_categories := .Params.activite_categories}}
+
+					{{/* Then we intersect with each article to see if there are some common tags */}}
+			        {{ range first 5 (where .Site.Pages ".Params.categories" "intersect" $activite_categories)}}
+						{{ .Render "summary_home_slim"}}
+					{{end}}
+
+			        <div class="clearfix"></div>
+			      </div>
+
+			    </div>
+
+		</div><!-- /container -->
+	</section>
+
+		<!-- Footer -->
+        {{ partial "footer.html" .}}
+	{{ partial "modals.html" . }}
+    {{ partial "bodyend.html" . }}
+
+</body>
+</html>
