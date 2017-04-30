@@ -40,3 +40,12 @@
 .ads{
 	box-shadow: 3px 3px 4px 3px #FFE95E;
 }
+
+
+#modalNewsletter{
+	max-width: 85%;
+}
+
+#modalNewsletter img{
+	max-width: 70%;
+}

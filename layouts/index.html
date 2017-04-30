@@ -32,13 +32,19 @@
 			            <div class="panel panel-default theme-panel">
 			              <div class="panel-heading">Reçois notre newsletter</div>
 			              	<div class="panel-body">
-			              	<div>Reçois nos articles une fois par mois, et les astuces.</div>
-			                <form action="#" method="post">
-			                  <div class="form-group">
-			                    <input type="text" class="form-control" placeholder="@ Email">
-			                  </div>
-			                  <div class="form-group">
-			                    <button class="btn btn-default btn-lg pull-right" type="button">S'inscrire</button>
+			              	<div>Reçois nos articles une fois par mois, et toutes nos meilleures astuces :<br/></div>
+			                <form action="//graphemeride.us8.list-manage.com/subscribe/post?u=6d1c2f2ead3228160d34b409b&amp;id=dcf514700e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+		                        <div class="form-group">
+
+		                            <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" id="newsletter1_email"  placeholder="Entre ton email" style="border: 1px solid #ccc; margin-top: 20px;">
+
+		                        </div>
+
+
+				                  <div class="form-group">
+				                    <button class="btn btn-default btn-lg pull-right" type="button">Recevoir la newsletter</button>
+
 			                  </div>
 			                </form>
 			              </div>
@@ -47,7 +53,7 @@
 			          <div class="col-sm-6 col-md-12 col-lg-12">
 					    <div class="panel panel-default theme-panel">
 					      <div class="panel-heading">
-					        Rejoignez la communauté
+					        Rejoins la communauté
 					      </div>
 					      <div class="panel-body nopadding">
 					        <center style="margin-top:15px"><div class="fb-page" data-href="{{.Site.Params.facebookPage}}" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="{{.Site.Params.facebookPage}}"><a href="{{.Site.Params.facebookPage}}">{{.Site.Title}}</a></blockquote></div></div></center>
@@ -73,11 +79,9 @@
 
 			      <div class="col-md-6">
 			      <h3 class="heading">FAQ</h3>
-					{{ range first 4 (where .Site.Pages "Section" "faq")}}
-						{{ .Render "summary_home_slim"}}
-					{{end}}
 
-					<article class="post vt-post summary_slim ads">
+
+			      	<article class="post vt-post summary_slim">
 					    <div class="row">
 					        <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
 					            <div class="post-type post-img">
@@ -94,6 +98,10 @@
 					        </div>
 					    </div>
 					</article>
+
+					{{ range first 4 (where .Site.Pages "Section" "faq")}}
+						{{ .Render "summary_home_slim"}}
+					{{end}}
 
 
 			        <div class="clearfix"></div>
@@ -114,6 +122,11 @@
 
 			        <div class="clearfix"></div>
 			      </div>
+
+			    </div>
+
+			    <div class="text-center center-block">
+			    	<a href="#" data-toggle="modal" data-target="#modalNewsletter" id="banner_newsletter" style="padding-bottom: 60px;"><img src="/images/banner_newsletter_1.png" class="img-responsive responsive text-center center-block" />&nbsp;</a>
 
 			    </div>
 
