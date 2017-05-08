@@ -4,6 +4,7 @@ layout: index
 date: 2014-11-15
 thumbnail: "/images/actualites/acuchien.jpg"
 summary: "Face à l’échec de la médecine classique ( administration de stéroïdes et de relaxants musculaires ), l'acuponcture offre une solution alternative très efficace pour le traitement de l'arthrite. Cette thérapie est en train de conquérir de plus en plus adaptes aux US"
+activite_categories: ["sport", "chasse", "activite_campagne", "activite_eau", "activite_montagne", "activite_ville"]
 ---
 
 <!-- Header -->
@@ -59,7 +60,7 @@ summary: "Face à l’échec de la médecine classique ( administration de stér
     </div>
 	<div class="col-sm-6">
 		<h3>Acuponcture</h3>
-        <img class="img-responsive" src="/images/pages/acudog.jpg" alt="" /> 
+        <img class="img-responsive" src="/images/pages/acudog.jpg" alt="" />
 		<p>Une méthode efficace pour apaiser les angoisses de votre compagnon, celles qui sont dues à la séparation et à l'absence.</p>
 		<p><a class="btn btn-default" href="/pages/acuponcture">Acuponcture</a></p>
 	</div>

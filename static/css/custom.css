@@ -1,0 +1,51 @@
+.summary_slim{
+	min-height: 200px;
+}
+/*
+.header-bg {
+  width:100%;
+  height:100%;
+  background-image: url("../images/bannieres/home_chien-calme_1.png");
+  background-size:contain;
+  background-repeat: no-repeat;
+}*/
+.header-bg {
+  /*width:100%;*/
+  height:50%;
+  background-image: url("../images/bannieres/home_chien-calme_1.png");
+  background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+
+@media only screen and (max-device-width: 768px) {
+	.header-bg {
+	  /*width:100%;*/
+	  padding-top: 120px;
+	  height:25%;
+	}
+}
+
+@media only screen and (max-device-width: 480px) {
+	.header-bg {
+	  /*width:100%;*/
+	  padding-top: 120px;
+	  height:10%;
+	}
+}
+
+
+.ads{
+	box-shadow: 3px 3px 4px 3px #FFE95E;
+}
+
+
+#modalNewsletter{
+	max-width: 85%;
+}
+
+#modalNewsletter img{
+	max-width: 70%;
+}

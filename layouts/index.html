@@ -1,0 +1,142 @@
+﻿{{ partial "header.html" . }}
+<body>
+	{{ partial "headingbar.html" . }}
+
+	<!-- Menu -->
+    {{ partial "menu.html" .}} <!--',  {current_page:@document.URL}) %>-->
+
+<div class="header-bg">
+<span> <!-- The Chien Calme Background image--> </span>
+</div>
+
+
+
+	<section class="innercontent">
+		<!-- Content -->
+		<div class="container">
+
+			<h2 class="heading">Dernières Actualités</h2>
+			    <div class="row">
+			      <div class="col-md-8 col-lg-8">
+
+
+			        {{ range .Paginator.Pages }}
+						    {{ .Render "summary_home"}}
+						{{ end }}
+
+			        <div class="clearfix"></div>
+			      </div>
+			      <aside class="col-md-4 col-lg-4">
+			        <div class="row">
+			          <div class="col-sm-6 col-md-12 col-lg-12">
+			            <div class="panel panel-default theme-panel">
+			              <div class="panel-heading">Reçois notre newsletter</div>
+			              	<div class="panel-body">
+			              	<div>Reçois nos articles une fois par mois, et toutes nos meilleures astuces :<br/></div>
+			                <form action="//graphemeride.us8.list-manage.com/subscribe/post?u=6d1c2f2ead3228160d34b409b&amp;id=dcf514700e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+		                        <div class="form-group">
+
+		                            <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" id="newsletter1_email"  placeholder="Entre ton email" style="border: 1px solid #ccc; margin-top: 20px;">
+
+		                        </div>
+
+
+				                  <div class="form-group">
+				                    <button class="btn btn-default btn-lg pull-right" type="button">Recevoir la newsletter</button>
+
+			                  </div>
+			                </form>
+			              </div>
+			            </div>
+			          </div>
+			          <div class="col-sm-6 col-md-12 col-lg-12">
+					    <div class="panel panel-default theme-panel">
+					      <div class="panel-heading">
+					        Rejoins la communauté
+					      </div>
+					      <div class="panel-body nopadding">
+					        <center style="margin-top:15px"><div class="fb-page" data-href="{{.Site.Params.facebookPage}}" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="{{.Site.Params.facebookPage}}"><a href="{{.Site.Params.facebookPage}}">{{.Site.Title}}</a></blockquote></div></div></center>
+					      </div>
+					    </div>
+			        </div>
+			      </aside>
+			    </div>
+
+				<!-- Barre paralaxe -->
+			    <!-- <div class="row" style="position: relative">
+			      <div class="col-md-12" >
+			        <div id="parallax-1" class="bgParallax" data-speed="15" >
+			          <div class="color-overlay black" >
+			            <h3><span>Hot News:</span> Ca marche pas</h3>
+			          </div>
+			        </div>
+			      </div>
+			    </div> -->
+
+			<h2 class="heading">Nos dernières ressources</h2>
+			    <div class="row">
+
+			      <div class="col-md-6">
+			      <h3 class="heading">FAQ</h3>
+
+
+			      	<article class="post vt-post summary_slim">
+					    <div class="row">
+					        <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
+					            <div class="post-type post-img">
+					                <a  href="/assurance"><img alt="image post" class="img-responsive" src=
+					                "images/bannieres/stressed-dog.jpg"></a>
+					            </div>
+					        </div>
+
+					        <div class="col-xs-12 col-sm-7 col-md-7 col-lg-8" >
+					            <div class="caption">
+					                <h3 class="md-heading"  style="margin-top: -10px;"><a href="/assurance">Comment choisir une assurance pour son chien ?</a></h3>
+
+					            </div>
+					        </div>
+					    </div>
+					</article>
+
+					{{ range first 4 (where .Site.Pages "Section" "faq")}}
+						{{ .Render "summary_home_slim"}}
+					{{end}}
+
+
+			        <div class="clearfix"></div>
+			      </div>
+
+			      <div class="col-md-6">
+			      <h3 class="heading">Activités</h3>
+
+
+					{{/* We use information from index.md and keep it in local variable */}}
+					{{/* See: https://discuss.gohugo.io/t/union-intersect-of-slice-variable-and-metadata/6382 */}}
+					{{ $activite_categories := .Params.activite_categories}}
+
+					{{/* Then we intersect with each article to see if there are some common tags */}}
+			        {{ range first 5 (where .Site.Pages ".Params.categories" "intersect" $activite_categories)}}
+						{{ .Render "summary_home_slim"}}
+					{{end}}
+
+			        <div class="clearfix"></div>
+			      </div>
+
+			    </div>
+
+			    <div class="text-center center-block">
+			    	<a href="#" data-toggle="modal" data-target="#modalNewsletter" id="banner_newsletter" style="padding-bottom: 60px;"><img src="/images/banner_newsletter_1.png" class="img-responsive responsive text-center center-block" />&nbsp;</a>
+
+			    </div>
+
+		</div><!-- /container -->
+	</section>
+
+		<!-- Footer -->
+        {{ partial "footer.html" .}}
+	{{ partial "modals.html" . }}
+    {{ partial "bodyend.html" . }}
+
+</body>
+</html>

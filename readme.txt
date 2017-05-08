@@ -44,3 +44,8 @@ Exemple image qui dépasse :
 
 Exemple image reponsive :
 <p align="center"><img src="/images/actualites/canicross-cynthia1.jpg" class="img-responsive"></p>
+
+Template de base:
+http://bootstrapbay.com/preview/blogdesk-responsive-html-blog-theme-B96B68E
+http://www.mirchu.net/themes/BlogDesk/index.php
+Design sympa: https://dogvacay.com/blog/
