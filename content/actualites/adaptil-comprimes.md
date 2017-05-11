@@ -53,5 +53,5 @@ J'ai également changé de type de nourriture en choisissant des croquettes cont
 
 
 
-Le seul inconvénient est le coût de la boîte ! Profitez justement à prfiter en ce moment de 50% de réduction ! En allant sur notre <a href="https://www.facebook.com/chiencalme/photos/a.1602737249949127.1073741828.1592019927687526/1847467055476144/?type=3&theater" target=_"blank" > page Facebook </a>vous pourrez cliquer sur l'offre spéciale ( valide jusqu'à fin Août ) de notre partenaire Petsonic !
+Le seul inconvénient est le coût de la boîte ! Profitez justement à prfiter en ce moment de 50% de réduction ! En allant sur notre  page Facebook, vous pourrez cliquer sur l'offre spéciale ( valide jusqu'à fin Août 2016 ) de notre partenaire Petsonic !
 
