@@ -50,7 +50,7 @@ Le « wrap » se fixe sur les <b<pattes arrière de notre compagnon, appuyant 
 Le « wrap » se fixe sur les pattes arrière de notre compagnon, appuyant sur une zone génératrice de tensions ; Ses bretelles sont bien entendu adaptables à la taille de chaque chien. On peut aussi choisir les points d'acupression en fonction de chaque animal.
 Le « Wrap d'anxiété » est constitué d'un mince tissu respirant extensible. Des fermetures Velcro sont situées  sur le dos du chien.
 Le systéme existe en grandes tailles ( en petites aussi bien sûr mais c'est plus courant) et un tableau vous aide à choisir le modèle adéquat.
-Enfin, il vous est possible de vous procurer le produit sur <a href="http://www.amazon.co.uk/Anxiety-Wrap-AW04/dp/B00LJ313S0/ref=sr_1_1?s=pet-supplies&ie=UTF8&qid=1415725116&sr=1-1&keywords=Anxiety+Wrap" target="blank"> Amazon</a>  pour une somme très raisonnable.
+Enfin, il vous est possible de vous procurer le produit sur <a href="http://amzn.to/2quqNsC" target="blank"> Amazon</a>  pour une somme très raisonnable.
 
 Si vous avez testé ce produit, qu'en avez-vous pensé?
 
