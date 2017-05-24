@@ -1,20 +1,23 @@
 ---
-title: "Les 10 principales causes de mort accidentelle chez les chiens : comment les prévenir ?   "
+title: "7 manières de défouler un chien très (trop ) actif !  "
 
 author: "marie"
 tags: ['comportement' ]
-date: 2017-05-08
+date: 2017-05-24
 categories: ["education"]
-thumbnail: "/images/actualites/chien-fugue.jpg"
-Description: " Malgré leur exceptionnelle intelligence, nos amis à 4 pattes sont aussi capables de vriller. Femelle en chaleur, gourmandise, si nous ne sommes pas constamment vigilants l'accident peut vite arriver....Voici donc une liste des accidents mortels les plus courants...Et voici aussi des conseils pour les éviter "
+thumbnail: "/images/actualites/chienactif.jpg"
+Description: "Ce n'est pas un scoop : certaines races de chiens ( au delà des individus qui ont leur propre personnalité ) ont plus d’énergie que d'autres. C'est un point à prendre en compte quand vous prenez un animal. C'est d'ailleurs ce qui explique peut-être l'abandon de certains chiens. Les propriétaires ont choisi un chien qui ne leur convient pas du tout et surtout pas à leur style de vie  ! "
 
 ---
 
-Malgré leur exceptionnelle intelligence, nos amis à 4 pattes sont aussi capables de "vriller". <b>Femelle en chaleur, gourmandise, </b>si nous ne sommes pas constamment vigilants l'accident peut vite arriver....
+Ce n'est pas un scoop : certaines races de chiens ( au delà des individus qui ont leur propre personnalité ) ont plus d’énergie que d'autres. C'est un point à prendre en compte quand vous prenez un animal.
 
-Voici donc une liste des accidents mortels les plus courants...Et voici aussi des <b>conseils pour les éviter</b>
+C'est d'ailleurs ce qui explique peut-être l'abandon de certains chiens. Les propriétaires ont choisi un chien qui ne leur convient pas du tout et surtout pas à leur <a href= http://www.chien-calme.com/actualites/choisir-son-chien/"target=_"blank" > style de vie </a>   ! Le jack n'est pas un chien pour humain plan plan ou âgé par exemple ! Il a besoin de beaucoup d'exercice pour s'épanouir.
 
-<p align="center"><img src="/images/actualites/danger-chien.jpg" class="img-responsive"></p>
+Certaines races donc devront courir et avoir beaucoup d'activités physiques et mentales avant d’être fatiguées.
+Voici comment vous pouvez entraîner un chien très actif de manière efficace.
+
+<p align="center"><img src="/images/actualites/activitéchien.jpg" class="img-responsive"></p>
 
 
 
