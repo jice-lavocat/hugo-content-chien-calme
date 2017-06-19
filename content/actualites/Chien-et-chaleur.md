@@ -31,7 +31,7 @@ si il doit marcher sur du <b>ciment brûlant et du sable</b> : vous portez des 
 
 
 ## Trouvez lui un espace frais ##
-à l'ombre ou sur une <b>serviette humide</b>. Utilisez un <b>ventilateur ou un brumisateur</b>.
+à l'ombre ou sur une <b>serviette humide</b> ou un <a href="http://amzn.to/2tEOKMK" target=_"blank"> tapis rafraichissant</a> Utilisez un <b>ventilateur ou un brumisateur</b>.
 Rafraîchissez pattes et ventre, le dessous est plus important que la tête.
 <p align="center"><img src="/images/actualites/chien-frais.jpg"></p>
 
