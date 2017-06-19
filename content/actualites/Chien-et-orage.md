@@ -41,6 +41,6 @@ Il est parfois aussi <b<stressant pour l'humain</b> de voir son quadrupède anxi
 
 <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bBAvRUQrvLQ" frameborder="0" allowfullscreen></iframe></p>
 
-Sachez aussi que si vous êtes le maître d'un <b>chiot</b>, il vous est possible de le <b>familiariser à ces bruits angoissants que produit le tonnerre en lui faisant écouter des videos d'orage</b>, d'abord à faible volume et ensuite plus fort. (voir viedo ci-dessus)
+Sachez aussi que si vous êtes le maître d'un <b>chiot</b>, il vous est possible de le <b>familiariser à ces bruits angoissants que produit le tonnerre en lui faisant écouter des videos d'orage</b>, d'abord à faible volume et ensuite plus fort. (voir video ci-dessus)
 
 Cette technique a vraiment bien fonctionné avec mon jeune chien qui ne bronche jamais quand il voit des éclairs et entend le tonnerre. Essayez la même technique avec les feux d'artifice !
