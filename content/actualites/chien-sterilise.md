@@ -1,7 +1,7 @@
 ---
 title: "Chien stérilisé : quel comportement adopter et quelle alimentation lui offrir ?  "
 
-author: "marie"
+author: "invite"
 tags: ['alimentation ' ]
 date: 2017-06-29
 categories: ["alimentation"]
