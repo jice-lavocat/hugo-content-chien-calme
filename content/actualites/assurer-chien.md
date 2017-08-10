@@ -13,7 +13,7 @@ summary: " Beaucoup se posent la question de savoir si prendre une assurance pou
 Beaucoup se posent la question de savoir si prendre une assurance pour son chien est une bonne idée. Évidemment vous avez un jeune chien en pleine santé et l'assurer vous semble vraiment inutile ( et onéreux ). Oui, il est également possible que vos précédents compagnons aient vécu sans visité chez le spécialiste, à part les vaccins.
 
 
-Assurer son chien est vraiment une décision à réfléchir. On peut regretter d'avoir payé des années des cotisations pour rien...Mais on peut aussi avoir très rapidement de gros frais vétérinaires. <b>Un petit tour d'horizon des frais vétérinaires que l'on peut engager</b>.
+<a href="http://www.chien-calme.com/assurance/" target =_"blank" > Assurer son chien </a> est vraiment une décision à réfléchir. On peut regretter d'avoir payé des années des cotisations pour rien...Mais on peut aussi avoir très rapidement de gros frais vétérinaires. <b>Un petit tour d'horizon des frais vétérinaires que l'on peut engager</b>.
 
 <p align="center"><img src="/images/actualites/platre.jpg"></p>
 
@@ -24,7 +24,7 @@ La facture pour le moindre petit « accident » de la route va rapidement grim
 
 Les <b>antibiotiques</b> sont chers, et ne parlons pas de ce qui est <b>chirurgie</b> ! Une fracture a opérer va coûter dans les 300 euros ( tarifs indicatifs ). Vous devrez payer dans les 100 euros pour faire vider un abcès....
 
-Avant d'ailleurs de se tourner vers de la chirurgie, il sera souvent nécessaire de pratiquer des <b>radios, des prises de sang, des analyses</b>...Les injections régulières en cas de maladies à traiter sur du long terme sont nécessaires à la vie de votre compagnon. Il faudra donc injecter de l'insuline à votre chien <a href="http://www.sciencesetavenir.fr/animaux/20150126.OBS0862/les-chiens-et-chats-aussi-peuvent-etre-diabetiques.html" target=_"blank"> diabétique </a> par exemple.
+Avant d'ailleurs de se tourner vers de la chirurgie, il sera souvent nécessaire de pratiquer des <b>radios, des prises de sang, des analyses</b>...Les injections régulières en cas de maladies à traiter sur du long terme sont nécessaires à la vie de votre compagnon. Il faudra donc injecter de l'insuline à votre chien <a href="http://www.sciencesetavenir.fr/animaux/20150126.OBS0862/les-chiens-et-chats-aussi-peuvent-etre-diabetiques.html" target="_blank"> diabétique </a> par exemple.
 
 
 

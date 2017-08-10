@@ -61,7 +61,7 @@ C'est la même chose pour le chien : si vous le fixez, même avec un sourire, i
 
 Si vous approchez un chien inconnu, <b>présentez vous de façon neutre</b>, légèrement en biais pour ne pas l'agresser. Au moins lui ne vous agressera pas en retour.</li>
 
-<p align= "center"><img src= "/images/actualites/fixer-chien.JPG"</p>
+<p align= "center"><img src= "/images/actualites/fixer-chien.JPG"class="img-responsive"></p>
 
 <li><b>Ne pas fixer de régles</b>
 
