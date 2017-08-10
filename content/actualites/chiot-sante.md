@@ -5,7 +5,7 @@ author: "marie"
 tags: ['chiot', 'santé''alimentation' ]
 date: 2016-05-30
 categories: ["comportement"]
-thumbnail: "/images/actualites/développement-du-chiot1.jpg"
+thumbnail: "/images/actualites/developpement-du-chiot1.jpg"
 Description: " Vous attendez votre chiot avec impatience ? Vous avez choisi une race plutôt grande et sportive car vous adorez le sport ? Faites très attention à l'exercice que vous allez faire pratiquer à votre chiot ! De là risquent de découler de gros problèmes de santé si votre petit chien est trop sollicité.   "
 ---
 Vous attendez votre chiot avec impatience ? Vous avez choisi une race plutôt grande et sportive car vous adorez le sport ? Faites très attention à l'exercice que vous allez faire pratiquer à votre chiot ! De là risquent de découler de gros problèmes de santé si votre petit chien est trop sollicité.
@@ -50,8 +50,8 @@ Un bébé de moins de 5 mois peut manger 3 fois par jour ( voire même 4 au déb
 Dernière précision : <b>ne changes jamais brusquement la nourriture de votre chien</b> mais habituez le lentement. Par exemple 1/3 de nouvel aliment et 2/3 de l'ancien sur deux jours ou trois, puis 2/3 de nouveau sur la même durée, puis la totalité. Certains chiens en effet ne supportent pas du tout un changement radical.
 
 
-Pensez à ses vaccinations et réfléchissez à une <a href= http://www.chien-calme.com/actualites/assurer-chien/"> assurance </a>. Cela peut vous économiser beaucoup d'argent !
+Pensez à ses vaccinations et réfléchissez à une <a href="http://www.chien-calme.com/actualites/assurer-chien/">assurance</a>. Cela peut vous économiser beaucoup d'argent !
 
 
-<a href="http://mestiti.centerblog.net"><img src="http://mestiti.m.e.pic.centerblog.net/2cw6t1zj.gif" border="0"  alt="Image du Blog mestiti.centerblog.net" /></a>
+<center><img src="http://mestiti.m.e.pic.centerblog.net/2cw6t1zj.gif" border="0"  alt="Lechouille" /></center>
 
