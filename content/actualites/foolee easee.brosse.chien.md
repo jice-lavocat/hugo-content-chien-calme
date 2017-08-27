@@ -17,7 +17,7 @@ En quelques jours, vous récoltez, sur votre golden adoré, assez de poils pour 
 
 Le choix de la brosse est alors un élément primordial pour l'entretien du pelage. Nous avons donc testé pour vous un produit vraiment efficace : les accessoires de toilettage <a href="http://www.foolee.fr/" target="-blank" >FoOlee EASEE.</a>
 
-<p align="center"><img src="/images/actualites/jerry-brosse.jpg"style width=80% class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/jerry-brosse.jpg"style width=30% class="img-responsive"></p>
 
 
 
@@ -74,14 +74,13 @@ Ce type de chien a un poil très ras, qu'il perd cependant en abondance selon la
 Le brossage FoOlee EASEE était beaucoup plus performant qu'avec d'autres outils et surtout ne "dérangeait"  le chien. Le contact du peigne en effet peut être agressif quand l'animal n'a aucun sous poil. Certes les poils enlevés ont tendance à rester collés sur le manche (ils ne sont pas en quantité suffisante pour être stockés et éjectés ensuite ), néanmoins ils sont retirés.
 
 
-<p align="center"><img src="/images/actualites/poilsdob.jpg" class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/poilsdob.jpg" class="img-responsive"style width=30%></p>
 
 ### La brosse de massage sur les deux chiens ###
 
 <ul><li>Sur un chien à poils courts ou à poils longs, elle permet un massage sympa, qui doit aussi assainir la peau et activer la circulation du sang. Les deux chiens ont largement apprécié mais le résultat doit se voir sur du long terme..et sur des animaux dont le poil est moins brillant et sain que le dobermann par exemple. </li>
 
-<p align="center"><img src="/images/actualites/
-poilnoir.jpg" class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/poiluisant.jpg" class="img-responsive"></p>
 
 <li>Elle peut s'utiliser sur les parties fragiles de l’animal genre queue, oreilles, museau...</li>
 <li>Elle s'entretient à l'eau </li></ul>
