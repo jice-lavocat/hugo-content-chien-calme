@@ -16,7 +16,7 @@ Si vous souhaitez en savoir plus avant de prendre une mutuelle, vous pouvez <a h
 
 
 <!-- DEBUT Marque blanche MH -->
-<script src="http://www.lecomparateurassurance.com/Scripts/00_Master/marqueBlanche.aspx" type="text/javascript" ></script>
+<script src="https://www.lecomparateurassurance.com/Scripts/00_Master/marqueBlanche.aspx" type="text/javascript" ></script>
 <div id="erreurLCA"></div>
 <div id="divLCA"><iframe id="FrnLCA" frameborder="0" scrolling="no"></iframe></div>
 <script type="text/javascript">
