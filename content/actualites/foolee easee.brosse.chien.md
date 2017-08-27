@@ -17,7 +17,8 @@ En quelques jours, vous récoltez, sur votre golden adoré, assez de poils pour 
 
 Le choix de la brosse est alors un élément primordial pour l'entretien du pelage. Nous avons donc testé pour vous un produit vraiment efficace : les accessoires de toilettage <a href="http://www.foolee.fr/" target="-blank" >FoOlee EASEE.</a>
 
-<p align="center"><img src="/images/actualites/jerry-brosse.jpg" class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/jerry-brosse.jpg"style width=80% class="img-responsive"></p>
+
 
 
 
