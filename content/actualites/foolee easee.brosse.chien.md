@@ -10,7 +10,7 @@ Description: "Dés que l'automne pointe son nez ou bien au printemps, nos petits
               Là c'est le drame et surtout pour les heureux propriétaires de bestioles à poils longs.  "
 
 ---
-Dés que l'automne pointe son nez ou bien au printemps, nos petits compagnons commencent à <b>perdre leurs poils.</b> Ils se préparent en effet à affronter une saison plus froide ou une plus chaude.
+Dès que l'automne pointe son nez ou bien au printemps, nos petits compagnons commencent à <b>perdre leurs poils.</b> Ils se préparent en effet à affronter une saison plus froide ou une plus chaude.
 Là c'est le drame et surtout pour les heureux propriétaires de bestioles à poils longs.
 
 En quelques jours, vous récoltez, sur votre golden adoré, assez de poils pour en faire des tapis, vos vêtements sont couverts de fourrure claire, vous marchez dans des moutons dorés, coincés dans les angles de votre maison. Plus vous brossez Titus, plus vous avez l'impression qu'il perd ses poils.
@@ -78,14 +78,15 @@ Le brossage FoOlee EASEE était beaucoup plus performant qu'avec d'autres outils
 
 ### La brosse de massage sur les deux chiens ###
 
-<ul><li>Sur un chien à poils courts ou à poils longs, elle permet un massage sympa, qui doit aussi assainir la peau et activer la circulation du sang. Les deux chiens ont largement apprécié mais le résultat doit se voir sur du long terme..et sur des animaux dont le poil est moins brillant et sain que le dobermann par exemple. </li>
+<ul><li>Sur un chien à poils courts ou à poils longs, elle permet un massage sympa, qui doit aussi assainir la peau et activer la circulation du sang. Les deux chiens ont largement apprécié mais le résultat doit se voir sur du long terme... Ci-desous le dobermann brossé </li>
 
 <p align="center"><img src="/images/actualites/poiluisant.jpg" class="img-responsive"></p>
 
 <li>Elle peut s'utiliser sur les parties fragiles de l’animal genre queue, oreilles, museau...</li>
 <li>Elle s'entretient à l'eau </li></ul>
 
-<b> En conclusion</b>En conclusion : cette brosse est enracinement beaucoup plus appréciée des chiens à poils longs que nos deux chiens test.
+<b> En conclusion</b> : cette brosse est certainement beaucoup plus appréciée des chiens à poils longs que nos deux chiens test. Les picots de massage sont efficaces dans une fourrure plus dense.
+Dernier petit point négaitf: les outils restent chers et surtout si on en achète plusieurs.
 
 
 
