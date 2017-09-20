@@ -45,7 +45,7 @@ Je vous présente donc Céline, en quelques questions.
 <i>
 
 
- <img src="/images/actualites/un_veto_en_colere.jpg" style="float:left; padding-right: 10px; width: 100px;" alt="Livre : un vétérinaire en colère" title="Livre : un vétérinaire en colère">  L'idée de mon activité est née de la lecture d'un ouvrage à l'origine de nombreuses polémiques : "<b> <a href="http://www.amazon.fr/gp/product/2890057194/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2890057194&linkCode=as2&tag=chical0b-21&linkId=RQ3OV52TNOB5YHRL" target =_"blank" >Un vétérinaire en colère. Essai sur la condition animale</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=chical0b-21&l=as2&o=8&a=2890057194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ <img src="/images/actualites/un_veto_en_colere.jpg" style="float:left; padding-right: 10px; width: 100px;" alt="Livre : un vétérinaire en colère" title="Livre : un vétérinaire en colère">  L'idée de mon activité est née de la lecture d'un ouvrage à l'origine de nombreuses polémiques : "<b> <a href="http://www.amazon.fr/gp/product/2890057194/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2890057194&linkCode=as2&tag=chical0b-21&linkId=RQ3OV52TNOB5YHRL" target =_"blank"  rel="nofollow">Un vétérinaire en colère. Essai sur la condition animale</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=chical0b-21&l=as2&o=8&a=2890057194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
  </b>" de Charles Danten ( <a href="http://barf-asso.fr/veterinaire-en-colere/2/" target=_"blank">Ici un extrait</a> ).
 
 

@@ -34,7 +34,7 @@ Les chiens sont des animaux avides de découvrir des lieux inconnus. Mais **atte
 <li>
 Evitez les marches en **pleine chaleur** et par journée humide : votre chien est sensible au **stress thermique**, car il ne transpire pas et ne peut donc se réguler. Sa température est susceptible d’atteindre assez vite les **40,5 /41 degrés** : processus vital fortement engagé ( température normale autour de 38 ) </li>
 
-<li> Vous pouvez aussi mettre un bandana ou un <a href="http://amzn.to/2vPcAux" target="_blank" > harnais rafraichissant </a> à votre animal. Il peut rester froid jusqu'à 3 heures selon les modéles. Il suffit ensuite de le remettre ( comme la couverture rafraichissante ) dans l'eau pour le refroidir. On les utilise par exemple avec succés dans les epreuves de recherche utilitaire en été. Il est vrai par contre qu'elles ne durent ua pire qu'un peu plus de une heure. Le marché des produits rafraichissants pour chiens se developpe pas mal ! </li>
+<li> Vous pouvez aussi mettre un bandana ou un <a href="http://amzn.to/2vPcAux" target="_blank" rel="nofollow"> harnais rafraichissant </a> à votre animal. Il peut rester froid jusqu'à 3 heures selon les modéles. Il suffit ensuite de le remettre ( comme la couverture rafraichissante ) dans l'eau pour le refroidir. On les utilise par exemple avec succés dans les epreuves de recherche utilitaire en été. Il est vrai par contre qu'elles ne durent ua pire qu'un peu plus de une heure. Le marché des produits rafraichissants pour chiens se developpe pas mal ! </li>
 
 <p align="center"><img src= "/images/actualites/harnais rafraichissant_.jpg" class="img-responsive"></p>
 
@@ -55,7 +55,7 @@ Evitez les marches en **pleine chaleur** et par journée humide : votre chien e
 
 <li> En hiver pensez à lui faire porter eventuellement des chaussures pour éviter de se glacer les pattes sur la neige ! ( il faut vraiment l'entrainer avant car le chien deteste mettre des souliers !) Pour les chiens sans sous-poil ( boxer, dobermann..)un manteau peut être necessaire pour des températures très basses. </li>
 
-<li> Puisqu'on en est aux pattes, contrôlez les reguulièrement. Les <b>pattes sont fragiles </b> et votre chien peut se blessern se brûler...se planter quelque chose entre les coussinets... Personnellement je mets un produit sur les coussinets de mon chien pour les durcir. Il s'agit de <a href="http://amzn.to/2vFln1k" target="_blank"> solipat </a> C'est le plus efficace que j'ai testé.
+<li> Puisqu'on en est aux pattes, contrôlez les reguulièrement. Les <b>pattes sont fragiles </b> et votre chien peut se blessern se brûler...se planter quelque chose entre les coussinets... Personnellement je mets un produit sur les coussinets de mon chien pour les durcir. Il s'agit de <a href="http://amzn.to/2vFln1k" target="_blank" rel="nofollow"> solipat </a> C'est le plus efficace que j'ai testé.
 
 
 

@@ -40,4 +40,4 @@ Il n'y a pas que l'humain a profiter des bienfaits de l’huile d'olive pour ses
 Alors, <b>allez-vous essayer ? Avez-vous déjà testé ? Qu'en pensez-vous ???????</b></li></ul>
 
 ### Changez des croquettes
-Si vous souhaitez aussi varier l'alimentation de votre protégé, n'hésitez pas à réduire le nombre de repas 100% croquettes. Une fois tous les 15 jours, par exemple, vous pouvez lui donner un repas de type <a href="http://amzn.to/2anS3mj" target="_blank">BARF</a> (viande et légumes crus). Ce régime lui permettra d'être plus en forme et aussi de manger de vrais ingrédients comme ses maîtres.
+Si vous souhaitez aussi varier l'alimentation de votre protégé, n'hésitez pas à réduire le nombre de repas 100% croquettes. Une fois tous les 15 jours, par exemple, vous pouvez lui donner un repas de type <a href="http://amzn.to/2anS3mj" target="_blank" rel="nofollow">BARF</a> (viande et légumes crus). Ce régime lui permettra d'être plus en forme et aussi de manger de vrais ingrédients comme ses maîtres.

@@ -63,7 +63,7 @@ Quand vous irez acheter la nourriture pour votre loulou évitez donc les céréa
 <li><b>Sucres</b> : Beaucoup de marques pour chiens mettent des sucres dits «  naturels » dans les ingrédients. Cela rehausse le goût. L'excés est stocké sous forme de graisses chez l'animal ( comme chez nous d'ailleurs ) Vérifiez donc la teneur en sucres sur l'emballage. </li></ul>
 
 
-Maintenant, personnellement, je choisis la nourriture de mon chien sur des sites qui font des <b>études comparatives</b>. Ils notent la qualité des ingrédients utilisés. Ces derniers sont listés en détail. Le problème majeur est que les pages, <a href="http://www.dogfoodadvisor.com/" target="_blank"> américaines</a> istent des marques US ou canadiennes. Mais certaines sont disponibles en France. Dans les 5 étoiles on trouvera <a href="http://amzn.to/2b08uSV" target="_blank" > Orijen</a>,  Acana, Taste oh the Wild..que l'on retrouve chez nous.
+Maintenant, personnellement, je choisis la nourriture de mon chien sur des sites qui font des <b>études comparatives</b>. Ils notent la qualité des ingrédients utilisés. Ces derniers sont listés en détail. Le problème majeur est que les pages, <a href="http://www.dogfoodadvisor.com/" target="_blank"> américaines</a> istent des marques US ou canadiennes. Mais certaines sont disponibles en France. Dans les 5 étoiles on trouvera <a href="http://amzn.to/2b08uSV" target="_blank" rel="nofollow"> Orijen</a>,  Acana, Taste oh the Wild..que l'on retrouve chez nous.
 
 
 <p align="center"><img src="/images/actualites/orijen.jpg"class="img-responsive">

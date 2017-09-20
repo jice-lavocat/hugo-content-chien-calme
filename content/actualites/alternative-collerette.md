@@ -26,7 +26,7 @@ Nous avons choisi les dispositifs qui nous semblaient les plus pratiques pour le
 ## Le collier BiteNot ##
 Cet accessoire en PVC est nouveau venu sur le marché français. Il est souple et permet ainsi à votre animal de <b> boire, de manger, de dormir sans problème</b>. Il permet aussi de <b>maintenir les cervicales.</b> Le collier est accompagné aussi d'un harnais qui l'empêche de glisser.
 
-Le BitNot existe en 7 tailles.Il coûte dans les 30 euros selon la taille bien sûr. Il se trouve sur <a href="http://amzn.to/2wGmaj9" target=_blank" > Amazon </a> par exemple.
+Le BitNot existe en 7 tailles.Il coûte dans les 30 euros selon la taille bien sûr. Il se trouve sur <a href="http://amzn.to/2wGmaj9" target="_blank" rel="nofollow"> Amazon </a> par exemple.
 
 Il semble par contre <b>absolument indispensable de bien prendre les mesures si on veut un accessoire efficace.</b> Il n'est pas adapté pour protéger de lésions  aux oreilles, aux yeux et aux pattes.
 
@@ -55,7 +55,7 @@ Le collier est vraiment <b>identique à l'inconfortable collerette mais il est e
 
 
 Les utilisateurs le trouvent pratique à mettre et à fixer. Il tient bien sur l'animal. Il remplace donc <b>avantageusement le dispositif de plastique. </b>
-Il coûte environ 12 euros sur <a href="http://amzn.to/2xuIZ71" target="_blank" >Amazon </a>
+Il coûte environ 12 euros sur <a href="http://amzn.to/2xuIZ71" target="_blank" rel="nofollow">Amazon </a>
 
 
 

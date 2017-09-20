@@ -89,7 +89,7 @@ Habituez aussi votre chien aux petits. Ne laissez jamais seuls enfants et chien 
 <h2> Nourrissez votre chien convenablement </h2>
 Faites attention à ce que vous allez donner à votre animal ! <b>Un chiot n'a pas les mêmes besoins qu'un senior ! Un chien hyperactif mange plus qu'un chien de maison. Veillez à ce que votre animal ne devienne pas obèse et ne prenne pas trop de poids ! </b>
 
-Demandez conseil à un spécialiste si votre chien à des problèmes et tournez vous vers une <a href="http://amzn.to/2siGF2O" target=_"blank" > alimentation de qualité </a>( qui risque de vous coûter plus cher certes ).
+Demandez conseil à un spécialiste si votre chien à des problèmes et tournez vous vers une <a href="http://amzn.to/2siGF2O" target=_"blank"  rel="nofollow"> alimentation de qualité </a>( qui risque de vous coûter plus cher certes ).
 
 Ne gavez pas votre chien de gâteries, pas de sucre et surtout pensez bien que beaucoup d'aliments humains sont toxiques pour lui  (chocolat, avocat, oignon, lactose, alcool, café..oui cela semble évident mais bon...)
 

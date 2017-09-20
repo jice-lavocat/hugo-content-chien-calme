@@ -11,7 +11,7 @@ summary: "« Entre chien et loups » est un récit autobiographique. Il racont
 ---
 
 
-« Entre chien et loups » est un récit autobiographique. Il raconte un morceau de vie douloureux, celui de <a href="http://www.amazon.com/Entre-chien-loups-French-Edition-ebook/dp/B014V84CKA"target=_"blank"> Sophie Dujardin</a>, face à la maladie de son père. Il est atteint d'un cancer.
+« Entre chien et loups » est un récit autobiographique. Il raconte un morceau de vie douloureux, celui de <a href="http://www.amazon.com/Entre-chien-loups-French-Edition-ebook/dp/B014V84CKA" target=_"blank"  rel="nofollow"> Sophie Dujardin</a>, face à la maladie de son père. Il est atteint d'un cancer.
 
 
 L'originalité de cet ouvrage tient dans le choix du narrateur. C'est <b>la jeune chienne</b> de l'écrivain qui va décrire ces mois difficiles, voire dramatiques. Elle s'exprime avec la naïveté que l'on suppose à un animal. Sa vision est extérieure. Pas d'analyse, pas d'introspection, la petite bête, arrivée au domicile presque en même temps que la maladie paternelle ne se déclare, décrit objectivement.

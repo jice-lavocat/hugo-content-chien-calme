@@ -51,7 +51,7 @@ A donner 4 fois par jour une demi à une cuillerée à café selon le poids du c
 
 Le miel est aussi un excellent antiseptique. Pour des <b>blessures légères, des brûlures,</b>  il suffit d'appliquer une bonne couche de miel sur la plaie et de fixer par un bandage léger. Le sang va adsorber le produit très vite et la blessure va rapidement cicatriser. Par contre bien sûr, <b>empêchez le chien de se lécher ! </b>
 
-Attention aussi de ne pas utiliser de miel en <b>cristaux qui blesseraient encore plus l'animal.</b> Il existe un super miel, cher également mais qui est fabuleux, à consommer et à utiliser dans ces circonstances, le miel <a href="http://amzn.to/2tBKqib" target=_"blank" > Manuka </a>
+Attention aussi de ne pas utiliser de miel en <b>cristaux qui blesseraient encore plus l'animal.</b> Il existe un super miel, cher également mais qui est fabuleux, à consommer et à utiliser dans ces circonstances, le miel <a href="http://amzn.to/2tBKqib" target=_"blank" rel="nofollow"> Manuka </a>
 
 Il va sans dire que si chien souffre de blessures profondes, il faudra d'abord le montrer à un vétérinaire pour qu'il envisage un traitement adapté, voire qu'il fasse des points de suture en cas de plaie profonde.
 
