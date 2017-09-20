@@ -1,7 +1,7 @@
 ---
 title: "NosPtitsLoups"
 thumbnail: /images/pages/partenaires/Screenshot - 14_06_2017 , 16_30_31.jpg
-www: http:// chonchons.wixsite.com/nosptitsloups
+www: http://chonchons.wixsite.com/nosptitsloups
 ---
 
 Sur les pages vous verrez des images de huskies et de shiba inu.

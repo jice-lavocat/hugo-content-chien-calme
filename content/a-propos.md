@@ -7,7 +7,7 @@ title : "A propos"
 ---
 
 
-<b>Pourquoi Chien-Calme ?</b>
+<h2>Pourquoi Chien-Calme ?</h2>
 
 J'ai toujours été passionnée par les chiens. Mais, comme tous les humains, heureux possesseurs de ces adorables compagnons, je me suis retrouvée de temps en temps dans des situations difficiles. Mon chien était fugueur, il ne mangeait pas sa nourriture, il détestait ses congénères, il supportait mal les humains. Seul à la maison, il saccageait l’appartement, faisait des galeries dans le jardin, hurlait des heures durant quand je m'absentais...
 Je précise bien sûr qu'il ne s'agit pas du même et unique chien.
@@ -20,3 +20,9 @@ Je choisis souvent des publications américaines. La santé animale est vraiment
 J'espère que vous trouverez dans les actu en ligne de bons conseils pour vivre en harmonie avec votre petit poilu heureux et en bonne santé.
 
  <p align="center"><img src= "/images/actualites/dob.jpg"></p>
+
+<h2>Publicités</h2>
+
+Afin de subvenir aux dépenses du site, j'affiche sur certaines pages des "liens d'affiliation" ou des programmes de partenariat. Si vous passez par ces liens (par exemple Amazon ou autre boutique en ligne) pour faire un achat, une petite commission me sera rétribuée.
+
+Je n'affiche que des produits ou des services que j'aurais proposés même sans comission. Je ne mets pas en avant certains produits plus que d'autres. Cependant, ce système me permet de faire vivre le site.

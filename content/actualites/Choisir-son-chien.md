@@ -53,7 +53,7 @@ Pensez en effet que certains chiens, dont le dob, ( j'en ai un, un amour mais fo
 
  <li> <b> Pensez aussi qu'il existe des chiens plus fragiles que d'autres </b> elles donc vont exiger plus de frais de votre part. Ce détail peut vous ruiner rapidement si votre budget <b>santé animale</b> n'est pas vraiment large : vérifiez l'<b> état de santé de votre toutou</b> quand vous vous le procurez.
  Alimentez votre chien correctement et ne changez pas sa nourriture brutalement. Attention aussi aux <b>retournements d'estomac</b> et aux tares héréditaires. Gardez en tête que les chiens de race pure sont plus fragiles que les autres.
- <b> Assurez votre chien</b> : les <a href="http://comparateur-assurances-animaux.fr/se.php" target="_blank"> assurances de santé animale </a> sont de plus en plus nombreuses et offrent des tarifs interessants. </li>
+ <b> Assurez votre chien</b> : les <a href="/assurance" target="_blank"> assurances de santé animale </a> sont de plus en plus nombreuses et offrent des tarifs interessants. </li>
 
  <li> <b> Vous aimez qu'on vous regarde et qu'on regarde votre bébé poilu</b> ? Le berger n'est pas pour vous alors ! Optez pour un Le <b> Thaï Ridgeback Le Dogue du Tibet Azawakh ou un chien sans poil, le Chien Nu du Pérou, voire un joli Akita Inu</b>.
 Il va sans dire que pour ces races l'argent ne joue plus aucun rôle, puisque le chien du Pharaon se vent à 4500 euros. Le joli mastiff du Tibet (photo ci-dessous) vendu à  <b>1 million de dollars</b> l'année derniére peuple désormais les refuges ou sert même à fourrer les gants. De quoi réflechir aussi sur les effets de mode et leurs conséquences négatives pour nos animaux.....</li>
