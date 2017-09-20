@@ -60,7 +60,7 @@ Le plus dur pour vous sera d'ignorer les aboiements de votre animal ! Mais c'est
 
 La queue est une indication précise de ce que votre chien ressent. Les oreilles également. Si le chien grogne cela ne signifie pas forcément quelque chose de négatif mais il signifie juste son malaise. Les dents sorties ne présagent rien de bon !
 
-Decryptez les <a href="http://www.chien-calme.com/actualites/langage_corporel_canin_fatigue/"target=_"blank" > signaux indispensables </a> pour votre relation avec votre chien !
+Decryptez les <a href="http://www.chien-calme.com/actualites/langage_corporel_canin_fatigue/" target=_"blank" > signaux indispensables </a> pour votre relation avec votre chien !
 
 <p align="center"><img src="/images/actualites/signaux-2.jpg" class="img-responsive"></p>
 
@@ -101,7 +101,7 @@ Vous ne restez pas toujours chez vous, bien sûr. Donc quand vous partez en vaca
 
 Certes vous pouvez le <b>laisser en pension ( choisissez la bien et visitez la avant pour vous assurer qu'elle est vraiment sérieuse ). Mais il est toujours préférable dans la mesure du possible de prendre votre animal avec vous si possible.</b>
 
-Pensez donc à  emporter ses papiers si vous partez à l'étranger et renseignez vous sur les modalités de voyage selon les pays. Réservez des hôtels ou <a href="jamaissansmaurice.com/" target =_"blank" > hebergements </a> qui acceptent les chiens.
+Pensez donc à  emporter ses papiers si vous partez à l'étranger et renseignez vous sur les modalités de voyage selon les pays. Réservez des hôtels ou <a href="https://jamaissansmaurice.com/" target =_"blank" > hebergements </a> qui acceptent les chiens.
 
 Faites sortir votre animal sur les longs trajets qu'il se dégourdisse les pattes et faites attention aussi aux aires d'autoroutes...<b> Tenez le chien en laisse. Donnez lui à boire régulièrement en été. Ne le laissez pas seul en voiture avec la chaleur !</b>
 

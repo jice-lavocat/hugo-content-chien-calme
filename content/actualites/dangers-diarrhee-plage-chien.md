@@ -12,7 +12,7 @@ Description: " L'été est là et nombreux sont les chiens qui partent avec leur
 
 L'été est là et nombreux sont les chiens qui partent avec leurs humains à la plage. Beaucoup vont aller nager...Ils vont jouer avec leur balle pleine d'eau salée, ils vont avaler un peu d'eau de mer aussi, voire même en boire directement....
 
-Le résultat ne se fera pas attendre, sauf si le chien est particulièrement résistant : une belle <a href="http://www.chien-calme.com/faq/que_faire/quand_chien-a-diarrhee/"target="_blank" > diarrhée </a> Elle pourra aussi être accompagnée de vomissements...De plus, l'ingestion d'eau salée cause une très forte déshydratation...qui peut être très dangereuse pour nos poilus surtout s'ils sont très jeunes ou très vieux.
+Le résultat ne se fera pas attendre, sauf si le chien est particulièrement résistant : une belle <a href="http://www.chien-calme.com/faq/que_faire/quand_chien-a-diarrhee/" target="_blank" > diarrhée </a> Elle pourra aussi être accompagnée de vomissements...De plus, l'ingestion d'eau salée cause une très forte déshydratation...qui peut être très dangereuse pour nos poilus surtout s'ils sont très jeunes ou très vieux.
 
 Oui votre compagnon adore se défouler sur le sable et courir comme un fou sur la plage, mais soyez vigilant aux dangers qui le guettent. ( Certains nous concernent d'ailleurs aussi )
 
@@ -22,7 +22,7 @@ Oui votre compagnon adore se défouler sur le sable et courir comme un fou sur l
 
 
 ## Ingestion d'eau de mer  ##
-<ul><li> L'eau de mer peut contenir des <b>bactéries très toxiques</b> pour votre chien. Vous remarquerez rapidement que votre animal bave, vomit ou a des selles noires ( selon la bactérie absorbée, il développera différentes pathologies ). Il faut alors rapidement amener votre chien chez le vétérinaire qui lui administrera un <a href="http://www.chien-calme.com/actualites/assurer-chien/target="_blank" > traitement </a>adapté.
+<ul><li> L'eau de mer peut contenir des <b>bactéries très toxiques</b> pour votre chien. Vous remarquerez rapidement que votre animal bave, vomit ou a des selles noires ( selon la bactérie absorbée, il développera différentes pathologies ). Il faut alors rapidement amener votre chien chez le vétérinaire qui lui administrera un <a href="http://www.chien-calme.com/actualites/assurer-chien/" target="_blank" > traitement </a>adapté.
 
 Si vous pouvez d'ailleurs prélever un peu d'eau, il sera plus facile de l’analyser pour déterminer la bactérie en cause et donner un traitement ciblé. </li>
 <li> Le <b>taux de sodium augmente dans le sang de votre compagnon considérablement</b> quand il mâchouille sa balle trempée d'eau de mer, son bâton ou qu'il avale un peu d'eau. Le résultat ? Votre chien <b>urine beaucoup pour éliminer ce surplus ! Faisant beaucoup pipi il va se déshydrater. </b> </li>

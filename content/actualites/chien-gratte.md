@@ -50,7 +50,7 @@ Mais là encore, ce geste a un sens. Le chien en effet <b>couvre sa propre odeur
 
 ## Le chien gratte pour chercher quelque chose ##
 
-Après avoir pisté, le chien va se mettre à gratter, en quête d'un animal caché sous terre, rongeur par exemple ou de quelque chose à manger. Il ne faut pas oublier quel  <a href="http://www.chien-calme.com/actualites/actualites/meilleurodorat-chien// "target=_"blank"> odorat </a> remarquable il a !
+Après avoir pisté, le chien va se mettre à gratter, en quête d'un animal caché sous terre, rongeur par exemple ou de quelque chose à manger. Il ne faut pas oublier quel  <a href="http://www.chien-calme.com/actualites/actualites/meilleurodorat-chien/" target=_"blank">odorat</a> remarquable il a !
 
 
 <p align="center"><img src="/images/actualites/flairterre.jpg" class="img-responsive"></p>

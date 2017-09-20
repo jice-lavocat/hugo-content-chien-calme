@@ -34,9 +34,9 @@ Les chiens sont des animaux avides de découvrir des lieux inconnus. Mais **atte
 <li>
 Evitez les marches en **pleine chaleur** et par journée humide : votre chien est sensible au **stress thermique**, car il ne transpire pas et ne peut donc se réguler. Sa température est susceptible d’atteindre assez vite les **40,5 /41 degrés** : processus vital fortement engagé ( température normale autour de 38 ) </li>
 
-<li> Vous pouvez aussi mettre un bandana ou un <a href=http://amzn.to/2vPcAux" target="_blank" > harnais rafraichissant </a> à votre animal. Il peut rester froid jusqu'à 3 heures selon les modéles. Il suffit ensuite de le remettre ( comme la couverture rafraichissante ) dans l'eau pour le refroidir. On les utilise par exemple avec succés dans les epreuves de recherche utilitaire en été. Il est vrai par contre qu'elles ne durent ua pire qu'un peu plus de une heure. Le marché des produits rafraichissants pour chiens se developpe pas mal ! </li>
+<li> Vous pouvez aussi mettre un bandana ou un <a href="http://amzn.to/2vPcAux" target="_blank" > harnais rafraichissant </a> à votre animal. Il peut rester froid jusqu'à 3 heures selon les modéles. Il suffit ensuite de le remettre ( comme la couverture rafraichissante ) dans l'eau pour le refroidir. On les utilise par exemple avec succés dans les epreuves de recherche utilitaire en été. Il est vrai par contre qu'elles ne durent ua pire qu'un peu plus de une heure. Le marché des produits rafraichissants pour chiens se developpe pas mal ! </li>
 
-<p align="center"><img src= "/images/actualites/harnais rafraichissant_.jpg"class="img-responsive">></p>
+<p align="center"><img src= "/images/actualites/harnais rafraichissant_.jpg" class="img-responsive"></p>
 
 <li> En cas de coup de chaud (il ne faut pas attendre que votre <b> chien ait les babines bleues ! </b>)mettez le au frais dans une rivière ou point d'eau. Arrosez le ! Attention cependant, évitez le choc thermique. Refroidissez progressivement. Ne plongez pas votre chien brutalement dans un ruisseau froid  par exemple. Mouillez le ventre, les pattes, doucement...Les signaux de danger à prendre en compte tout de suite sont les suivants : votre animal <b>haléte fortement et se déplace avec difficulité !</b></li>
 
@@ -45,9 +45,9 @@ Evitez les marches en **pleine chaleur** et par journée humide : votre chien e
 
 <li>**Sans aller jusqu'au coup de chaud, sachez évaluer la fatigue de votre chien** : une halte s'impose quand votre compagnon halète trop ou se met en quête d'ombre.</li>
 
-<li> Evitez les zones **infestées de chenilles processionnaires** au printemps: ces dernières génèrent des lesions parfois irreversibles : une visite urgentissime chez le vétérinaire s'impose ! Pensez à toujours avoir avec vous un <a href=http://www.chien-calme.com/actualites/homeochien-indispensables-sante/"target="_blank" > kit d'homeopathie </a> avec du bombix processionare ou apis  en attendant d'aller chez le vétérinaire. </li>
+<li> Evitez les zones **infestées de chenilles processionnaires** au printemps: ces dernières génèrent des lesions parfois irreversibles : une visite urgentissime chez le vétérinaire s'impose ! Pensez à toujours avoir avec vous un <a href="http://www.chien-calme.com/actualites/homeochien-indispensables-sante/" target="_blank" > kit d'homeopathie </a> avec du bombix processionare ou apis  en attendant d'aller chez le vétérinaire. </li>
 
-<p align="center"><img src= "/images/actualites/processionnaire.jpg"></p>
+<p align="center"><img src="/images/actualites/processionnaire.jpg"></p>
 
 <li> Faites le **boire beaucoup**, et  prévoyez beaucoup d'eau pour éviter celle des ruisseaux par exemple, souvent polluée et susceptible de provoquer des troubles intestinaux, voire la  <a href="http://fr.wikipedia.org/wiki/Leptospirose" target=_"blank"> leptospirose.</a>  Sinon, le choix d'une rando prés de rivières est idéale pour vous deux d'ailleurs en été. </li>
 
@@ -55,7 +55,7 @@ Evitez les marches en **pleine chaleur** et par journée humide : votre chien e
 
 <li> En hiver pensez à lui faire porter eventuellement des chaussures pour éviter de se glacer les pattes sur la neige ! ( il faut vraiment l'entrainer avant car le chien deteste mettre des souliers !) Pour les chiens sans sous-poil ( boxer, dobermann..)un manteau peut être necessaire pour des températures très basses. </li>
 
-<li> Puisqu'on en est aux pattes, contrôlez les reguulièrement. Les <b>pattes sont fragiles </b> et votre chien peut se blessern se brûler...se planter quelque chose entre les coussinets....Personnellement je mets un produit sur les coussinets de mon chien pour les durcir. Il s'agit de <a href=http://amzn.to/2vFln1k" target="_blank"> solipat </a> C'est le plus efficace que j'ai testé.
+<li> Puisqu'on en est aux pattes, contrôlez les reguulièrement. Les <b>pattes sont fragiles </b> et votre chien peut se blessern se brûler...se planter quelque chose entre les coussinets... Personnellement je mets un produit sur les coussinets de mon chien pour les durcir. Il s'agit de <a href="http://amzn.to/2vFln1k" target="_blank"> solipat </a> C'est le plus efficace que j'ai testé.
 
 
 
@@ -63,7 +63,7 @@ Evitez les marches en **pleine chaleur** et par journée humide : votre chien e
 
  <li> Pensez à ne **pas charger le sac porté par votre ami à 4 pattes à plus de 25% de son poids total** : 10 kgs pour 40 par exemple. (Il peut arriver en effet que des maîtres responsabilisent leur chien en lui donnant son propre sac de nourriture et eau à transporter )</li>
 
- <p align="center"><img src= "/images/actualites/sacados.jpg"></p>
+ <p align="center"><img src="/images/actualites/sacados.jpg"></p>
 
  <li> **Explorez bien sa fourrure en rentrant** : retirer tiques, responsables de la <a href=" http://www.crel.fr/infosante/piroplasmose_canine_babesiose_infosante2.php" target="_blank">  piroplasmose </a>, vérifier l'**absence de lésions ou de blessures**...Soyez surtout vigilent sur les **epillets**, ces espéces d'herbes dures qui s'encastrent dans les oreilles ou sous la peau de votre chien , provoquant de **graves lésions**. Il faut les retirer au plus vite et, si cela s'avère impossible, il est urgent de se rendre chez le vétérinaire.   </a> </li>
 

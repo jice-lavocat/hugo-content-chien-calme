@@ -12,7 +12,7 @@ Description: "Ce n'est pas un scoop : certaines races de chiens ( au delà des i
 
 Ce n'est pas un scoop : certaines races de chiens ( au delà des individus qui ont leur propre personnalité ) ont plus d’énergie que d'autres. C'est un point à prendre en compte quand vous prenez un animal.
 
-C'est d'ailleurs ce qui explique peut-être l'abandon de certains chiens. Les propriétaires ont choisi un chien qui ne leur convient pas du tout et surtout pas à leur <a href= http://www.chien-calme.com/actualites/choisir-son-chien/"target=_"blank" > style de vie </a>   ! Le jack n'est pas un chien pour humain plan plan ou âgé par exemple ! Il a besoin de beaucoup d'exercice pour s'épanouir.
+C'est d'ailleurs ce qui explique peut-être l'abandon de certains chiens. Les propriétaires ont choisi un chien qui ne leur convient pas du tout et surtout pas à leur <a href="http://www.chien-calme.com/actualites/choisir-son-chien/" target=_"blank" > style de vie </a>   ! Le jack n'est pas un chien pour humain plan plan ou âgé par exemple ! Il a besoin de beaucoup d'exercice pour s'épanouir.
 
 Certaines races donc devront courir et avoir beaucoup d'activités physiques et mentales avant d’être fatiguées.
 Voici comment vous pouvez entraîner un chien très actif de manière efficace.
@@ -43,13 +43,13 @@ C'est un endroit intéressant pour votre animal. Il favorise sa socialisation.
 
 <b> Attention cependant à rester attentif pour éviter tout incident avec les autres occupants ! N'imposez pas votre chien dans un groupe déjà constitué. Laissez le dans un groupe qu'il connaît déjà.</b> Ainsi il pourra se défouler avec ses congénères beaucoup plus rapides et joueurs que vous même.
 
-<p align="center"><img src="/images/actualites/parcachein.jpg"class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/parcachein.jpg" class="img-responsive"></p>
 
 ## Frisbee ou balle ##
 C'est aussi une option efficace pour fatiguer votre bestiole quand il n'y a pas d'autres chiens. Non seulement il va <b>courir mais vous pouvez aussi le faire travailler. </b> Il peut attendre votre commande pour aller chercher sa balle par exemple, vous la ramener.
 
 ## Jeux canins ##
-Inscrivez votre chien à des sessions d'agility ou de <a href="flyball http://www.chien-calme.com/actualites/flyball/" target =_"blank" > flyball </a>  ( malheureusement il y a peu de clubs en France ), de canicross, bikejoring...Vous partagerez ainsi des moments merveilleux avec votre compagnon.
+Inscrivez votre chien à des sessions d'agility ou de <a href="http://www.chien-calme.com/actualites/flyball/" target =_"blank">flyball</a>  ( malheureusement il y a peu de clubs en France ), de canicross, bikejoring...Vous partagerez ainsi des moments merveilleux avec votre compagnon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pF2qfwDb1sI" frameborder="0" allowfullscreen></iframe>
 
