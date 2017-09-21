@@ -60,7 +60,7 @@ Il va sans dire que pour ces races l'argent ne joue plus aucun rôle, puisque le
 
  <p align="center"><img src= "/images/actualites/mastiff.jpg"></p>
 
- <li>Enfin pensez à son <b>confort quand vous allez partir en vacances</b> : <b>pension ou voiture/ avion/ bateau avec vous</b> ? Plus le chien est petit plus ce sera facile...Et moins ce sera cher en ce qui concerne le transport.Renseignez vous si vous prenez l'avion sur les compagnies et leur sérieux ( A noter: <a href="http://www.ecoledeschiens.com/blog/24-les-chiens-ne-voyageront-plus-en-soute-dans-les-avions.html"target="_blank"> Delta </a> propose de faire désormais voyager les chiens en cabine  </li>
+ <li>Enfin pensez à son <b>confort quand vous allez partir en vacances</b> : <b>pension ou voiture/ avion/ bateau avec vous</b> ? Plus le chien est petit plus ce sera facile...Et moins ce sera cher en ce qui concerne le transport.Renseignez vous si vous prenez l'avion sur les compagnies et leur sérieux ( A noter: <a href="http://www.ecoledeschiens.com/blog/24-les-chiens-ne-voyageront-plus-en-soute-dans-les-avions.html" target="_blank"> Delta </a> propose de faire désormais voyager les chiens en cabine  </li>
  Au final, si vous savez bien vous occuper de votre compagnon, si toute la famille s'en occupe aussi, la question d'espace vital, de mode de vie n'est pas primordiale. Gardez quand même en tête que vous êtes le chef de meute quand vous allez éduquer votre toutou et que <b>vous êtes responsable de ce qu'il va devenir</b>....
 
 

@@ -37,7 +37,7 @@ Il semble par contre <b>absolument indispensable de bien prendre les mesures si 
 Cet <b>oreiller gonflable pour le cou</b> ressemble à celui que vous pourriez utiliser pour faire une sieste en avion. Le ProCollar est très confortable pour le chien. Il lui permet de boire, de manger, de jouer... Le matériau ne provoque pas d'éruption cutanée ou d'irritation dans le cou.
 Le produit est disponible en 6 tailles.
 
-Le <a href=https://www.easypets.fr/produits-arretes/2238-procollar-collerette-gonflable.html" target="_blank" > Procollar </a> ne fournit pas <b>autant de protection que le cône en plastique.</b>
+Le <a href="https://www.easypets.fr/produits-arretes/2238-procollar-collerette-gonflable.html" target="_blank" > Procollar </a> ne fournit pas <b>autant de protection que le cône en plastique.</b>
 
 Cet appareil est idéal pour les animaux présentant des <b>lésions du haut du corps</b>. Le ProCollar est moins susceptible de protéger des zones comme les pattes ou les queues.
 
