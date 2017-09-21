@@ -31,7 +31,7 @@ Vous savez enfin que si votre chien n'est pas confirmable vous pouvez le rendre 
 
 <li>Il est indispensable si vous voulez <b> faire reproduire votre animal.</b>
 
-N'oubliez pas que depuis peu, il est interdit de vendre un chiot sans s'être enregistré en tant qu’éleveur. Le but est de limiter les ventes sauvages d'animaux pour augmenter ses revenus. Les contrevenants sont susceptibles de <a href="http://www.30millionsdamis.fr/actualites/article/9895-la-nouvelle-reglementation-sur-la-vente-de-chiots-et-chatons-en-10-questions/target="_blank" > sanctions pénales </a>
+N'oubliez pas que depuis peu, il est interdit de vendre un chiot sans s'être enregistré en tant qu’éleveur. Le but est de limiter les ventes sauvages d'animaux pour augmenter ses revenus. Les contrevenants sont susceptibles de <a href="http://www.30millionsdamis.fr/actualites/article/9895-la-nouvelle-reglementation-sur-la-vente-de-chiots-et-chatons-en-10-questions/" target="_blank" > sanctions pénales </a>
 
 Par contre si vous <b>donnez votre animal, aucun problème.</b> Cela étant, de plus en plus de gens prétendent donner leur animal ( sur des pages comme le boncoin par exemple ) et en fait demandent une contrepartie financière. Le trafic d'animaux n'est pas mort loin de là!!! </li> </ul>
 

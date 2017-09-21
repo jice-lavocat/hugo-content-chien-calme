@@ -11,7 +11,7 @@ description: "La nourriture pour animaux connaît un succés phénoménal. Elle 
 ---
 
 
-La nourriture pour animaux connaît un succés phénoménal. Elle repose sur les mêmes bases marketing que la nôtre. Donc le mensonge fait partie du processus de vente.<a href="http://www.thedailyreporter.com/news/20160724/truth-about-dog-and-cat-food-part-ii/?Start=3" target=_"blank" > Attention </a> ces quelques remarques peuvent vous aider à y voir plus clair et à mieux choisir ce qui convient à votre poilu.
+La nourriture pour animaux connaît un succés phénoménal. Elle repose sur les mêmes bases marketing que la nôtre. Donc le mensonge fait partie du processus de vente.<a href="http://truthaboutpetfood.com/" target=_"blank" > Attention </a> ces quelques remarques peuvent vous aider à y voir plus clair et à mieux choisir ce qui convient à votre poilu.
 
 
 

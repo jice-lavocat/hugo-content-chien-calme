@@ -54,4 +54,4 @@ Ne vous lancez donc pas dans cette pratique si votre compagnon souffre de probl�
 
 La vidéo explicative à suivre  !
 
-<p align="center"><div><object width="640" height="391" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer">  <param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=177913"></param>  <param name="allowFullScreen" value="true"></param>  <param name="allowScriptAccess" value="always">  </param><param name="flashVars" value=""></param>  <embed src="http://www.howcast.com/flash/howcast_player.swf?file=177913"  type="application/x-shockwave-flash" width="640" height="391" allowFullScreen="true" allowScriptAccess="always" flashVars=""></embed>  </object></div></p>
+<p align="center"><div><iframe width="560" height="315" src="https://www.youtube.com/embed/RjFf2zNWcEc" frameborder="0" allowfullscreen></iframe></div></p>

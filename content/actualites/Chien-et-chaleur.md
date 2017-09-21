@@ -39,18 +39,19 @@ Rafraîchissez pattes et ventre, le dessous est plus important que la tête.
 Les animaux ont un instinct sûr pour cela : mettez votre chien devant la porte pour qu’il puisse sentir la température. Il va adapter lui-même sa sortie au thermomètre.
 
 ## Faites le nager, il sera au frais ! ##
-Mais attention cependant de respecter certaines <a href="http://kimberleyjohnson.fr/ete-baignade-du-chien"target="_blank">précautions</a>
+Mais attention cependant de respecter certaines <a href="http://www.vetopedia.fr/ete-saison-baignades/" target="_blank">précautions</a>
 
 <p align="center"><img src="/images/actualites/danger.jpg"></p>
 
 ## Surveillez tous les signes de déshydratation ##
 votre chien ne transpire pas lui ! Il halète pour se refroidir. Si il commence à <b>baver, à avoir les yeux injectés de sang</b>, il y a danger ! Sa peau elle aussi, si vous tirez dessus, va mettre plus de temps à se replacer.
-La température dans ce cas peut rapidement dépasser les <b>40,5 degrés</b> et surtout si vous le <b>laissez en voiture</b>. Le taux de mortalité est extrêmement élevé dans ce cas. Cela provoque un <a href ="http://conseils-veto.com/oedeme-chien-oedeme-chat/"target=_blank">oedéme cérébral</a>. <b>La mort intervient en 30 mn environ</b>
+La température dans ce cas peut rapidement dépasser les <b>40,5 degrés</b> et surtout si vous le <b>laissez en voiture</b>. Le taux de mortalité est extrêmement élevé dans ce cas. Cela provoque un <a href ="http://conseils-veto.com/oedeme-chien-oedeme-chat/" target="_blank">oedéme cérébral</a>. <b>La mort intervient en 30 mn environ</b>
 
 <b>Certaines races sont plus exposées encore à ce danger. </b>
 <ul><li>Les chiens comme le bouledogues ou tous ceux qui ont le museau écrasé. </li>
 <li>Les chiens au pelages sombres</li>
 <li>les chiens en surpoids</b>
+
 ### En cas de problème ###
 <ul><li><b>Contactez d'urgence un vétérinaire</b>, en lui exposant le probléme : il donnera le traitement nécessaire à la survie de votre chien, la protection de ses fonctions rénales ou cardiaques. Il continuera à faire baisser sa température,ce que vous avez déjà commencé.</li>
 <li><b>Mettez votre chien au frais mais ne le trempez brutalement</b> dans de l'eau froide ! Un <b>linge humide</b> sur le corps peut aider. </li>
