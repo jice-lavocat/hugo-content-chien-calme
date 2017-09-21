@@ -15,7 +15,7 @@ Le Flyball est un <b>sport d'équipe pour les chiens</b> qui a été inventé en
 
 
 
-<p align="center"><img src="/images/actualites/flycock.jpg"class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/flycock.jpg" class="img-responsive"></p>
 
 
 
