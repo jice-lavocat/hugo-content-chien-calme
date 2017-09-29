@@ -11,7 +11,7 @@ Description: "L'été est un moment où les fruits sont abondants. Pensez à ajo
 
 L'été est un moment où les fruits sont abondants. Pensez à ajouter des fruits dans la nourriture de votre loulou, en enlevant toujours pépins et noyaux. C'est vrai que le régime alimentaire de nos loulous se compose essentiellement de protéines. Mais les fruits ont aussi une place de choix  pour leur assurer une meilleure santé .
 
-Attention cependant ! <b>Tout ce qui est bon pour l'homme ne l'est pas pour nos chiens</b>. Les raisins par exemple sont vraiment toxiques. D'autres fruits seront trop riches, provoquant diarrhées et vomissements. Voici une liste de <a href="http://www.examiner.com/article/add-healthy-safe-fruits-to-a-dog-s-diet" target=_"blank"> fruits </a> à donner à nos chiens.
+Attention cependant ! <b>Tout ce qui est bon pour l'homme ne l'est pas pour nos chiens</b>. Les {{< link target="raisin" title="raisins" >}} par exemple sont vraiment toxiques. D'autres fruits seront trop riches, provoquant diarrhées et vomissements. Voici une liste de <a href="http://www.examiner.com/article/add-healthy-safe-fruits-to-a-dog-s-diet" target=_"blank"> fruits </a> à donner à nos chiens.
 
 
 
@@ -35,7 +35,8 @@ Elles sont riches en potassium et en vitamine C, entre autres, et peuvent agrém
 
 
 ## La banane ##
-Elle est riche en fibres, en glucides et en potassium. On peut écraser un peu de banane dans la nourriture du chien, ou la couper en tranches comme une friandise.
+Elle est riche en fibres, en glucides et en potassium. On peut écraser un peu de
+{{< link target="banane" >}} dans la nourriture du chien, ou la couper en tranches comme une friandise.
 
 La portion est d'environ <b>1/3 de banane de taille moyenne. Dépasser cette quantité peut provoquer de la diarrhée</b> et un trop fort supplément calorique. La plupart des chiens aiment le goût de ce fruit.
 

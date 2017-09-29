@@ -1,0 +1,23 @@
+{{/* On definit le titre de façon globale avec Scratch */}}
+{{ if .Get "title"}}
+    {{.Page.Scratch.Set "title" (.Get "title")}}
+{{else}}
+    {{.Page.Scratch.Set "title" (.Get "target")}}
+{{end}}
+
+
+{{/* Dans les "if" on detectera le mot cle utilise, et si il n existe pas, on ne renvoit pas de lien, juste le title */}}
+{{/* Ici on utilise $.Page (dollar) parce que le scope est plus profond (with) */}}
+
+
+
+{{ if (eq (.Get "target") "banane") }}
+    <a href="/aliments/fruits/banane/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "fraise") }}
+    <a href="/aliments/fruits/fraise/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "raisin") }}
+    <a href="/aliments/fruits/raisin/">{{$.Page.Scratch.Get "title" }}</a>
+
+{{ else }}
+    {{$.Page.Scratch.Get "title" }}
+{{ end }}
