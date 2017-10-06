@@ -17,7 +17,7 @@ C'est une société du Tarn, <a href= https://www.canhegat.com/"target="_blank >
 La video ci-dessous présente aussi des chats, ne soyons pas sectaires !
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TpM2UyWQYOI" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><<iframe width="560" height="315" src="https://www.youtube.com/embed/NWS1pLMFgX0" frameborder="0" allowfullscreen></iframe>></p>
 
 
 
@@ -47,7 +47,7 @@ En cas de problème de santé, d'accident, il aura ainsi un historique rigoureux
 
 Il pourra aussi conseiller un régime plus adapté à votre animal.
 
-### Un GPS intégré ###
+### Une localisation par bluetooth ###
 C'est la cerise sur le gâteau ! Votre bébé s'est enfui et vous êtes en stress, détendez-vous ! Il sera facilement géolocalisé par la communauté !
 
 
