@@ -11,7 +11,7 @@ Description: "L'été est un moment où les fruits sont abondants. Pensez à ajo
 
 L'été est un moment où les fruits sont abondants. Pensez à ajouter des fruits dans la nourriture de votre loulou, en enlevant toujours pépins et noyaux. C'est vrai que le régime alimentaire de nos loulous se compose essentiellement de protéines. Mais les fruits ont aussi une place de choix  pour leur assurer une meilleure santé .
 
-Attention cependant ! <b>Tout ce qui est bon pour l'homme ne l'est pas pour nos chiens</b>. Les {{< link target="raisin" title="raisins" >}} par exemple sont vraiment toxiques. D'autres fruits seront trop riches, provoquant diarrhées et vomissements. Voici une liste de <a href="http://www.examiner.com/article/add-healthy-safe-fruits-to-a-dog-s-diet" target=_"blank"> fruits </a> à donner à nos chiens.
+Attention cependant ! <b>Tout ce qui est bon pour l'homme ne l'est pas pour nos chiens</b>. Les {{< link target="raisin" title="raisins">}} par exemple sont vraiment toxiques. D'autres fruits seront trop riches, provoquant diarrhées et vomissements. Voici une liste de <a href="http://www.examiner.com/article/add-healthy-safe-fruits-to-a-dog-s-diet" target=_"blank"> fruits </a> à donner à nos chiens.
 
 
 

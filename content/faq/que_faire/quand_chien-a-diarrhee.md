@@ -25,7 +25,7 @@ Ensuite le problème peut venir d'une <b>indigestion ou de l'ingestion d'une nou
  <ul> <li> Dans tous les cas, il est préférable de laisser l'animal à la diète pendant quelques heures jusqu'à un jour. </li>
 <li> Lui fournir de l'eau pour éviter le déshydratation liée à la diarrhée </li>
  <li>Réalimentez doucement avec de la nourriture facile à digérer, poulet sans peau... </li>
-<li> Aucun produit laitier, les chiens ne les digèrent pas bien du tout</li>
+<li> Aucun {{< link target="lait" title="produit laitier">}}, les chiens ne les digèrent pas bien du tout</li>
 <li> Donnez lui de petits repas</li>
 <li>Donnez lui des <a href="https://www.amazon.fr/s/?ie=UTF8&keywords=probiotique+chien&tag=googhydr0a8-21&index=aps&hvadid=85491826208&hvpos=1t1&hvexid=&hvnetw=g&hvrand=12737299415149796145&hvpone=&hvptwo=&hvqmt=e&hvdev=c&ref=pd_sl_9128ujyvry_e" target=_"blank" >probiotiques </a></li>
 <li>Ne lui donnez pas de médicaments humains sans demander à votre vétérinaire. Tous les médicamentas pour hommes ne sont pas adaptés aux chiens !</li></ul>

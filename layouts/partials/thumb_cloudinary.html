@@ -16,7 +16,7 @@
 {{/*     {{ end }}
 {{/*
 {{/* Finally, the function is called in the frontend via partials
-{{/* 'Chomp' is needed to remove the trailing newline (autoatically added by sublime)
+{{/* 'Chomp' is needed to remove the trailing newline (automatically added by sublime)
 {{/*
 {{/* --- Function begins after this ending comment  ---
 */}}{{$baseurlstr := printf "%s" .Site.BaseURL}}{{ if in ($baseurlstr) ("http://localhost:1313")}}{{.Params.thumbnail}}{{ else }}{{$thumb_url :=  (delimit (slice "http://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}{{$thumb_url}}{{ end }}

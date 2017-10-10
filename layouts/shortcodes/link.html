@@ -5,18 +5,22 @@
     {{.Page.Scratch.Set "title" (.Get "target")}}
 {{end}}
 
-
 {{/* Dans les "if" on detectera le mot cle utilise, et si il n existe pas, on ne renvoit pas de lien, juste le title */}}
 {{/* Ici on utilise $.Page (dollar) parce que le scope est plus profond (with) */}}
 
-
-
 {{ if (eq (.Get "target") "banane") }}
     <a href="/aliments/fruits/banane/">{{$.Page.Scratch.Get "title" }}</a>
-{{ else if (eq (.Get "target") "fraise") }}
-    <a href="/aliments/fruits/fraise/">{{$.Page.Scratch.Get "title" }}</a>
-{{ else if (eq (.Get "target") "raisin") }}
-    <a href="/aliments/fruits/raisin/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "beurre") }} <a href="/aliments/corps_gras/beurre/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "cafe-the") }} <a href="/aliments/boissons/cafe-the/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "coca") }} <a href="/aliments/boissons/coca-cola/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "eau") }} <a href="/aliments/boissons/eau/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "fraise") }} <a href="/aliments/fruits/fraise/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "huile-olive") }} <a href="/aliments/corps_gras/huile_olive/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "lait") }} <a href="/aliments/boissons/lait/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "mangue") }} <a href="/aliments/fruits/mangue/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "pomme") }} <a href="/aliments/fruits/pomme/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "kefir") }} <a href="/aliments/boissons/kefir/">{{$.Page.Scratch.Get "title" }}</a>
+{{ else if (eq (.Get "target") "raisin") }} <a href="/aliments/fruits/raisin/">{{$.Page.Scratch.Get "title" }}</a>
 
 {{ else }}
     {{$.Page.Scratch.Get "title" }}

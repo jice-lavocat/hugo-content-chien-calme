@@ -49,7 +49,7 @@ Evitez les marches en **pleine chaleur** et par journée humide : votre chien e
 
 <p align="center"><img src="/images/actualites/processionnaire.jpg"></p>
 
-<li> Faites le **boire beaucoup**, et  prévoyez beaucoup d'eau pour éviter celle des ruisseaux par exemple, souvent polluée et susceptible de provoquer des troubles intestinaux, voire la  <a href="http://fr.wikipedia.org/wiki/Leptospirose" target=_"blank"> leptospirose.</a>  Sinon, le choix d'une rando prés de rivières est idéale pour vous deux d'ailleurs en été. </li>
+<li> Faites le **boire beaucoup**, et  prévoyez beaucoup d'{{< link target="eau">}} pour éviter celle des ruisseaux par exemple, souvent polluée et susceptible de provoquer des troubles intestinaux, voire la  <a href="http://fr.wikipedia.org/wiki/Leptospirose" target=_"blank"> leptospirose.</a>  Sinon, le choix d'une rando prés de rivières est idéale pour vous deux d'ailleurs en été. </li>
 
 <li> Prévoyez une <b>tente suffisamment grande et solide</b> ( n'oubliez pas qu'il a des griffes hyper pointues ) pour accueillir votre poilu ! Il peut avoir envie de dormir avec vous </li>
 
