@@ -23,7 +23,7 @@ Il est préférable cependant que <b>l'animal soit habitué à l'exercice </b> d
 
 
 
-## Les conditions requises pour le saut en parachutet ##
+## Les conditions requises pour le saut en parachute ##
 
 <ul><li>Pour sauter en parachute, il est nécessaire que votre compagnon soit plutôt <b>posé </b> et pas peureux. Le vertige ne le concerne pas non plus bien sûr. Il doit être accoutumé aussi progressivement en augmentant la hauteur de saut. </li>
 <li>Il est d'autre part indispensable qu'il vous fasse une <b>absolue confiance</b> ! Il sera solidement attaché à vous et doit savoir que vous allez " assurer".
