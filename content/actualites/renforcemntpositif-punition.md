@@ -22,7 +22,7 @@ Un comportementaliste américain fait le point sur laUn comportementaliste amér
 Votre loulou s'est sagement assis sur votre ordre. Vous lui donnez une récompense pour le féliciter. <b>Vous ajoutez donc quelque chose de bien à l'environnement de votre chien, un élément positif.</b> Cela peut aussi être un cadeau, une caresse, un sourire.
 
 Le chien couine à la porte pour sortir. Son humain lui ouvre. C'est du renforcement positif.Votre compagnon va associer pleurs et porte à sortie pipi.
-Pensez à utiliser le renforcement positif de <b>façon discontinue</b< pour qu'il prenne sa valeur pour le chien.
+Pensez à utiliser le renforcement positif de <b>façon discontinue</b> pour qu'il prenne sa valeur pour le chien.
 
 
 
