@@ -16,7 +16,7 @@ Et oui, ils l'ont fait aux US : un programme de TV à l'**usage de nos petits c
 
 Il semblerait d'ailleurs que cela contribue grandement à diminuer le **stress ou l'anxiété de séparation** chez nos amis à quatre pattes. Il semble que les chiens adorent visionner leurs semblables et même suivent des yeux avec attention des objets proposés à l'écran. Et des études soulignent qu'un nombre grandissant de chiens sont fans du petit écran.
 
-<p align="center"><img src= "/images/actualites/Dogtv2.jpg"></p>
+<p align="center"><img src= "/images/actualites/Dogtv2.jpg" class="img-responsive"></p>
 
 
 
