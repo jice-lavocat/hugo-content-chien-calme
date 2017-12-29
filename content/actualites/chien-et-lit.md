@@ -5,7 +5,7 @@ author: "marie"
 tags: ['comportement ' ]
 date: 2015-02-25
 categories: ["massage"]
-thumbnail: "/images/actualites/lit.jpg"
+thumbnail: "/images/actualites/dodoavecchien.png"
 Description: " Faites-vous partie de ces heureux maîtres de chiens détendus qui préfèrent votre lit bien douillet à leur coussin ( bien douillet aussi mais moins quand même ) ? Quitte d'ailleurs éventuellement à éjecter dudit lit votre moins heureux partenaire...."
 ---
 
