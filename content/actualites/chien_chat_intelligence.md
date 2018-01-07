@@ -49,7 +49,9 @@ Celia Haddon, une comportementaliste de renom, a suggéré que les <b>chats pour
 
 Nous avons par exemple des chiens-guides, des chiens de détection médicale...Les chats n'ont pas ces comportements parce qu'ils chassent seuls et peuvent, et le font souvent, vivre seuls.
 
-Selon la secrétaire du Kennel Club, Caroline Kisko, «ces découvertes pourraient bien expliquer la <b>fantastique polyvalence des chiens. Les chiens se développent dans de nombreux rôles dans la société </b>-  police et assistance,  accompagnement et recherche et sauvetage. Ils semblent au final  avoir une capacité biologique à faire beaucoup plus que les chats.
+Selon la secrétaire du Kennel Club, Caroline Kisko, «ces découvertes pourraient bien expliquer la <b> fantastique polyvalence des chiens. Les chiens se développent dans de nombreux rôles dans la société </b>-  police et assistance,  accompagnement et recherche et sauvetage. Ils sont sujets au stress et peuvent être amenés à consulter aussi des <a href="https://www.comportementaliste-gironde.fr" target="_blank" > comportementalistes </a>.
+
+Ils semblent au final  avoir une capacité biologique à faire beaucoup plus que les chats.
 
 Malgré la pertinence de cette étude, nous les aimons tous nos petits compagnons, qu'il s'agisse de chien, de chat, de furet ou d'oiseau ! Qu'importe qu'ils soient plus ou moins intelligents, ils nous apportent tant !  Pensons d'ailleurs à bien les <a href="http://www.chien-calme.com/assurance/" target=_"blank" > protéger </a> !
 
