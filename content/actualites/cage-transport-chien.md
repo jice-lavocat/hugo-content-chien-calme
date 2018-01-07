@@ -49,7 +49,7 @@ Si votre <b>chien est de grande taille, vous préférerez opter pour la cage de 
 
 Pour voyager en voiture en toute sécurité, rien ne vaut l'achat d'une cage de transport pour chien. À placer sur votre banquette arrière ou dans votre coffre, cette cage va permettre :
 <ul> <li>De sécuriser votre chien durant un court voyage en voiture.</li>
-<li>D'éviter qu'un chien trop excité vous <a href="http://www.chien-calme.com/actualites/Chien-en-voiture-securite/"target=_"blank"> dérange </a>durant la conduite./li>
+<li>D'éviter qu'un chien trop excité vous <a href="http://www.chien-calme.com/actualites/Chien-en-voiture-securite/"target=_"blank"> dérange </a>durant la conduite.</li>
 <li>De protéger votre voiture des salissures du chien.</li> </ul>
 
 Il existe toutes sortes de cages de transport : en métal, en plastique, en aluminium, etc. Vous trouverez de nombreux <b>conseils sur les différentes cages</b> sur le <a href="http://www.mouss-le-chien.com/conseils/do/tag/cage-pour-chien/" target=_"blank">site de Mouss le Chien</a>
