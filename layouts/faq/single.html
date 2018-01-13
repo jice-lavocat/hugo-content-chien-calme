@@ -3,10 +3,11 @@
 {{ partial "header.html" . }}
 <body>
 	{{ partial "headingbar.html" . }}
-	
+	{{ partial "headroom.html" . }}
+
 	<!-- Menu -->
     {{ partial "menu.html" .}} <!--',  {current_page:@document.URL}) %>-->
-	
+
 	<section class="innercontent">
 		<!-- Content -->
 		<div class="container">
@@ -15,7 +16,7 @@
 			<!--<p>Acceuil &gt; FAQ &gt; {{ $categories }}  </p>-->
 
 	<p><script language="JavaScript">
-	<!--
+
 		String.prototype.capitalizeFirstLetter = function() {
 			return this.charAt(0).toUpperCase() + this.slice(1);
 		}
@@ -36,7 +37,7 @@
 		path+="<a href=\""+href.substring(0,href.indexOf(s[i])+s[i].length)+"\">"+s[i]+"</a>";
 		path+= sep + " {{.Title}}";
 		document.writeln(path);
-	//-->
+
 	</script></p>
 
 
