@@ -4,7 +4,7 @@ title: "Faites du canivtt avec votre chien !!!  "
 author: "baptiste_musher"
 tags: ['santé' ]
 date: 2016-12-29
-categories: ["sport"]
+categories: ["sport","activité_campagne " ]
 thumbnail: "/images/actualites/bikejoring-.jpg"
 Description: " Découvrez ce sport insolite en pleine expansion que vous pouvez vous aussi pratiquer avec votre chien!   "
 ---
