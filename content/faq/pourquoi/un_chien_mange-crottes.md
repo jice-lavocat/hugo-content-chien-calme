@@ -16,7 +16,7 @@ Cela étant <b>manger du caca est normal pour un chiot jusqu'à environ 4 mois</
 Après cet âge, voici les raisons explquant la coprophagie. <b>Il faut quand même savoir que même si l'humain est degoûté par ça, cela reste assez normal pour un chien ! </b>
 
 
-< h2> Raisons négatives </h2>
+<h2> Raisons négatives </h2>
 
 <ul> <li> <b>Le chien mange ses propres excréments : sa nourriture ne lui convient pas</b>. Il a des problémes de digestion. Voyez avec le vétérinaire et changez lui ses aliments </li>
 <li> Il est anxieux, en stress, veut attirer l'attention sur lui. Il s'ennuie. Il vit dans un endroit insalubre </li>
