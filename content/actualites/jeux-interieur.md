@@ -5,7 +5,7 @@ title: " 3 Jeux d'intérieur avec votre chien "
 author: "marie"
 tags: ['santé' ]
 date: 2017-01-23
-categories: ["santé"]
+categories: ["santé", "activite_appartement"]
 thumbnail: "/images/actualites/jouet-interieur-chien.jpg"
 Description: " C'est l'hiver et comme on l'a dit et répété, par un froid glacial, il est dangereux de sortir votre compagnon trop longtemps. Cela étant, sans exercice, votre petit poilu à 4 pattes risque de s'ennuyer et donc de faire des bêtises. Il doit jouer.  "
 ---
