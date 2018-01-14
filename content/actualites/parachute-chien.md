@@ -2,9 +2,9 @@
 title: "Tandem chien-humain en parachute : qu'est ce que ça donne ?   "
 
 author: "marie"
-tags: ['comportement' ]
+tags: ['sport','parachute' ]
 date: 2017-10-15
-categories: ["sport"]
+categories: ["activite_campagne"]
 thumbnail: "/images/actualites/parachute-chien.jpg"
 Description: "
 Les chiens de recherche, les chiens sauveteurs, les chiens parachutistes, les chiens militaires souvent donc, sont des athlètes super entraînés.  "
