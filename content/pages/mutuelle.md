@@ -1,4 +1,5 @@
 ---
+
 title: "Protéger son chien - Mutuelle santé pour animal de compagnie"
 Description : "Comment protéger son chien et choisir sa mutuelle."
 url : "assurance"
@@ -11,6 +12,8 @@ Voyez plutôt les prix des dépenses plus ou moins courantes que nous effectuons
  <li>Bilan sanguin, 50 euros </li></ul>
 Le prix moyen d'une assurance varie de moins de 10 euros à 30 euros par mois, selon la race, l'âge du chien. Il dépend aussi de la formule choisie.
 
+
+<p align="center"><img src="/images/Pub%20Facebook/Assurance/sick-dog.jpg" class="img-responsive"></p>
 
 ## Comment être remboursé des frais vétérinaires ?
 
@@ -29,6 +32,8 @@ Toutes les races de chiens peuvent souscrire à une assurance, qu’il s’agiss
 Attention cependant pour <b>les chiens dits « dangereux</b> ».Certaines assurances peuvent proposer des prix majorés dans ce cas. Les <b>chiens professionnels</b> de chasse par exemple peuvent aussi être exclus de garanties.
 
 La <b>race et les maladies afférentes</b> vont jouer un rôle également dans les tarifs.
+
+<p align="center"><img src="/images/Pub%20Facebook/Assurance/vet_sleep_300.jpg" class="img-responsive"></p>
 
 ## Quand assurer son chien ?
 De façon générale, les assurances ou mutuelles pour chiens peuvent être souscrites quand l'animal a entre 3 mois et 10 ans. Cependant, certaines entreprises limitent l'âge maximal des nouveaux contrats : si votre chien a plus de 7 ans par exemple, certaines assurances ne vous proposeront pas d'offres.
