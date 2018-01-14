@@ -4,7 +4,7 @@ title: "La randonnée c'est bien, mais en évaluer les dangers, c'est mieux."
 author: "marie"
 tags: ['sport outdoor' ]
 date: 2015-01-20
-categories: [activite_campagne]
+categories: ['activite_campagne']
 thumbnail: "/images/actualites/rando-chien.jpg"
 Description: "la randonnée avec son chien : une complicité mais aussi des dangers à connaitre "
 
