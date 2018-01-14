@@ -2,7 +2,7 @@
 title: " Phlebotomes, puces, tiques : tous les anti parasites ! "
 
 author: "marie"
-tags: ['santé' ]
+tags: ['santé', 'bien-être' ]
 date: 2017-04-23
 categories: ["santé"]
 thumbnail: "/images/actualites/antiprasite.png"
