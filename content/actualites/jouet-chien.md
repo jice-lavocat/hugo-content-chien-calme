@@ -4,7 +4,7 @@ title: " Comment bien choisir un jouet pour chien ? "
 author: "marie"
 tags: ['comportement' ]
 date: 2016-08-09
-categories: ["comportement"]
+categories: ["comportement", "activite_appartement"]
 thumbnail: "/images/actualites/Jouets pour chiens.jpg"
 Description: " Nos amis à 4 pattes ne peuvent pas lire, jouer aux échecs ni chasser les pokemon pour se distraire. Or ils ont tout autant besoin de jouer que les humains. Rester inactif est tout simplement impensable, même pour un chien senior ! Jouer est nécessaire pour se distraire, pour se détendre, pour augmenter concentration et intelligence et pour maintenir aussi les neurones bien actifs.  "
 ---
