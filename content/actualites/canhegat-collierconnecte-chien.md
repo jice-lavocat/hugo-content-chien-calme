@@ -2,7 +2,7 @@
 title: " Captez l'activité de votre chien, retrouvez-le quand il fugue : un clic, un boitier   "
 
 author: "marie"
-tags: ['comportement' ]
+tags: ['comportement','santé' ]
 date: 2017-10-02
 categories: ["education"]
 thumbnail: "/images/actualites/canhegat-thumb.jpg"
