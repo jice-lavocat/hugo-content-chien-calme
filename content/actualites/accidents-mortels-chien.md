@@ -2,7 +2,7 @@
 title: "Les 10 principales causes de mort accidentelle chez les chiens : comment les prévenir ?   "
 
 author: "marie"
-tags: ['comportement' ]
+tags: ['comportement', 'santé' ]
 date: 2017-05-08
 categories: ["education"]
 thumbnail: "/images/actualites/chien-fugue.jpg"
