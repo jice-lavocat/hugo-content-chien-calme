@@ -3,7 +3,7 @@
 title: "Acuponcture animale : une thérapie qui prend de l'ampleur"
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['anxiété', 'santé' ]
 date: 2014-11-15
 categories: [acuponcture]
 thumbnail: "/images/actualites/acudog.jpg"
