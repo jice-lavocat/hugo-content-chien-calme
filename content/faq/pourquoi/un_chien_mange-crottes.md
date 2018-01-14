@@ -19,7 +19,7 @@ Après cet âge, voici les raisons explquant la coprophagie. <b>Il faut quand m�
 <h2> Raisons négatives </h2>
 
 <ul> <li> <b>Le chien mange ses propres excréments : sa nourriture ne lui convient pas</b>. Il a des problémes de digestion. Voyez avec le vétérinaire et changez lui ses aliments </li>
-<li> Il est anxieux, en stress, veut attirer l'attention sur lui. Il s'ennuie. Il vit dans un endroit insalubre </li>
+<li> Il est <a href= http://www.chien-calme.com/actualites/chien-caca/' target="_blank" > anxieux, en stress,</a> veut attirer l'attention sur lui. Il s'ennuie. Il vit dans un endroit insalubre </li>
  <li> Le chien mange ses crottes dans la maison pour ne pas se faire punir. Dans ce cas, réapprenez lui à être propre </li>
  </ul>
 
