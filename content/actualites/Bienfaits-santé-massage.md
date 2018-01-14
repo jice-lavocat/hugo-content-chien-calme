@@ -2,7 +2,7 @@
 title: "Massage canin : connaissez-vous ses bienfaits ?  "
 
 author: "marie"
-tags: ['anxiété' ]
+tags: ['anxiété', 'santé' ]
 date: 2016-01-31
 categories: ["massage"]
 thumbnail: "/images/actualites/massage-sante_.jpg"
