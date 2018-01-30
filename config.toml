@@ -6,6 +6,8 @@ title = "Chien Calme"
 theme = "younicorns"
 description = "Des conseils pour avoir un chien calme"
 
+enableRobotsTXT = true
+
 [params]
     #title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
 	  facebookPage = "https://www.facebook.com/chiencalme"
