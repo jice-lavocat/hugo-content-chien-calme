@@ -11,7 +11,7 @@
 {{/*        {{$thumb_url :=  printf "%s" .Params.thumbnail}}
 {{/*        {{$thumb_url}}
 {{/*     {{ else }}
-{{/*        {{$thumb_url :=  (delimit (slice "http://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}
+{{/*        {{$thumb_url :=  (delimit (slice "https://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}
 {{/*        {{$thumb_url}}
 {{/*     {{ end }}
 {{/*
@@ -19,4 +19,4 @@
 {{/* 'Chomp' is needed to remove the trailing newline (automatically added by sublime)
 {{/*
 {{/* --- Function begins after this ending comment  ---
-*/}}{{$baseurlstr := printf "%s" .Site.BaseURL}}{{ if in ($baseurlstr) ("http://localhost:1313")}}{{.Params.thumbnail}}{{ else }}{{$thumb_url :=  (delimit (slice "http://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}{{$thumb_url}}{{ end }}
+*/}}{{$baseurlstr := printf "%s" .Site.BaseURL}}{{ if in ($baseurlstr) ("http://localhost:1313")}}{{.Params.thumbnail}}{{ else }}{{$thumb_url :=  (delimit (slice "https://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}{{$thumb_url}}{{ end }}
