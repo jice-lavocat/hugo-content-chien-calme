@@ -54,7 +54,3 @@ Vous voilà prêt à recevoir votre nouveau bébé.
 N’oubliez pas que les <b> régles de socialisation se mettent en place dés le début de sa vie</b> chez vous. Munissez vous de patience : votre chiot ne sera peut-être pas propre tout de suite..Il faut du temps et il faut rester constant et calme. Tout se joue en début de vie...
 
  Enfin pensez à sa santé. Un animal peut vite coûter cher...Assurez-le, les <a href=http://www.chien-calme.com/assurance/ target=_"blank" > mutuelles </a> pullulent comparez les. Il y en aura une forcément pour vous !
-
-
-
-
