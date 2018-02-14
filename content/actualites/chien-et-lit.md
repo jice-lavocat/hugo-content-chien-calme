@@ -29,7 +29,7 @@ Des stat pour commencer sur les pourcentages de maitres qui partagent leur lit a
 
 
 
-## État des lieux ; la partage du lit avec son chien  ##
+## État des lieux : le partage du lit avec son chien  ##
 Un récent sondage aux US, mais il y a fort à parier que c'est très proche chez nous,  a révélé que près de la <b >moitié des humains à chiens </b> laissent dormir leurs petits protégés avec eux.
 Quel étonnement donc de voir que, par voie de conséquence, une moitié quand même ne dort pas avec son animal ! Une moitié qui ignore le plaisir extrême de masser son chien, de caresser une fourrure la nuit et d'avoir bien chaud ( c'est plus agréable en hiver, certes ). Bien sûr, le problème suivant peut se présenter : être obligé d'acquérir un lit king size pour accueillir, en plus de vous, vos 5 bouviers bernois et votre St Bernard !
 
