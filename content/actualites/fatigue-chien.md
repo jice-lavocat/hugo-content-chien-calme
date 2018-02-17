@@ -13,7 +13,7 @@ Description: "Si le chien est moins sensible que l'homme psychologiquement aux c
 Si le chien est moins sensible que l'homme psychologiquement aux changements de saison, il n'en reste pas moins que son état peut se modifier au fil du temps: quel regard porter sur un **chien fatigué** ? Il est important en effet pour le maître de comprendre le langage corporel canin et les **signaux d'alerte** et ne jamais perdre de vue que toutes les maladies qui nous touchent les concernent eux aussi.
 
 
-<p align="center"><img src= "/images/actualites/grosse-fatigue.jpg"></p>
+<p align="center"><img src= "/images/actualites/grosse-fatigue.jpg">"class="img-responsive"></p>
 
 
 ## I ) Fatigue canine ponctuelle ##

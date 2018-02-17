@@ -12,16 +12,12 @@ summary: "Les chiens communiquent aussi bien avec leurs congénères qu'avec les
 
 Les chiens communiquent aussi bien avec leurs congénères qu'avec les humains et ont donc des mimiques spécifiques pour exprimer tout à tour fatigue, joie, angoisse....Il est primordial de savoir reconnaître ces signes et surtout les **signaux d'alarme**, destinés à nous faire prendre conscience d'un problème ou danger.
 
+<p align="center"><img src="/images/actualites/signaux-2.jpg"class="img-responsive"></p>
 
-<p align="center">
-    <img src= "/images/actualites/signaux-2.jpg">
-    <p align="right">
-        Dessinateur :
-        <a href="http://www.doggiedrawings.net" target="_blank">
-            Lili Chin
-        </a>
-    </p>
-</p>
+<p><a href="http://www.doggiedrawings.net" target="_blank">
+            Lili Chin </a></p>
+
+
 
 
 
