@@ -1,0 +1,22 @@
+{{/*
+{{/* Here is how we fetch the image:
+{{/* First we compare the base url and check if it contains localhost
+{{/* Beware, you need to turn the param into a string for a comparison
+{{/* Then you need to concat cloudinary url with the one from your local source
+{{/* (delimit (slice "foo" "bar") ", ") -> Concat chain: "foo, bar"
+{{/* (trim "foo/" "/\-") -> Trim start/end char in trimset: "foo"
+{{/*
+{{/*    {{$baseurlstr := printf "%s" .Site.BaseURL}}
+{{/*    {{ if in ($baseurlstr) ("http://localhost:1313")}}
+{{/*        {{$thumb_url :=  printf "%s" .Params.thumbnail}}
+{{/*        {{$thumb_url}}
+{{/*     {{ else }}
+{{/*        {{$thumb_url :=  (delimit (slice "https://res.cloudinary.com/chiencalme/image/fetch/w_400,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}
+{{/*        {{$thumb_url}}
+{{/*     {{ end }}
+{{/*
+{{/* Finally, the function is called in the frontend via partials
+{{/* 'Chomp' is needed to remove the trailing newline (automatically added by sublime)
+{{/*
+{{/* --- Function begins after this ending comment  ---
+*/}}{{$baseurlstr := printf "%s" .Site.BaseURL}}{{ if in ($baseurlstr) ("http://localhost:1313")}}{{.Params.thumbnail}}{{ else }}{{$thumb_url :=  (delimit (slice "https://res.cloudinary.com/chiencalme/image/fetch/w_750,q_auto,f_auto/" (trim ($baseurlstr) "/") .Params.thumbnail ) "")}}{{$thumb_url}}{{ end }}

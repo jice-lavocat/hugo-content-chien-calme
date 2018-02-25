@@ -10,7 +10,7 @@
 </div>
 {{ else if .Params.thumbnail }}
 <div class="post-type post-img">
-    <a href="#"><img src="{{.Params.thumbnail}}" class="img-responsive" alt="image post" /></a>
+    <a href="#"><img src="{{ partial "thumb_cloudinary_large_teaser.html" . | chomp}}" class="img-responsive" alt="image post" /></a>
 </div>
 {{ end}}
 

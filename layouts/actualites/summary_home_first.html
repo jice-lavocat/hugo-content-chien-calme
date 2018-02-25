@@ -1,0 +1,54 @@
+    {{ $collection := .Params.collection}}
+    {{ $tags := .Params.tags}}
+    {{ $categories := .Params.categories}}
+    {{ $author := .Params.author}}
+    {{ $comparion := .Params.UniqueID}}
+
+    <article class="post">
+      <div class="post-type post-img"> <a href="{{ .Permalink }}"><img src="{{ partial "thumb_cloudinary_large_teaser.html" . | chomp}}" class="img-responsive" alt="{{ .Title}}" title="{{ .Title}}" /></a> </div>
+      <div class="author-info">
+        <ul class="list-inline">
+          {{ range where .Site.Pages "Section" "auteurs"}}
+          {{ if eq $author .Params.author }}
+          <li class="author">
+            {{ .Render "summary"}}
+        </li>
+        {{ end }}
+        {{ end }}
+        {{ if .Params.categories }}
+        <li>
+            <div class="icon-box"><i class="fa fa-calendar"></i></div>
+            <div class="info">
+                <p>Posté le :</p>
+                <strong><script>document.write(moment({{ .Date }}).locale('fr').format('Do MMMM YYYY'));</script></strong></div>
+            </li>
+            {{ end }}
+            {{ if not .Params.noread }}
+            <li>
+             <div class="icon-box"><i class="fa fa-clock-o "></i></div>
+             <div class="info">
+                 <p>Lecture en :</p>
+                 <strong>{{.ReadingTime}} min</strong></div>
+             </li>
+             {{ end }}
+
+
+         </ul>
+     </div>
+     <div class="caption">
+        <h3><a href="{{ .Permalink }}">{{ .Title}}</a></h3>
+        <p> {{ .Summary }}</p>
+
+        <div class="post-category">
+            <a href="#"><span>&nbsp;</span>{{ if .Params.categories }}{{ range $key, $value := .Params.categories }} {{$value}} {{end}}{{end}}</a>
+        </div>
+        <ul class="list-inline tags">
+          <ul class="list-inline tags">
+            {{ range $key, $value := .Params.tags }}
+                <li><a href="#">{{$value}}</a></li>
+            {{ end }}
+          </ul>
+        </ul>
+      <a class="btn btn-default btn-lg" href="{{ .Permalink }}" role="button">Lire la suite</a> </div>
+  </article>
+
