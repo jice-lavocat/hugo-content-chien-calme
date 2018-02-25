@@ -19,7 +19,12 @@ Le prix moyen d'une assurance varie de moins de 10 euros à 30 euros par mois, s
 
 Les frais de santé de nos animaux, tout comme les nôtres, sont remboursés en partie par les assurances ou mutuelles santé. Que vous possédiez un ou plusieurs chiens, un chat, des rongeurs ou des oiseaux, il existe des organismes dont le but est de vous aider à couvrir les frais engagés chez votre vétérinaire. L’assurance peut être complétée par une assurance responsabilité civile si nécessaire.
 
-En pratique, ces entreprises vous remboursent à partir d’une <b>certaine franchise annuelle</b>, dont le montant varie fortement. Il dépend des <b>formules choisies</b> ( basique, intermédiaire...)
+En pratique, ces entreprises vous remboursent à partir d’une <b>certaine franchise annuelle</b>, dont le montant varie fortement. Il dépend des <b>formules choisies</b> ( basique, intermédiaire...).
+
+<div class="text-center">
+  <a class="btn btn-default btn-lg" href="/mutuelle-comparateur/">Comparer les assurances pour animaux</a>
+</div>
+<div><p> &nbsp;</p></div>
 
 De plus, <b>tous les frais engagés ne sont pas remboursés.</b> Certaines formules ( celles de base en général, moins cher à l'année ) vont par exemple exclure les vaccins de cette couverture, les stérilisations...Certaines maladies héréditaires sont aussi exclues.
 
@@ -50,16 +55,12 @@ Nous ne pouvons mettre en avant une offre par rapport à une autre, car chacune 
 
 Chien-Calme a établi un partenariat avec un site de comparateur d’assurances. Vous remplissez le formulaire. Vous recevez plusieurs devis. Votre choix sera ainsi facilité ! Vous trouverez plus vite l'assurance qui convient le mieux à votre loulou.
 
-### Comparez les assurances pour chiens
+
+<div class="text-center">
+  <a class="btn btn-default btn-lg" href="/mutuelle-comparateur/">Comparateur d'assurance pour animaux</a>
+</div>
 
 
-<!-- DEBUT Marque blanche MH -->
-<script src="https://www.lecomparateurassurance.com/Scripts/00_Master/marqueBlanche.aspx" type="text/javascript" ></script>
-<div id="erreurLCA"></div>
-<div id="divLCA"><iframe id="FrnLCA" frameborder="0" scrolling="no"></iframe></div>
-<script type="text/javascript">
-       CreateFrame("Chien-calme.com");
-</script>
 
 
 ## Quels sont les éléments à fournir ?
