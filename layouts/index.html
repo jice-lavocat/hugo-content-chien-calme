@@ -19,10 +19,15 @@
 			    <div class="row">
 			      <div class="col-md-8 col-lg-8">
 
+			      	{{ range first 1 (where .Data.Pages.ByDate.Reverse "Section" "actualites") }}
+					  {{ .Render "summary_home_first" }}
+					{{ end }}
+
+					{{ $paginator := .Paginate (after 1 (where .Data.Pages.ByDate.Reverse "Section" "actualites")) 5 }}
 
 			        {{ range .Paginator.Pages }}
 						    {{ .Render "summary_home"}}
-						{{ end }}
+					{{ end }}
 
 			        <div class="clearfix"></div>
 			      </div>
