@@ -13185,6 +13185,12 @@ img.mfp-img {
 }
 
 
+.last_section h3{
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
 #divLCA{
   max-width: 700px;
   margin: 0 auto;
