@@ -13183,3 +13183,10 @@ img.mfp-img {
   border-right: 1px solid #fff;
   margin-right: 11px;
 }
+
+
+#divLCA{
+  max-width: 700px;
+  margin: 0 auto;
+  opacity: 0.93;
+}
