@@ -22,7 +22,7 @@ Les frais de santé de nos animaux, tout comme les nôtres, sont remboursés en 
 En pratique, ces entreprises vous remboursent à partir d’une <b>certaine franchise annuelle</b>, dont le montant varie fortement. Il dépend des <b>formules choisies</b> ( basique, intermédiaire...).
 
 <div class="text-center">
-  <a class="btn btn-default btn-lg" href="/mutuelle-comparateur/">Comparer les assurances pour animaux</a>
+  <a class="btn btn-default btn-lg" href="/comparateur_mutuelle/">Comparer les assurances pour animaux</a>
 </div>
 <div><p> &nbsp;</p></div>
 
@@ -57,7 +57,7 @@ Chien-Calme a établi un partenariat avec un site de comparateur d’assurances.
 
 
 <div class="text-center">
-  <a class="btn btn-default btn-lg" href="/mutuelle-comparateur/">Comparateur d'assurance pour animaux</a>
+  <a class="btn btn-default btn-lg" href="/comparateur_mutuelle/">Comparateur d'assurance pour animaux</a>
 </div>
 
 
