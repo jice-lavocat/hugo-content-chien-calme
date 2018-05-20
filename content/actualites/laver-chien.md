@@ -26,14 +26,13 @@ De plus, nombreux sont les chiens qui détestent la douche ! Ne traumatisez pas 
 
 ## Évitez la lutte
 
-C'est l'accident le plus courant. Il peut être vraiment <b> fortuit ou prémédité par vos voisins par exemple qui détestent que votre chien vienne dans leur jardin ou aboie trop. </b>
-Pensez donc à bien <b>éduquer votre loulou et à lui apprendre à refuser la nourriture venant des autres</b> . Le refus d'appâts peut s'apprendre en club ou vous pouvez le faire vous-même mais c'est primordial pour la survie de votre chien. Contrôlez aussi en promenade ce qu'il peut ingérer...Et faites le lâcher quand vous ne savez pas ce qu'il mange.
+Ne forcez jamais votre chien pour lui donner un bain. Ne baignez pas un chien avec des lésions cutanées sans vous renseigner avant sur le produit à utiliser !
 
-Sinon les <b>produits toxiques doivent être entreposés dans un endroit fermé</b> pour que votre animal ne puisse les atteindre. Faites de même avec les médicaments ou les <b>aliments non compatibles avec la santé de votre chien, comme le chocolat, le raisin...</b>
+<b>Acclimatez le graduellement</b> au concept d'un bain en le plaçant dans la baignoire quand il est sec et en lui donnant une friandise s'il se calme. Si ça bloque avant l'entrée dans la baignoire, même topo, essayez déjà de l’amener vers la salle de bain !  Cette étape a été la plus longue avec mon petit compagnon qui voyait tout de suite où je voulais en venir !
 
-Ne plantez pas non plus de <b>plantes toxiques</b> dans votre jardin ( ou renoncez à des plantes en pot )comme le muguet, le laurier, le gui, le ficus, le philodendron..En cas d'ingestion accidentelle appelez votre vétérinaire  ou le centre anti-poison.
+Répétez le processus plusieurs fois jusqu'à ce que votre chien soit complètement à l'aise assis ou debout dans la baignoire. ( Mettez un anti-dérapant au fond, les griffes glissent ) Sinon pensez à proposer un <b> bac adapté à la taille </b> de votre ami à 4 pattes. Il sera peut-être plus à l'aise dans une large cuvette.
 
-<b>Ne donnez aucun médicament et ne forcez pas votre chien à boire en attendant un diagnostic !</b>
+Ensuite, suivez la même procédure en ajoutant un peu d'eau chaude au fond de la baignoire. Continuez à caresser et à offrir des friandises lorsque votre chien est calme. Vous voulez que l'heure du bain devienne amusante pour votre chien ? Soyez patient !
 
 
 
