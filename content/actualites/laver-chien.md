@@ -38,79 +38,95 @@ Ensuite, suivez la même procédure en ajoutant un peu d'eau chaude au fond de l
 
 
 
-## Noyade ##
+## A quelle fréquence laver son chien ?
 
-Oui votre chien sait nager mais il ne peut pas sortir de la piscine ou il est tombé ! Il ne <b>pourra pas nager pendant des heures</b> . Toutes les races ne sont d'ailleurs pas performantes en natation.
+Pour les poils longs, on peut envisager un lavage tous les mois ou tous les deux mois. Attention si vous lavez votre animal plus souvent, utilisez un shampoing sans savon !
 
-Mettez lui un <b>gilet si vous allez sur l'eau avec lui. Clôturez la piscine, surveillez le quand il nage et sortez le de l'eau si il semble fatigué !</b>
+Il ne faut pas oublier d'abord que les chiens se <b>toilettent eux-mêmes pour faciliter la croissance des follicules pileux et soutenir la santé de la peau.</b>
 
+Cependant, un bain est nécessaire pour compléter le processus. Mais baigner trop souvent peut également nuire à votre animal de compagnie. Cela  peut irriter la peau, endommager les follicules pileux et augmenter le risque d'infections bactériennes ou fongiques.
 
-<p align="center"><img src="/images/actualites/gilet-chien.jpg" class="img-responsive"></p>
+La fréquence de lavage est donc relative au type de chien et à son mode de vie. Si votre animal reste en intérieur, inutile de le shampooiner tous les jours !
+Si votre golden rentre couvert de boue, faites le sécher en extérieur et brossez son pelage et finissez par un bon petit bain !
 
-## Météo ##
-Quand les températures sont extrêmes vous ne pouvez sortir votre chien sans précaution.
-
-En été ou en hiver, <b> hors de question de laisser votre animal enfermé dans la voiture !</b> Couvrez le en hiver et hydratez le en été. Donnez lui plus à manger en hiver. Ne sortez qu'avec précaution en été ou hiver, les chiots, les seniors ou les chiens sans "poils", type boxer, doberman...Évitez les heures les plus froides et les plus <a href="http://www.chien-calme.com/actualites/chien-et-chaleur/" target=_"blank" > chaudes </a>
-
+<p align="center"><img src="/images/actualites/dog_bain.jpg" class="img-responsive"></p>
 
 
 
-## Touché par une voiture  ##
+## Comment baigner son chien ? Quel produit ?
 
-Malheureusement, cela arrive souvent. Les chiens <b>fuguent après une femelle en chaleur, courent après un chat et là, ils ne sont plus du tout attentifs à leur environnement.</b>
+Il faut d'abord commencer par un bon <b>brossage pour éliminer tout dépôt et démêler les poils. </b>Évidemment ne tirez pas pour enlever les nœuds !
 
-Les conducteurs ne sont pas non plus peut-être assez vigilants ! Vous devez être plus diligent que jamais et garder votre chien près de vous et en laisse quand vous le sortez. Le fait de garder votre chien en laisse peut empêcher cette tragédie.
+Mettez éventuellement des <b>petites boules de coton dans les oreilles,</b>  sans enfoncer bien sûr, pour que l'eau n'entre pas !
 
-<b>Apprenez lui aussi le "halte"" reste" pour l'arrêter net en cas de problème.</b> Il faut souvent vous-même anticiper ces départs non souhaités. Observez bien le comportement de votre animal et vous remarquerez si il vous semble plus "frénétiques" sur les odeurs que d'habitude.
-
-
-<p align="center"><img src="/images/actualites/comportamento-predateur.jpg" class="img-responsive"></p>
+Ensuite, il faut  commencer par mouiller le corps à l'eau tiède et <b>pas froide </b>et faire la tête tout à fait à la fin ! Pas de shampoing non plus dans les yeux, les chiens détestent ! (Nous aussi d'ailleurs ). Faites le museau au gant de toilette !
 
 
-## Électrocution ##
+<p align="center"><img src="/images/actualites/coprslavage.chien.jpg" class="img-responsive"></p>
 
 
-C'est ce qui est le plus souvent observé chez les chiots quand ils sont en phase " je mâche tout" mais cela peut aussi bien arriver à n'importe quel chien plus âgé.
+ Pas de produit humain ! Il faut choisir aussi un shampoing au <b>PH alcalin.</b> Contrairement aux humains les chiens ont une peau à 7 et non pas à 5 ! Si le produit est mal adapté, vous allez provoquer des problèmes de peau.
 
-Vérifiez donc bien que les fils électriques ne sont pas facilement accessibles et ne laissez pas votre jeune chien sans surveillance. C'est comme avec les bébés humains ! En extérieur aussi faites bien attention à des fils dénudés...
+Il est préférable de demander son avis à un spécialiste si votre animal est sensible. Il peut être allergique aux composants de produits conçus pour les animaux et avoir des réactions cutanées fortes ! Il existe aussi des shampoings spécifiques pour traiter les parasités, pour les peaux sensibles, pour les démangeaisons...Dans tous les cas, rincer soigneusement l'animal !
 
-## Étouffement ##
+Vous pouvez aussi utiliser des conditionners pour chiens, à rincer bien sûr ensuite correctement !
 
-C'est l'une des causes de décès les plus fréquentes observées par les vétérinaires.
- Les chiens aiment mâcher et avaler des choses qu'ils ne devraient pas..<b> Enlevez les os qui sont assez petits pour permettre un risque d'étouffement.</b>
-  <b>Assurez-vous d'acheter des jouets de la taille appropriée. </b> En cas de doute, préférez toujours la plus grande taille que votre chien ne pourra avaler. Faites attention aussi aux <b>chaussettes  et tout ce qui peut se coincer dans la trachée!</b>
+En cas d'ingestion si on note des vomissements, que le chien bave...il faut recommencer à bien rincer l'animal et demander conseil au vétérinaire !
 
-<h2>  Suffocation </h2>
 
-  Habituellement, la suffocation se produit si votre chien met sa tête dans un <b>sac en plastique</b> par exemple. ( Un sac qui a contenu de la nourriture et votre chien veut récupérer les résidus au fond ).
 
-   <b>Détruisez systématiquement tous les contenants de nourriture qui pourraient conduire à cet étouffement !</b>
 
- <h2>  Animaux sauvages </h2>
+## Séchage
 
- Indépendamment de la taille de votre chien, les animaux sauvages peuvent signifier la mort. <b>Les petits chiens peuvent être emportés par les faucons, tandis que les loups, les sangliers par exemple peuvent tuer même un chien de grande race. </b>
+En hiver, il est préférable de sécher votre animal dans une <b>serviette.</b> Les seniors et les chiots eux doivent toujours être séchés pour éviter rhumatismes et problèmes de santé. Ils sont fragiles !
 
- Si vous vivez ou voyagez dans une région où les animaux sauvages sont nombreux, assurez-vous de garder votre animal de compagnie dans votre champ visuel, surtout au crépuscule et à l'aube, quand ils sont plus susceptibles  de chasser.
+Certains chiens acceptent un séchage au séche-cheveu..Pas tous, donc ne les forcez pas !
 
- Mettre une <b>clochette sur votre chien peut parfois vous aider à les repérer et peut aussi éloigner les animaux sauvages. </b>
+Même si votre loulou est bien sec, il va bien entendu se rouler sur le tapis ou bien dans la boue si le lavage était dans le jardin ! Choisissez donc un endroit adapté..Et loin d'une surface boueuse !
 
-<p align="center"><img src="/images/actualites/sanglier-chien-.jpg" class="img-responsive"></p>
+Une fois bien sec, vous pouvez le brosser !
 
-<h2> Saut trop haut </h2>
 
-Tout comme les enfants, vous devez surveiller votre chien quand il est près d'une <b>fenêtre ouverte, près d'un pont, d'une muraille.</b>..Votre chien peut tomber accidentellement ou sauter pour chasser un autre animal, ou aussi pour venir vous rejoindre.
 
-Cela m'est arrivé avec mon golden quand il était bébé. Il a sauté de la terrasse d'une maison car j'étais descendue pour récupérer quelque chose dans ma voiture dans la rue.
 
-Si les barres de votre terrasse sont suffisamment larges pour que votre chien puisse passer, ajoutez plus de barres ou mettez un treillis pour éviter qu'il ne traverse.
+## Retirer pin, goudron..
 
-<p align="center"><img src="/images/actualites/chienetsaut.jpg" class="img-responsive"></p>
+Il faut frotter avec de l'<b>huile végétale, de la vaseline</b> et laisser reposer une journée. Rincer avec de l'eau savonneuse.
 
-<h2> Complications d'anesthésie </h2>
-Cela arrive plus souvent que la plupart des vétérinaires le disent.
+## Retirer les dépôts des yeux
 
-Certaines races, comme les colleys et les bergers Shetland, sont plus sujettes à cela que d'autres.
+Certains chiens ont les yeux qui coulent et font des traces colorées. Pour retirer ces dépôts, on peut utiliser des huiles bébé ou du lait pour le visage. Laisser poser et retirer. Attention à ne pas mettre de produit dans l’œil du chien !
 
-C'est aussi le cas si votre animal est âgé ou malade.Une prise de sang peut réduire le risque. Elle vous indiquera si l'anesthésie comporte ou non de gros risques pour votre compagnon.
+<h2>  Démêler les poils </h2>
 
-Ne tombez pas pour autant dans la paranoïa la plus complète quand vous laissez votre animal ou quand vous le promenez . Mais gardez en tête qu'une bonne éducation et votre vigilance vont lui éviter bien des problèmes.
+Un peu d'<a href="https://www.chien-calme.com/actualites/huileolive-santechien/" target ="_blank" > huile d'olive </a>va faciliter la tâche ! Essayez ensuite avec une brosse de séparer les poils collés.
+
+
+
+ <h2>  Nettoyer les oreilles </h2>
+
+Les animaux à oreilles tombantes, qui se baignent souvent, doivent avoir un nettoyage par semaine pour éviter tout problème ou une infection.
+
+Imprégnez du coton avec du vinaigre blanc et nettoyez <b>sans aller au fond du conduit auditif.</b>
+
+ Changez de coton pour chaque oreille. Sinon, vous avez des produits efficaces pour remplacer le vinaigre blanc.
+
+
+<p align="center"><img src="/images/actualites/Nettoyer-les-oreilles-de-votre-chien.jpg" class="img-responsive"></p>
+
+
+
+<h2> Limer les ongles </h2>
+
+Le papier à poncer est super efficace et évite le problème de la coupe.
+
+Prenez un morceau de papier abrasif et enroulez-le autour de votre index. Grattez délicatement et cessez dés que votre loulou montre des signes d’énervement..Recommencez et félicitez le si il est sage? Une petite récompense clôturera les soins !
+
+Voilà, grâce à ces quelques conseils votre loulou aura un poil brillant, plus de parasites. Il sentira bon !
+
+
+Certains d'entre vous lui mettront même du parfum...Certes il est produit pour masquer l'odeur parfois lourde de notre loulou...mais c'est plutôt pour vous faire plaisir à vous même... En effet, le chien sent le monde pour le comprendre...Il sent le café le matin et donc attend aussi sa gamelle ( si il mange le matin ) Le chien sent aussi le <a href="_https://www.sciencesetavenir.fr/animaux/chiens/chiens-peuvent-ils-sentir-le-temps-qui-passe_107599" target ="_blank" > temps qui passe </a>.
+Avec ou sans parfum !
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLKz9_fsTu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
