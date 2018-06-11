@@ -2,9 +2,8 @@
 title: " Comment laver son chien ? Avec quoi retirer pin, goudron...    "
 
 author: "marie"
-tags: ['comportement', 'santé' ]
+tags: ["hygiène" ]
 date: 2018-05-20
-categories: ["hygiéne"]
 thumbnail: "/images/actualites/chow-chow-bath.jpg"
 Description: "Selon la race de votre compagnon, il peut être nécessaire de l'amener chez un professionnel pour entretenir son pelage.
               Cela étant, vous pouvez vous même, sauf cas dramatique, bain de boue prolongé, cambouis, prendre vous même en charge les soins corporels de votre loulou. Et même dans des cas presque désespérés, vous pouvez rendre une apparence normale à votre petit poilu.  "

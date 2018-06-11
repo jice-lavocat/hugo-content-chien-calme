@@ -2,7 +2,7 @@
 title: " J'attends mon premier chien "
 
 author: "marie"
-tags: ['comportement' ]
+tags: ['education' ]
 date: 2018-04-13
 categories: ["education"]
 thumbnail: "/images/actualites/premierchien.jpg"

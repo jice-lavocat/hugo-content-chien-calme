@@ -2,7 +2,7 @@
 title: "Mon chien a mauvaise haleine : pourquoi ? Comment faire?  "
 
 author: "marie"
-tags: ['santé' ]
+tags: ['dents', 'hygiène' ]
 date: 2017-10-20
 categories: ["santé"]
 thumbnail: "/images/actualites/mauvaise haleine du chien.jpg"

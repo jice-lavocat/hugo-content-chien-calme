@@ -2,7 +2,7 @@
 title: " Comment les étiquettes de nourriture nous donnent-elles des indications fausses?   "
 
 author: "marie"
-tags: [ 'santé' ]
+tags: [ 'alimentation' ]
 date: 2018-06-06
 categories: ["alimentation"]
 thumbnail: "/images/actualites/nourriture-chien.jpg"
