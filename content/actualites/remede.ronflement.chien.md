@@ -4,7 +4,7 @@ title: " Mon chien ronfle : est-ce normal ? Quels remèdes ?  "
 author: "marie"
 tags: ['santé' ]
 date: 2017-08-08
-categories: ["santé"]
+categories: ["soins"]
 thumbnail: "/images/actualites/chienquironfle.jpg"
 Description: " Qui ne s'est pas réveillé en sursaut la nuit, alerté par des ronflements sonores ? Mais c'est notre jolie Lola, petit bouledogue français qui émet ces bruits en dormant ? C'est bien ça et c'est d'ailleurs normal car Lola, étant brachycéphale, c'est à dire avec le museau aplati, est concernée par les ronflements.  "
 
