@@ -35,7 +35,7 @@ Gardez les objets délicats en <b>hauteur</b> ou hors de vue entièrement. Mais 
 
 
 
-## Trouvez des alternatives au marchage !
+## Trouvez des alternatives au machage !
 
 Le chien et encore plus le chiot adorent mâcher ! Pour empêcher ces comportements les plus élémentaires envers chaussures et canapé, trouvez des alternatives !
 
