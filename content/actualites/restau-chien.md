@@ -2,11 +2,12 @@
 title: " Comment transformer un repas au restaurant avec votre chien en cauchemar ! "
 
 author: "marie"
-tags: [ 'comportement', 'en ville', 'outdoor ]
+tags: [ 'comportement', 'en ville', 'outdoor' ]
 date: 2018-07-28
 categories: [ "en ville"]
 thumbnail: "/images/actualites/12104_content_Bull-and-Bear-Dog-Patio.jpg"
-Description: "C'est l'été et les vacances et bien sûr votre loulou vous accompagne. Après une bonne journée de plage ou de rando, pas envie de faire la cuisine. Vous décidez donc d'aller au restaurant avec Noxya ou Jango.   "
+Description: "C'est l'été et les vacances et bien sûr votre loulou vous accompagne. Après une bonne journée de plage ou de rando, pas envie de faire la cuisine. Vous décidez donc d'aller au restaurant avec Noxya ou Jango. "
+
 ---
 C'est l'été et les vacances et bien sûr votre loulou vous accompagne. Après une bonne journée de <a href=https://www.chien-calme.com/actualites/dangers-diarrhee-plage-chien" target=_"blank" > plage </a> ou de rando, pas envie de faire la cuisine. Vous décidez donc d'aller au restaurant avec Noxya ou Jango.
 
