@@ -96,7 +96,6 @@ Ne contiennent pas le <b>niveau élevé de protéines d'origine animale que les 
 
 En conclusion, l'humide est meilleur pour la santé que les croquettes. Vous pouvez alors, pour limiter le coût, mélanger croquettes humidifiées et humide. L'important est que le taux de glucides des deux soit correct et que la consistance soit équivalente. En effet, le <b>chien digère plus vite l'humide que les croquettes. </b>
 
-<p align="center"><img src="/images/actualites/Lab-and-Fish.jpg" class="img-responsive"></p>
+<p align="center"><img src="/images/actualites/humideetcroquettess.jpg" class="img-responsive"></p>
 
 
-Vous pouvez également vous procurer des compléments alimentaires sur le marché. Demandez conseil à votre vétérinaire.
